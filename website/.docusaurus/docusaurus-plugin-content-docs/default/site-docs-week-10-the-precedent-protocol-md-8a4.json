@@ -1,0 +1,30 @@
+{
+  "id": "week10-the-precedent-protocol",
+  "title": "Week 10: How Past Decisions Shape Future Ones",
+  "description": "Students act as judges for escalating edge cases, discovering how early interpretations lock in future outcomes.",
+  "source": "@site/docs/week10-the-precedent-protocol.md",
+  "sourceDirName": ".",
+  "slug": "/week10-the-precedent-protocol",
+  "permalink": "/legal_literacy_for_kids/docs/week10-the-precedent-protocol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week10-the-precedent-protocol.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "Week 10: How Past Decisions Shape Future Ones",
+    "title": "Week 10: How Past Decisions Shape Future Ones",
+    "description": "Students act as judges for escalating edge cases, discovering how early interpretations lock in future outcomes."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 9: Finding and Closing the Edge Cases",
+    "permalink": "/legal_literacy_for_kids/docs/week09-loopholes"
+  },
+  "next": {
+    "title": "Week 11: What the System Cannot Do to You",
+    "permalink": "/legal_literacy_for_kids/docs/week11-rights-as-firewalls"
+  }
+}

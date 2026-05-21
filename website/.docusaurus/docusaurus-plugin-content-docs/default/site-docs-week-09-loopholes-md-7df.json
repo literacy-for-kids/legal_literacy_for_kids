@@ -1,0 +1,30 @@
+{
+  "id": "week09-loopholes",
+  "title": "Week 9: Finding and Closing the Edge Cases",
+  "description": "Students learn to identify loopholes as unintended edge cases and practice closing them.",
+  "source": "@site/docs/week09-loopholes.md",
+  "sourceDirName": ".",
+  "slug": "/week09-loopholes",
+  "permalink": "/legal_literacy_for_kids/docs/week09-loopholes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week09-loopholes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "Week 9: Finding and Closing the Edge Cases",
+    "title": "Week 9: Finding and Closing the Edge Cases",
+    "description": "Students learn to identify loopholes as unintended edge cases and practice closing them."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 8: What the Rule Says vs. What It Means",
+    "permalink": "/legal_literacy_for_kids/docs/week08-letter-vs-intent"
+  },
+  "next": {
+    "title": "Week 10: How Past Decisions Shape Future Ones",
+    "permalink": "/legal_literacy_for_kids/docs/week10-the-precedent-protocol"
+  }
+}

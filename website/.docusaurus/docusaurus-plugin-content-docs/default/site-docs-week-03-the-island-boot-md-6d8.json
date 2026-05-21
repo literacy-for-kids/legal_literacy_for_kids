@@ -1,0 +1,30 @@
+{
+  "id": "week03-the-island-boot",
+  "title": "Week 3: Drafting the First Laws of a New Society",
+  "description": "Students identify the exact moment a rule becomes structurally necessary and draft the first laws of their society.",
+  "source": "@site/docs/week03-the-island-boot.md",
+  "sourceDirName": ".",
+  "slug": "/week03-the-island-boot",
+  "permalink": "/legal_literacy_for_kids/docs/week03-the-island-boot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week03-the-island-boot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Week 3: Drafting the First Laws of a New Society",
+    "title": "Week 3: Drafting the First Laws of a New Society",
+    "description": "Students identify the exact moment a rule becomes structurally necessary and draft the first laws of their society."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 2: What Happens Without Shared Rules",
+    "permalink": "/legal_literacy_for_kids/docs/week02-the-tragedy-of-the-commons"
+  },
+  "next": {
+    "title": "Week 4: The Anatomy of an Enforceable Promise",
+    "permalink": "/legal_literacy_for_kids/docs/week04-what-is-a-contract"
+  }
+}

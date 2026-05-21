@@ -1,0 +1,30 @@
+{
+  "id": "week17-the-mock-trial",
+  "title": "Week 17: Running a Full Proceeding",
+  "description": "Students run a full mock trial, taking on roles as advocates, witnesses, and judges.",
+  "source": "@site/docs/week17-the-mock-trial.md",
+  "sourceDirName": ".",
+  "slug": "/week17-the-mock-trial",
+  "permalink": "/legal_literacy_for_kids/docs/week17-the-mock-trial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week17-the-mock-trial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17,
+    "sidebar_label": "Week 17: Running a Full Proceeding",
+    "title": "Week 17: Running a Full Proceeding",
+    "description": "Students run a full mock trial, taking on roles as advocates, witnesses, and judges."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 16: The Right to a Fair Hearing",
+    "permalink": "/legal_literacy_for_kids/docs/week16-due-process"
+  },
+  "next": {
+    "title": "Week 18: Judgment, Appeal, and What We Learned",
+    "permalink": "/legal_literacy_for_kids/docs/week18-verdict-and-reflection"
+  }
+}

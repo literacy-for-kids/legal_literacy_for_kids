@@ -1,0 +1,30 @@
+{
+  "id": "week15-how-courts-work",
+  "title": "Week 15: The Dispute Resolution System",
+  "description": "Students learn how courts function as the dispute resolution system of society.",
+  "source": "@site/docs/week15-how-courts-work.md",
+  "sourceDirName": ".",
+  "slug": "/week15-how-courts-work",
+  "permalink": "/legal_literacy_for_kids/docs/week15-how-courts-work",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week15-how-courts-work.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "sidebar_label": "Week 15: The Dispute Resolution System",
+    "title": "Week 15: The Dispute Resolution System",
+    "description": "Students learn how courts function as the dispute resolution system of society."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 14: Running Your Charter Against Real Conflicts",
+    "permalink": "/legal_literacy_for_kids/docs/week14-stress-testing"
+  },
+  "next": {
+    "title": "Week 16: The Right to a Fair Hearing",
+    "permalink": "/legal_literacy_for_kids/docs/week16-due-process"
+  }
+}

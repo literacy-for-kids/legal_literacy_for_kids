@@ -1,0 +1,30 @@
+{
+  "id": "week-optional-1-criminal-vs-civil",
+  "title": "Optional Week 1: Two Types of Law, Two Types of Cases",
+  "description": "An exploration of how criminal and civil law differ in purpose, procedure, and burden of proof.",
+  "source": "@site/docs/week-optional-1-criminal-vs-civil.md",
+  "sourceDirName": ".",
+  "slug": "/week-optional-1-criminal-vs-civil",
+  "permalink": "/legal_literacy_for_kids/docs/week-optional-1-criminal-vs-civil",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week-optional-1-criminal-vs-civil.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19,
+    "sidebar_label": "Optional Week 1: Two Types of Law, Two Types of Cases",
+    "title": "Optional Week 1: Two Types of Law, Two Types of Cases",
+    "description": "An exploration of how criminal and civil law differ in purpose, procedure, and burden of proof."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 18: Judgment, Appeal, and What We Learned",
+    "permalink": "/legal_literacy_for_kids/docs/week18-verdict-and-reflection"
+  },
+  "next": {
+    "title": "Optional Week 2: Rules Between Nations",
+    "permalink": "/legal_literacy_for_kids/docs/week-optional-2-international-law"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "week01-why-rules-exist",
+  "title": "Week 1: Starting at Zero: The Need for Law",
+  "description": "Students start at zero, exploring why laws exist and how they reduce the friction of daily survival.",
+  "source": "@site/docs/week01-why-rules-exist.md",
+  "sourceDirName": ".",
+  "slug": "/week01-why-rules-exist",
+  "permalink": "/legal_literacy_for_kids/docs/week01-why-rules-exist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week01-why-rules-exist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Week 1: Starting at Zero: The Need for Law",
+    "title": "Week 1: Starting at Zero: The Need for Law",
+    "description": "Students start at zero, exploring why laws exist and how they reduce the friction of daily survival."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/legal_literacy_for_kids/docs/intro"
+  },
+  "next": {
+    "title": "Week 2: What Happens Without Shared Rules",
+    "permalink": "/legal_literacy_for_kids/docs/week02-the-tragedy-of-the-commons"
+  }
+}

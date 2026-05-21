@@ -1,0 +1,118 @@
+{
+  "/legal_literacy_for_kids/docs-0e4": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/legal_literacy_for_kids/docs-657": {
+    "__comp": "a7bd4aaa",
+    "__props": "a5a27b2a"
+  },
+  "/legal_literacy_for_kids/docs-7a0": {
+    "__comp": "a94703ab"
+  },
+  "/legal_literacy_for_kids/docs/curriculum-overview-029": {
+    "__comp": "17896441",
+    "content": "2da9ddc8"
+  },
+  "/legal_literacy_for_kids/docs/glossary-ca4": {
+    "__comp": "17896441",
+    "content": "e747ec83"
+  },
+  "/legal_literacy_for_kids/docs/intro-6a4": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/legal_literacy_for_kids/docs/license-7b9": {
+    "__comp": "17896441",
+    "content": "ac5280f2"
+  },
+  "/legal_literacy_for_kids/docs/week-optional-1-criminal-vs-civil-1d2": {
+    "__comp": "17896441",
+    "content": "47a3b47c"
+  },
+  "/legal_literacy_for_kids/docs/week-optional-2-international-law-edb": {
+    "__comp": "17896441",
+    "content": "e3c1f069"
+  },
+  "/legal_literacy_for_kids/docs/week01-why-rules-exist-e86": {
+    "__comp": "17896441",
+    "content": "81aeea1f"
+  },
+  "/legal_literacy_for_kids/docs/week02-the-tragedy-of-the-commons-63e": {
+    "__comp": "17896441",
+    "content": "f3d23eb0"
+  },
+  "/legal_literacy_for_kids/docs/week03-the-island-boot-3f5": {
+    "__comp": "17896441",
+    "content": "6d839978"
+  },
+  "/legal_literacy_for_kids/docs/week04-what-is-a-contract-00a": {
+    "__comp": "17896441",
+    "content": "73f47ce6"
+  },
+  "/legal_literacy_for_kids/docs/week05-offer-and-acceptance-199": {
+    "__comp": "17896441",
+    "content": "2337ebe6"
+  },
+  "/legal_literacy_for_kids/docs/week06-consideration-0d6": {
+    "__comp": "17896441",
+    "content": "04e6f907"
+  },
+  "/legal_literacy_for_kids/docs/week07-the-chores-api-e47": {
+    "__comp": "17896441",
+    "content": "c6732835"
+  },
+  "/legal_literacy_for_kids/docs/week08-letter-vs-intent-566": {
+    "__comp": "17896441",
+    "content": "577782e0"
+  },
+  "/legal_literacy_for_kids/docs/week09-loopholes-53c": {
+    "__comp": "17896441",
+    "content": "7dfe3db7"
+  },
+  "/legal_literacy_for_kids/docs/week10-the-precedent-protocol-2b3": {
+    "__comp": "17896441",
+    "content": "8a400a98"
+  },
+  "/legal_literacy_for_kids/docs/week11-rights-as-firewalls-0d8": {
+    "__comp": "17896441",
+    "content": "0e4bfff0"
+  },
+  "/legal_literacy_for_kids/docs/week12-checks-and-balances-acc": {
+    "__comp": "17896441",
+    "content": "6a2f2f29"
+  },
+  "/legal_literacy_for_kids/docs/week13-the-micro-charter-fd1": {
+    "__comp": "17896441",
+    "content": "08555558"
+  },
+  "/legal_literacy_for_kids/docs/week14-stress-testing-670": {
+    "__comp": "17896441",
+    "content": "d41d8e56"
+  },
+  "/legal_literacy_for_kids/docs/week15-how-courts-work-d49": {
+    "__comp": "17896441",
+    "content": "e39ac1c3"
+  },
+  "/legal_literacy_for_kids/docs/week16-due-process-bb2": {
+    "__comp": "17896441",
+    "content": "0228c9a7"
+  },
+  "/legal_literacy_for_kids/docs/week17-the-mock-trial-3ff": {
+    "__comp": "17896441",
+    "content": "99255d24"
+  },
+  "/legal_literacy_for_kids/docs/week18-verdict-and-reflection-53e": {
+    "__comp": "17896441",
+    "content": "647ca3f2"
+  },
+  "/legal_literacy_for_kids/-b6d": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

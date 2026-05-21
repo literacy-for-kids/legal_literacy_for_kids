@@ -1,0 +1,30 @@
+{
+  "id": "week08-letter-vs-intent",
+  "title": "Week 8: What the Rule Says vs. What It Means",
+  "description": "Students explore the friction between the letter of a rule and the intent behind it.",
+  "source": "@site/docs/week08-letter-vs-intent.md",
+  "sourceDirName": ".",
+  "slug": "/week08-letter-vs-intent",
+  "permalink": "/legal_literacy_for_kids/docs/week08-letter-vs-intent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week08-letter-vs-intent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "sidebar_label": "Week 8: What the Rule Says vs. What It Means",
+    "title": "Week 8: What the Rule Says vs. What It Means",
+    "description": "Students explore the friction between the letter of a rule and the intent behind it."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 7: Writing an Airtight Agreement",
+    "permalink": "/legal_literacy_for_kids/docs/week07-the-chores-api"
+  },
+  "next": {
+    "title": "Week 9: Finding and Closing the Edge Cases",
+    "permalink": "/legal_literacy_for_kids/docs/week09-loopholes"
+  }
+}

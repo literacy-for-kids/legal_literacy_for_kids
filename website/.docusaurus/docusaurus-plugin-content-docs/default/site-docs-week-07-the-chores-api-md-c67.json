@@ -1,0 +1,30 @@
+{
+  "id": "week07-the-chores-api",
+  "title": "Week 7: Writing an Airtight Agreement",
+  "description": "Students draft an airtight contract for a household task, accounting for edge cases and breach penalties.",
+  "source": "@site/docs/week07-the-chores-api.md",
+  "sourceDirName": ".",
+  "slug": "/week07-the-chores-api",
+  "permalink": "/legal_literacy_for_kids/docs/week07-the-chores-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week07-the-chores-api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Week 7: Writing an Airtight Agreement",
+    "title": "Week 7: Writing an Airtight Agreement",
+    "description": "Students draft an airtight contract for a household task, accounting for edge cases and breach penalties."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 6: The Payload: What Makes a Promise Binding",
+    "permalink": "/legal_literacy_for_kids/docs/week06-consideration"
+  },
+  "next": {
+    "title": "Week 8: What the Rule Says vs. What It Means",
+    "permalink": "/legal_literacy_for_kids/docs/week08-letter-vs-intent"
+  }
+}

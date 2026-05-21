@@ -1,0 +1,30 @@
+{
+  "id": "week12-checks-and-balances",
+  "title": "Week 12: Distributed Power and Single Points of Failure",
+  "description": "Students learn how distributed power prevents single points of failure in governance systems.",
+  "source": "@site/docs/week12-checks-and-balances.md",
+  "sourceDirName": ".",
+  "slug": "/week12-checks-and-balances",
+  "permalink": "/legal_literacy_for_kids/docs/week12-checks-and-balances",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/literacy-for-kids/legal_literacy_for_kids/tree/main/website/docs/week12-checks-and-balances.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "sidebar_label": "Week 12: Distributed Power and Single Points of Failure",
+    "title": "Week 12: Distributed Power and Single Points of Failure",
+    "description": "Students learn how distributed power prevents single points of failure in governance systems."
+  },
+  "sidebar": "curriculumSidebar",
+  "previous": {
+    "title": "Week 11: What the System Cannot Do to You",
+    "permalink": "/legal_literacy_for_kids/docs/week11-rights-as-firewalls"
+  },
+  "next": {
+    "title": "Week 13: Writing a Foundational Document",
+    "permalink": "/legal_literacy_for_kids/docs/week13-the-micro-charter"
+  }
+}
