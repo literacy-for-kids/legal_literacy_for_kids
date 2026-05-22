@@ -132,11 +132,8 @@ Every major lesson includes a younger learner path and an older learner extensio
 | **Debugging the Code** | 8-10 | Interpretation, loopholes, ethics, and precedent |
 | **The Governance Project** | 11-14 | Rights, power, governance, the Micro-Charter, and amendments |
 | **The Justice System in Action** | 15-18 | Courts, due process, mock trial, verdict, appeal, and revision |
-
-### Optional Advanced Weeks
-
-- **Criminal vs. Civil Law** - two different legal tracks with different purposes and proof standards
-- **International Law** - rules between governments when there is no single world enforcer
+| *(Optional)* **Criminal vs. Civil Law** | Advanced | Two different legal tracks with different purposes and proof standards |
+| *(Optional)* **International Law** | Advanced | Rules between governments when there is no single world enforcer |
 
 ## Case Notes
 
