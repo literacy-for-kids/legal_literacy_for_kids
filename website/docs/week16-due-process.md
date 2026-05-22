@@ -22,9 +22,13 @@ This week, we make the case for procedure. And then we design the procedure for 
 
 :::info Facilitator Snapshot
 - The big move this week: due process is not a rule, it's a *system design principle*. It is the structural guarantee that an individual cannot be hit with a legal consequence without a fair hearing first.
-- Distinguish **procedural** due process (the right process was followed) from **substantive** due process (the outcome itself was fair). Both matter.
+- Focus on **procedural** due process: notice, hearing, evidence, response, neutral decider, written ruling. Mention **substantive due process** only as an advanced note about limits on government power in some legal systems.
 - This week's output is a written **Listening Protocol** added to the Charter — the minimum procedure a fair hearing requires. This protocol gets used in the mock trial next week.
 - Resist the temptation to debate any specific real-world political controversy here. The principle is the lesson. The applications can stay general.
+:::
+
+:::note Scope Note
+For this curriculum, due process mainly means fair procedure. Some legal systems also use the phrase "substantive due process" for harder questions about whether the government had the power to make or enforce a rule at all. That advanced topic is not the focus here.
 :::
 
 :::tip Quick Navigation
@@ -40,7 +44,7 @@ This week, we make the case for procedure. And then we design the procedure for 
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | The Micro-Charter (with Amendment v1.1 and possibly v1.2 from Week 15), Case Notes, paper, pencil |
-| **Key vocabulary** | due process, procedural, substantive, fair hearing, notice |
+| **Key vocabulary** | due process, procedural, fair hearing, notice, impartial decider |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -48,6 +52,7 @@ This week, we make the case for procedure. And then we design the procedure for 
 :::info Before You Begin
 - Have the student's Charter on hand. The dispute-resolution protocol is what we'll be upgrading this week.
 - Read the three "obvious-but-wrong" scenarios in Session 1 so you can present them naturally. They each illustrate why even an apparently-clear case still deserves procedure.
+- Use the [Listening Protocol Template](./resources/listening-protocol-template.md) if you want a copy-ready drafting sheet.
 - Plan time at the end of Session 2 for the student to actually write the Listening Protocol — it's an artifact, not just a discussion.
 :::
 
@@ -146,15 +151,15 @@ Name the principle:
 
 ---
 
-**4. Procedural vs. Substantive**
+**4. Procedural First**
 
-Briefly introduce the two flavors:
+Name the main focus of the week clearly:
 
-> "There are two kinds of due process. **Procedural due process** means the right process was followed — notice, hearing, evidence, response. **Substantive due process** means the outcome was actually fair — not just that the process was right, but that the result wasn't unjust on its face."
+> "For this course, **due process** mostly means **procedural due process**: notice, time to prepare, access to evidence, the right to respond, a neutral decider, and a written ruling."
 
-> "Most due process arguments are about the procedural kind: 'You didn't give me notice. You didn't let me see the evidence. You didn't let me speak.' But substantive due process matters too. A system that follows perfect procedure to reach a fundamentally unfair outcome — punishing someone for an act that shouldn't be punished at all — also fails due process, just differently."
+> "As an advanced note, some legal systems also use the phrase **substantive due process** for a different kind of question: whether the government had the power to make or enforce a rule at all. That is harder and not our main topic this week."
 
-For younger learners, focus on procedural. Substantive can be a one-line aside.
+For younger learners, keep the focus entirely on procedural fairness.
 
 ---
 
@@ -372,11 +377,11 @@ After ratifying the Listening Protocol, have older learners look up the procedur
 :::tip Vocabulary This Week
 - **Due process** — The structural guarantee that the right process must be followed before any legal consequence.
 - **Procedural due process** — The right process was followed (notice, hearing, evidence, response).
-- **Substantive due process** — The outcome itself was fair, not just the procedure used to reach it.
+- **Substantive due process** — An advanced legal concept used in some systems for questions about whether the government had the power to act this way at all.
 - **Notice** — Being told what you are accused of, in advance, with enough detail to respond.
 - **Impartial decider** — A judge with no personal stake in the outcome.
 :::
 
 ## Preview of Next Week
 
-Next week is **the trial**. You've written the Charter, stress-tested it, designed the court, and built the Listening Protocol. Now you actually run a case. A real dispute — adapted from your life — gets brought before your Charter court, with full procedure. Witnesses, evidence, arguments, deliberation, ruling. This is the application week.
+Next week is **the trial**. You've written the Charter, stress-tested it, designed the court, and built the Listening Protocol. Now you actually run a case. A low-stakes dispute — real or fictionalized as needed — gets brought before your Charter court, with full procedure. Witnesses, evidence, arguments, deliberation, ruling. This is the application week.

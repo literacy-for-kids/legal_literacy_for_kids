@@ -1,31 +1,35 @@
 ---
 sidebar_position: 6
-sidebar_label: "Week 6: The Payload: What Makes a Promise Binding"
-title: "Week 6: The Payload: What Makes a Promise Binding"
-description: "Consideration is the payload — students learn why an exchange of value is what makes a promise legally binding."
+sidebar_label: "Week 6: The Payload: Why Exchange Matters"
+title: "Week 6: The Payload: Why Exchange Matters"
+description: "Students learn how consideration helps distinguish a bargain from a gift or one-way promise."
 ---
 
-# Week 6: The Payload: What Makes a Promise Binding
+# Week 6: The Payload: Why Exchange Matters
 *The Anatomy of a Promise — Phase 2*
 
 We have offer. We have acceptance. We have the handshake.
 
-But there's one more piece — the thing that turns a friendly agreement into an enforceable contract. It's called **consideration**, and it's the most misunderstood word in contract law. Consideration is **the value each side gives the other**. It's the payload of the transaction. The actual data flowing through the API.
+But there's one more piece — the part that helps show an agreement is a bargain, not just a gift or a vague promise. It's called **consideration**, and it's one of the most misunderstood words in contract law. Consideration is **the value each side gives the other**. It's the payload of the transaction. The actual data flowing through the API.
 
-Here's the surprising part: without consideration, you don't have a contract. Even if both people agreed. Even if both people meant it. Even if both people shook hands and pinky-promised.
+Here's the surprising part: without consideration, many agreements do not look like contracts at all. Even if both people agreed. Even if both people meant it. Even if both people shook hands and pinky-promised.
 
 "I promise to be nice." — Not a contract.
-"I'll be nice to you if you give me a dollar." — Contract.
+"I'll walk your dog if you pay me $5." — bargain with clear consideration.
 
-That tiny dollar changes the entire legal status of the promise. This week we figure out why.
+That exchange changes how the promise works. This week we figure out why.
 
 ---
 
 :::info Facilitator Snapshot
-- Big takeaway: consideration is what makes a promise *legally* binding, not just morally meaningful.
-- Consideration doesn't have to be money. It can be an action, a thing, a promise of future action — anything of value flowing in each direction.
-- Don't get tangled in adult contract law subtleties (peppercorn doctrine, past consideration, etc.). Stick to the core: each side must give something the other side values.
-- This week sets up Week 7, where students draft a real, signed household contract.
+- Big takeaway: consideration is what helps distinguish a bargain from a gift or one-way promise.
+- Consideration doesn't have to be money. It can be an action, a thing, a promise of future action, or giving up a chance or claim.
+- Don't get tangled in adult contract law subtleties. Stick to the core: each side must give something the other side values.
+- This week sets up Week 7, where students draft a clear, signed household agreement using these tools.
+:::
+
+:::note Jurisdiction Note
+Different legal systems handle consideration somewhat differently. For this curriculum, the goal is not to memorize doctrine but to understand why exchange matters when law tries to distinguish bargains from gifts.
 :::
 
 :::tip Quick Navigation
@@ -115,7 +119,7 @@ Then walk through examples:
 | "Happy birthday, here's $20" | $20 | Nothing | No — one arrow (gift) |
 | "I'll be your friend forever" | Friendship | Friendship | Tricky — see below |
 | Chore in exchange for allowance | The chore | The allowance | Yes |
-| Promising not to tell a secret | Silence | Whatever was offered in return | Yes — silence has value |
+| Giving up your game turn now in exchange for first turn later | Your turn now | Their turn later | Yes — giving up a turn can have value |
 
 Stop on the friendship example:
 
@@ -132,8 +136,8 @@ Here's a critical move. Consideration can be:
 - **A thing** — a card, a dollar, a snack
 - **An action** — walking a dog, mowing a lawn, helping with homework
 - **A promise** — "I promise to do X" can itself be consideration, even before the X happens
-- **Giving up a right** — "I won't tell mom you broke the vase if..." — silence has real value
-- **Forbearance** — agreeing to *not* do something you had the right to do
+- **Giving up a turn or claim** — "I won't use the shared art table now if you let me go first later"
+- **Forbearance** — agreeing to *not* do something you were otherwise allowed to do
 
 Discuss each. Have the student come up with one example of each kind.
 
@@ -143,11 +147,11 @@ Discuss each. Have the student come up with one example of each kind.
 
 Here's a real-world thing that surprises students:
 
-> "Sometimes contracts include a clause like, 'In exchange for $1, I agree to...' Even though $1 is basically nothing — that $1 makes the contract legally binding."
+> "Sometimes older contract examples include a clause like, 'In exchange for $1, I agree to...' Even though $1 is basically nothing, some legal systems still treat that tiny exchange as consideration."
 
-> "Why? Because the law cares that there's consideration. It usually doesn't care how *much* there is. A peppercorn or a dollar can be enough to turn a one-way promise into a two-way contract."
+> "Why? Because the law often cares that there is an exchange at all. It usually cares less about the size of the exchange than about whether both sides intended a bargain."
 
-This is sometimes called the **peppercorn doctrine** in older contract law. It's a strange-looking rule, but it makes sense once you see what it's for: the law wants evidence that both sides intended to make a binding deal, and even a tiny exchange is evidence of that intent.
+This is sometimes called the **peppercorn doctrine** in older contract law. It's a strange-looking rule, but it helps explain the bigger idea: the law wants evidence that both sides meant to make a bargain.
 
 ---
 
@@ -167,7 +171,7 @@ By the end of this session, the student can:
 
 For each of these, the student decides: **Contract, Gift, or Moral Promise?**
 
-> 1. "I'll lend you my book if you take care of it." → *Contract — borrowing creates obligations both ways.*
+> 1. "I'll lend you my book for a week if you return it in good condition." → *Bargain-shaped agreement — each side has a clear obligation.*
 
 > 2. "Happy birthday! Here's a gift card." → *Gift.*
 
@@ -175,13 +179,13 @@ For each of these, the student decides: **Contract, Gift, or Moral Promise?**
 
 > 4. "I promise to clean my room if you let me stay up an extra 30 minutes." → *Contract.*
 
-> 5. "I promise I'll never tell anyone your secret." → *Tricky. Pure moral promise unless something was exchanged for it.*
+> 5. "I promise I won't use the shared tablet during your study hour." → *One-way promise unless something is exchanged for it.*
 
-> 6. "I promise I'll never tell your secret if you'll never tell mine." → *Contract — mutual exchange of silence.*
+> 6. "I'll skip my turn on the swing now if you let me go first next round." → *Bargain — both sides exchange something of value.*
 
 > 7. "I promise to be a better friend." → *Moral promise — feels deep, but legally empty.*
 
-> 8. "I'll pay you $10 if you keep my secret." → *Contract — the $10 is consideration for the silence.*
+> 8. "I'll help with your poster tonight if you help with mine tomorrow." → *Bargain — exchange of services.*
 
 Pattern: the legal world only steps in when both sides are giving something the other side values. Everything else is moral, social, or personal — important, but outside the legal system.
 
@@ -336,4 +340,4 @@ Discuss "nominal consideration" — using a tiny amount like $1 to make a contra
 
 ## Preview of Next Week
 
-Next week is the practical capstone of Unit 2: **the Chores API**. The student will draft a real, signed, enforceable household contract — specifying exactly what counts as "cleaning the kitchen," what happens if equipment is broken, what counts as breach, and what the remedy is. They'll walk away with an actual document they can use.
+Next week is the practical capstone of Unit 2: **the Chores API**. The student will draft a real, signed household agreement using contract-design tools — specifying exactly what counts as "cleaning the kitchen," what happens if equipment is broken, what counts as a breach, and how the agreement will be reviewed or revised. They'll walk away with an actual document they can use and improve.

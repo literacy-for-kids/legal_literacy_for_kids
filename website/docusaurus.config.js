@@ -9,7 +9,7 @@ const footerConfig = require('literacy-site-theme/footerConfig');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Legal Literacy for Kids',
-  tagline: 'A free, open 18-week curriculum that teaches ages 8–12 how rules, contracts, and legal systems actually work',
+  tagline: 'A free, open curriculum with 18 core weeks and optional advanced weeks that teaches ages 8–12 how rules, contracts, and legal systems work',
   favicon: 'img/favicon.ico',
 
   url: 'https://literacy-for-kids.github.io',
@@ -21,7 +21,11 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',

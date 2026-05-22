@@ -42,6 +42,7 @@ This is the part of contract law that handles the *connection*. Before there's a
 :::info Before You Begin
 - Review the counter-offer scenarios in Session 2 so you can run the role-plays smoothly.
 - Have a small "thing to trade" handy — a sticker, eraser, snack — for live demonstration.
+- Optional: use the [Contract Design Worksheet](./resources/contract-design-worksheet.md) to track the original offer, any counter-offer, and the final accepted version.
 :::
 
 :::tip Facilitation Mindset
@@ -174,6 +175,8 @@ This is one of the most important moves in contract law. **A counter-offer termi
 **2. Live Negotiation Role-Play**
 
 Run a role-play. The student plays one side. You play the other.
+
+If it helps, write each round on the [Contract Design Worksheet](./resources/contract-design-worksheet.md) so the student can see when the original offer disappears and a new one replaces it.
 
 > **Round 1:**
 > You: "I'll trade you this eraser for that pencil."

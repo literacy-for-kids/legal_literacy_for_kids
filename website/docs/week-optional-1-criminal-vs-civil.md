@@ -21,8 +21,12 @@ This week, we unpack the difference. By the end, you'll be able to look at an ev
 :::info Facilitator Snapshot
 - This is an optional extension week. It can be run after Week 18 — or fit into the gap between Weeks 15 and 16 if you want to slot it into the main curriculum.
 - The big move: the same act can produce two completely separate cases that use different standards and produce different outcomes.
-- The O.J. Simpson case is the famous teaching example. Use it carefully — for the structural lesson, not the personalities.
+- Use a lower-stakes structural example such as reckless driving that causes injury, business fraud, or pollution. The goal is the parallel-track idea, not a sensational case.
 - Two activities: a sorting exercise (criminal / civil / both / neither) and a parallel-track walkthrough.
+:::
+
+:::note Jurisdiction Note
+Criminal and civil systems differ across countries and states. This lesson teaches the broad pattern: public wrongs and private disputes can trigger different kinds of cases with different purposes, procedures, and proof standards.
 :::
 
 :::tip Quick Navigation
@@ -46,7 +50,7 @@ This week, we unpack the difference. By the end, you'll be able to look at an ev
 :::info Before You Begin
 - Print or copy the 8 scenarios from Session 2 so the student can sort them physically.
 - Refresh the difference between the two standards of proof from Week 15 — **beyond reasonable doubt** (criminal) and **preponderance of evidence** (civil).
-- Decide whether you want to use the O.J. Simpson example. It is the cleanest real-world illustration of the parallel-track principle but involves murder, which may not be age-appropriate for all learners. A reasonable substitute is described below.
+- Decide which low-stakes parallel-track example you want to use. A car crash involving reckless driving, a fraud case, or a pollution case usually teaches the structure without adding unnecessary emotional weight.
 :::
 
 :::tip Facilitation Mindset
@@ -61,7 +65,7 @@ This week is more conceptual than experiential — there's no Charter activity, 
 **What to shorten or skip:**
 - Skip the parallel-track walkthrough. Just teach the sorting.
 - Reduce the sorting list from 8 to 4 scenarios.
-- Skip the standards-of-proof percentages — just say "really sure" and "mostly sure."
+- Skip the formal names for the proof standards at first — just say "really sure" and "mostly sure."
 - Keep sessions to 20 minutes.
 
 **Adapting the activities:**
@@ -113,7 +117,7 @@ Read them aloud. Then:
 | **Who brings the case?** | The state. The prosecutor acts on behalf of all of society. |
 | **Who is the defendant?** | The accused person. |
 | **What's the harm being addressed?** | A harm to society as a whole — even when the immediate victim is a single person. Crime is treated as a wrong against the entire community's rules. |
-| **What's the standard of proof?** | **Beyond reasonable doubt.** Very high — closer to 99% certain. |
+| **What's the standard of proof?** | **Beyond reasonable doubt.** Very high confidence after considering the evidence. No official percentage. |
 | **What's the goal?** | Punishment and deterrence. Punishing the offender, signaling to others that this is not acceptable. |
 | **What's the remedy?** | Penalties: fines, community service, probation, jail. |
 
@@ -128,7 +132,7 @@ Read them aloud. Then:
 | **Who brings the case?** | The harmed party. Called the plaintiff. |
 | **Who is the defendant?** | The party accused of causing the harm. |
 | **What's the harm being addressed?** | A harm to a specific individual. The dispute is between the two of them. |
-| **What's the standard of proof?** | **Preponderance of evidence.** Lower — more likely than not, about 51%. |
+| **What's the standard of proof?** | **Preponderance of evidence.** Lower — more likely than not. |
 | **What's the goal?** | Compensation. Making the harmed party whole — usually with money. |
 | **What's the remedy?** | Damages: money paid to the plaintiff. Sometimes an injunction (a court order to do or stop doing something). |
 
@@ -164,9 +168,7 @@ Here's the move that surprises most students:
 
 > "The same single act can lead to BOTH a criminal case AND a civil case. They run on separate tracks. They can have different outcomes."
 
-The classic teaching example is the O.J. Simpson case from the 1990s. The state prosecuted Simpson for murder and lost — the jury found him **not guilty** under the criminal standard (beyond reasonable doubt). The victims' families then sued him civilly for wrongful death, and he was found **liable** under the civil standard (preponderance of evidence). Same act, two trials, opposite outcomes — because the standards of proof were different.
-
-If that example is too heavy, use a structural substitute:
+Use a structural example instead:
 
 > "Imagine someone causes a car crash that hurts a passenger. The state might prosecute them criminally for reckless driving. The injured passenger might sue them civilly for medical bills and lost work. One act, two completely separate cases, two completely separate questions, two completely separate standards."
 

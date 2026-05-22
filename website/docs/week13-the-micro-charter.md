@@ -14,13 +14,14 @@ You've spent 12 weeks building up the parts. Rules. Contracts. Letter vs. intent
 
 It's called a **Micro-Charter**. Think of it as a constitution for something small but real — your bedroom, your friend group, a Minecraft server, a sibling alliance, a family meeting structure. Whatever you chose in Week 11, this is the week we write the foundational text.
 
-By the end of this week, you'll have a document that includes: **at least 3 explicit rules, at least 2 unalienable rights, a dispute-resolution protocol, clear definitions for ambiguous terms, and amendment procedures.** It will be signed (or initialed, or stickered) by everyone in the domain. It will be real.
+By the end of this week, you'll have a document that includes: **at least 3 explicit rules, at least 2 unalienable rights, a dispute-resolution protocol, clear definitions for ambiguous terms, and amendment procedures.** It will be signed (or initialed, or stickered) by the willing participants in the domain. It will be real.
 
 ---
 
 :::info Facilitator Snapshot
 - This is the capstone artifact of Unit 4. Plan to spend the whole week on it.
 - The Charter must be for a real domain with real participants. A purely imaginary domain (a made-up country) is fine for the activity, but the Charter feels much more alive when it governs something the student actually participates in.
+- If some participants do not want to sign, narrow the domain or use a smaller opt-in group. The point is genuine consent, not pressure.
 - The student should *not* write the Charter in one sitting. Draft in Session 1, revise in Session 2, finalize in Independent Practice.
 - Save the final document. It will be the governing document for the mock trial in Week 17.
 :::
@@ -46,6 +47,7 @@ By the end of this week, you'll have a document that includes: **at least 3 expl
 :::info Before You Begin
 - Confirm the student's Micro-Charter domain. It should be real and they should be able to actually have the other participants sign on.
 - Gather the student's Case Notes from Weeks 11 and 12 — those include candidate rights and power-distribution ideas.
+- Use the [Micro-Charter Template](./resources/micro-charter-template.md) if the student benefits from a copy-ready structure.
 - Have a clean piece of paper or a fresh notebook page for the final document.
 - Make space for this week. The student should not be rushed.
 :::
@@ -70,7 +72,7 @@ This week, your job is **structural editor**. Don't write the Charter for the st
 
 **Journal alternative:** The Charter itself IS the journal entry this week. No additional writing needed.
 
-**What success looks like:** The learner has a signed (or stickered) one-page document that says what the rules are and how disputes get handled.
+**What success looks like:** The learner has a signed (or stickered) one-page document from willing participants that says what the rules are and how disputes get handled.
 :::
 
 :::info For Ages 10–12

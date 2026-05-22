@@ -74,7 +74,48 @@ const sidebars = {
       ],
     },
     'curriculum-overview',
+    'legal-systems-cycle',
     'glossary',
+    {
+      type: 'category',
+      label: 'Facilitator Resources',
+      link: {
+        type: 'doc',
+        id: 'resources/index',
+      },
+      items: [
+        'resources/facilitator-start-guide',
+        {
+          type: 'category',
+          label: 'Templates and Worksheets',
+          items: [
+            'resources/case-notes-template',
+            'resources/rule-inventory-worksheet',
+            'resources/first-three-laws-worksheet',
+            'resources/contract-design-worksheet',
+            'resources/chores-api-household-agreement-template',
+            'resources/loophole-audit-worksheet',
+            'resources/precedent-ruling-log',
+            'resources/micro-charter-template',
+            'resources/amendment-template',
+            'resources/listening-protocol-template',
+            'resources/mock-trial-packet',
+            'resources/written-ruling-template',
+            'resources/appeal-checklist',
+            'resources/final-reflection-template',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Assessment and Examples',
+          items: [
+            'resources/assessment-rubrics',
+            'resources/exemplar-student-artifacts',
+          ],
+        },
+        'resources/real-world-extensions',
+      ],
+    },
     {
       type: 'category',
       label: 'Explore Other Literacies',

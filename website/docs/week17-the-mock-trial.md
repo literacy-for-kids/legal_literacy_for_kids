@@ -10,7 +10,7 @@ description: "Students run a full mock trial, taking on roles as advocates, witn
 
 This is the application week.
 
-Everything you've built — the Charter, the amendments, the Listening Protocol, the rules, the rights, the dispute-resolution court — gets put to work. A real dispute, adapted from your life, comes before your Charter court. You file a complaint. You gather evidence. You make arguments. You hear a ruling.
+Everything you've built — the Charter, the amendments, the Listening Protocol, the rules, the rights, the dispute-resolution court — gets put to work. A low-stakes dispute, adapted from real life or fictionalized if needed, comes before your Charter court. You file a complaint. You gather evidence. You make arguments. You hear a ruling.
 
 Before we start, the most important rule of this week:
 
@@ -22,10 +22,14 @@ If the student is the plaintiff and the court rules against them, *the week is s
 
 :::info Facilitator Snapshot
 - This is the longest, most active week of the curriculum. Plan extra time and consider doing both sessions on the same day if scheduling permits.
-- Pick a real dispute. Not a hypothetical. A real one — adapted, anonymized, scaled down — but something with actual stakes for the student.
+- Pick a low-stakes dispute. It may be adapted from real life, anonymized, scaled down, or fully fictionalized if that is safer for the group.
 - The governing document is the Micro-Charter. If the Charter is silent on something, the court must note the gap and rule from intent (Week 8 returns).
 - The facilitator is the judge. Resist the urge to coach the plaintiff. Treat the proceeding like a real one.
 - Solo and small-group fallbacks are below. A solo student can do this with the facilitator playing multiple roles. Don't skip the week.
+:::
+
+:::note Safety and Suitability Protocol
+Use low-stakes disputes only. Do not use bullying, abuse, trauma, humiliation, family secrets, money pressure, romantic conflict, or intense emotional history. If a scenario starts feeling too real or too hot, pause and switch to a fictional version immediately.
 :::
 
 :::tip Quick Navigation
@@ -47,11 +51,12 @@ If the student is the plaintiff and the court rules against them, *the week is s
 ## Facilitator Preparation
 
 :::info Before You Begin
-- **Pick the dispute together.** It must be real, but small. Adapt it as needed. Examples: a borrowed item that was lost or damaged, a shared resource (TV time, snack supply) that was used unfairly, a Charter rule that the student believes another member violated. Avoid disputes involving real harm or strong emotions — this is a learning trial, not a therapy session.
+- **Pick the dispute together.** It must be low-stakes. It can be real, adapted, anonymized, or fictionalized. Examples: a borrowed item that was lost or damaged, a shared resource (TV time, snack supply) that was used unfairly, a Charter rule that the student believes another member violated. Avoid disputes involving real harm or strong emotions — this is a learning trial, not a therapy session.
 - **Confirm the other party will play along.** If a sibling is the defendant, they need to be a willing participant. If no one is available, the facilitator plays the defendant (see Solo Fallback).
 - **Re-read the Charter and Listening Protocol** before Session 2. The trial must actually follow the protocol the student wrote.
 - **Designate a trial space.** A kitchen table works fine. The point is having a physical setting that says "this is the proceeding."
 - **Print or write the procedure** (complaint → response → evidence → arguments → ruling) so it's visible during the trial. This is the procedural backbone.
+- Optional: use the [Mock Trial Packet](./resources/mock-trial-packet.md) for the complaint, response, evidence log, and hearing order, and the [Written Ruling Template](./resources/written-ruling-template.md) for the final verdict.
 :::
 
 :::tip Facilitation Mindset
@@ -333,7 +338,7 @@ Write the formal verdict — even though the trial is over — and reflect on ru
 
 **1. The Written Verdict**
 
-Even though the ruling was delivered orally, write it out formally:
+Even though the ruling was delivered orally, write it out formally. You can use the [Written Ruling Template](./resources/written-ruling-template.md) if you want a ready-made format:
 
 ```
 ═══════════════════════════════════════════════

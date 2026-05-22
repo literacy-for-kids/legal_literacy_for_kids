@@ -8,19 +8,23 @@ description: "Students learn to identify loopholes as unintended edge cases and 
 # Week 9: Finding and Closing the Edge Cases
 *Debugging the Code — Phase 3*
 
-Last week we asked what to do when the letter of a rule disagrees with the intent of a rule. This week we look at people who *deliberately* exploit that disagreement.
+Last week we asked what to do when the letter of a rule disagrees with the intent of a rule. This week we look at what happens when someone notices that gap and tries to use it.
 
-A **loophole** is a way to follow the letter of a rule while completely violating its intent. Loopholes aren't always evil — sometimes they reveal that the rule was poorly written. But when someone finds one and uses it knowingly, they're effectively saying: *"The rule didn't quite say what it meant, and I'm going to take advantage of that."*
+A **loophole** is a way to follow the letter of a rule while completely violating its intent. Loopholes aren't always evil — sometimes they reveal that the rule was poorly written. But when someone finds one and uses it for private advantage, they're effectively saying: *"The rule didn't quite say what it meant, and I'm going to use that gap."*
 
-This week, we put on the hat of the rule-maker. The student gets to write rules, watch other people (you, the facilitator) try to find loopholes, and then **patch** the rules to close those loopholes. It's the legal equivalent of beta-testing code: get someone trying to break your system, then fix the bugs.
+This week, we put on the hat of the rule-maker. The student gets to write rules, watch other people (you, the facilitator) try to find loopholes, and then **patch** the rules to close those loopholes. It's the legal equivalent of beta-testing code: test the system, then fix the bugs.
 
 ---
 
 :::info Facilitator Snapshot
-- This week is fun, because it gives the student permission to think mischievously — what's the cleverest way to comply technically while violating the spirit?
+- This week is fun, because it gives the student permission to think like a tester — what's the cleverest way to comply technically while violating the spirit?
 - The flip side: closing loopholes is harder than it looks. Every patch creates new edges.
 - The key skill: a loophole-resistant rule states its purpose, not just its prohibition. ("No vehicles" is loophole-bait. "Nothing that disturbs the peace of pedestrians" is harder to game.)
 - This sets up Week 10, where students see how courts use prior rulings (precedent) to close gaps incrementally.
+:::
+
+:::note Ethics Note
+We study loopholes to improve rules, not to teach people how to trick others. If the conversation turns into planning how to game a live family or classroom rule, stop and redirect the energy back into repair.
 :::
 
 :::tip Quick Navigation
@@ -45,10 +49,11 @@ This week, we put on the hat of the rule-maker. The student gets to write rules,
 - Read through the loophole scenarios in Session 1. Be prepared to play the role of the "rule-breaker" trying to exploit each rule.
 - Have paper ready for drafting and patching rules.
 - Pull out the student's Chores API from Week 7 — we'll loophole-test it later in the week.
+- Optional: use the [Loophole Audit Worksheet](./resources/loophole-audit-worksheet.md) so the student can track the rule, the loophole, the patch, and the ethics note in one place.
 :::
 
 :::tip Facilitation Mindset
-This week, you are the loophole-finder. The student is the rule-maker. When you spot a way to game their rule, lean into it. ("Aha — the rule said 'no eating dessert before dinner.' I'll just have a giant snack at 5:55 PM and skip dinner.") The student should feel both impressed and frustrated — and then they'll get to patch the rule.
+This week, you are the loophole-finder. The student is the rule-maker. When you spot a way to game their rule, lean into it. ("Aha — the rule said 'no eating dessert before dinner.' I'll just have a giant snack at 5:55 PM and skip dinner.") The student should feel both impressed and frustrated — and then get to patch the rule. Keep the tone playful, but be explicit that the goal is system repair, not real-life evasion.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -199,13 +204,13 @@ This is one of the most powerful moves in rule design. **State the purpose, not 
 
 **3. Loophole-Test the Chores API**
 
-Pull out the student's Chores API contract from Week 7.
+Pull out the student's Chores API agreement from Week 7.
 
 Together, hunt for loopholes:
 
 - "What does 'cleaning the kitchen' really specify? Could I leave one dirty cup in the sink? Two?"
 - "What if I do the task in the most minimal way possible — does that count?"
-- "The contract says 'by 8 PM.' What if I'm finishing at 7:59:30? What if I'm finishing at 8:00:30?"
+- "The agreement says 'by 8 PM.' What if I'm finishing at 7:59:30? What if I'm finishing at 8:00:30?"
 - "What if the kitchen was already clean? Does the task still need to happen?"
 - "What if I trade tasks with my sibling — is that a breach or is it allowed?"
 
@@ -284,15 +289,17 @@ If the learner can do at least 2 of these, they're ready for Week 10.
 :::note What Matters Here
 After loophole-testing the Chores API, ask:
 
-> "Did finding loopholes in your own contract make you feel clever, sneaky, or annoyed? What about when you imagined someone else doing the same to your rules?"
+> "Did finding loopholes in your own agreement make you feel clever, sneaky, or annoyed? What about when you imagined someone else doing the same to your rules?"
 
 This is an important moment. Most students enjoy *finding* loopholes more than they enjoy having their rules gamed. That asymmetry is the engine of a lot of legal evolution: people are sharp when they want something, and the law has to keep up.
+
+> "There's also an ethical difference between testing a rule to improve it and exploiting a rule for private advantage. Which one were you doing in each example?"
 
 > "There's a phrase grown-ups sometimes use: *'the spirit of the law versus the letter of the law.'* When you follow only the letter and ignore the spirit, are you cheating? Or are you just doing what the rule said?"
 
 Don't try to settle this. The legal world has been arguing about it for thousands of years. The point is that the student starts to notice that **the spirit and the letter are two different things, and that's a feature of how rules work, not a flaw to be fixed.**
 
-**This week's takeaway:** A rule's *purpose* is more durable than a rule's *words*. When you write a rule, write the purpose alongside it — that gives the rule a defense against loopholes that no list of patches can match.
+**This week's takeaway:** A rule's *purpose* is more durable than a rule's *words*. When you write a rule, write the purpose alongside it — that gives the rule a defense against loopholes that no list of patches can match, and it keeps the work focused on improvement rather than exploitation.
 :::
 
 ---
@@ -325,4 +332,4 @@ Discuss this real example: tax law has thousands of pages of patches because peo
 
 ## Preview of Next Week
 
-Next week, we look at the other major tool courts use to manage interpretation over time: **precedent**. When a court makes a ruling on a hard case, that ruling becomes binding for similar future cases. You'll act as judge for a series of escalating edge cases, and your early rulings will lock you into harder decisions later.
+Next week, we look at the other major tool courts use to manage interpretation over time: **precedent**. When a court makes a ruling on a hard case, that ruling may guide or sometimes bind similar future cases, depending on the court and jurisdiction. You'll act as judge for a series of escalating edge cases, and your early rulings will lock you into harder decisions later.

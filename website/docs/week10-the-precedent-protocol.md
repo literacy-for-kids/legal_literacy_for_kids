@@ -20,9 +20,13 @@ This is called **precedent**, and it is the version-control system of the legal 
 
 :::info Facilitator Snapshot
 - The eight escalating cases are the spine of this week. Run them in order. Each case should feel slightly harder than the previous one.
-- The student MUST justify each ruling using their own earlier rulings as binding precedent. That constraint is the lesson.
+- In this simulation, the student's earlier rulings function as binding precedent inside the same mini-court. That constraint is the lesson.
 - Some students will want to overturn their early rulings as cases get harder. Allow it — but require them to articulate *why* (legal systems do this too; it's called "distinguishing" or "overturning" precedent).
 - This is the most pedagogically interesting activity in Unit 3. Plan to spend most of the week on it.
+:::
+
+:::note Jurisdiction Note
+Real precedent depends on court hierarchy, jurisdiction, and how similar the facts are. Some earlier decisions are binding; others are only persuasive. This lesson models the core idea inside one simplified court.
 :::
 
 :::tip Quick Navigation
@@ -44,7 +48,7 @@ This is called **precedent**, and it is the version-control system of the legal 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Print or sketch a simple **Ruling Log** with these columns: Case #, Description, My Ruling, Reasoning, Cites (which earlier ruling controls this one).
+- Print or sketch a simple **Ruling Log** with these columns: Case #, Description, My Ruling, Reasoning, Cites (which earlier ruling controls this one). Or use the [Precedent Ruling Log](./resources/precedent-ruling-log.md).
 - Read through all 8 cases below so you can present them naturally.
 - Be ready to push back on rulings that contradict earlier ones. Your job is to be the "appellate judge" who points out inconsistencies.
 :::
@@ -74,7 +78,7 @@ The student's first ruling will feel easy and intuitive. By case 4 or 5, they'll
 
 :::info For Ages 10–12
 - Introduce the Latin phrase **stare decisis** ("to stand by decided things") — the formal principle of precedent.
-- Discuss when a court should **distinguish** a new case from an old one ("this case is different in this important way, so the precedent doesn't quite apply") versus **overturn** the old precedent ("our previous ruling was wrong, we're changing it").
+- Discuss when a court should **distinguish** a new case from an old one ("this case is different in this important way, so the precedent doesn't quite apply") versus **overturn** the old precedent ("our previous ruling was wrong, we're changing it"). Also note that real courts are bound differently depending on what level of court issued the earlier decision.
 - Have older learners write a brief "judicial opinion" for each ruling.
 :::
 
@@ -98,7 +102,7 @@ Read the rule aloud:
 
 > "NO RUNNING IN THE HALLWAYS."
 
-> "You are the principal of this school. You are also the judge. Anyone who is accused of breaking this rule gets brought to you. You have to rule: did they violate the rule, yes or no? And whatever you decide becomes a precedent — meaning if a similar case comes up later, you have to be consistent."
+> "You are the principal of this school. You are also the judge. Anyone who is accused of breaking this rule gets brought to you. You have to rule: did they violate the rule, yes or no? In this simulation, whatever you decide becomes a precedent for later similar cases, so you have to be consistent unless you clearly distinguish or revise your earlier ruling."
 
 Hand the student the **Ruling Log** sheet. Explain:
 
@@ -129,9 +133,9 @@ Have them write their ruling and reasoning. Whatever they decide here becomes im
 
 ---
 
-> **Case 3: A child is in a wheelchair, propelling themselves at jogging speed using their arms.**
+> **Case 3: A child who uses a wheelchair is moving quickly through the hallway.**
 >
-> *(Wheelchairs are mobility equipment. Are they running?)*
+> *(Wheelchairs are mobility equipment, not recreational extras. Many real systems would treat access needs differently from play or racing. What principle lets you talk about safety without penalizing mobility?)*
 
 Watch for: did their Case 2 ruling tie the rule to speed? If yes, the wheelchair might violate. If they tied it to "running motion," wheelchairs don't violate.
 
@@ -178,9 +182,9 @@ Did the student's ruling on Case 4 (the teacher running to a fight) create an em
 
 > **Case 6: A child is riding a small scooter down the hallway. Their feet aren't running — they're just rolling fast.**
 >
-> *(Wheels again, like Case 3. Is a scooter "running"?)*
+> *(Wheels again, but not the same kind of case as mobility equipment. Is a scooter "running," or is it a different safety problem?)*
 
-The student must reconcile this with their wheelchair ruling. If the wheelchair was allowed (because not "running"), the scooter should probably be allowed too. If the wheelchair was banned (because of speed), the scooter should be too.
+The student must reconcile this with their wheelchair ruling, but they should also ask whether accessibility and recreation are meaningfully different. This is exactly where distinguishing becomes important.
 
 This is where students start feeling the **constraining power** of precedent. They might want to ban the scooter because it feels different from a wheelchair — but their earlier reasoning ties their hands.
 
@@ -296,7 +300,7 @@ Add this to your **Case Notes**:
 
 After this week, check whether the learner can:
 
-1. **Define precedent in their own words:** "What is precedent?" (Looking for: a past ruling that becomes binding for future similar cases.)
+1. **Define precedent in their own words:** "What is precedent?" (Looking for: a past ruling that guides or, in some courts, binds future similar cases.)
 2. **Show how a precedent locked them in:** "Tell me about a moment when your earlier ruling forced you into a harder later one." (Looking for: any honest example from the case sequence.)
 3. **Use 'distinguish' or 'overturn' correctly:** "What's the difference between distinguishing a precedent and overturning it?" (Looking for: distinguishing = this case is different; overturning = the old ruling was wrong.)
 
@@ -345,8 +349,8 @@ After running the cases, have older learners write a one-paragraph **judicial op
 :::
 
 :::tip Vocabulary This Week
-- **Precedent** — A past ruling that becomes binding for similar future cases.
-- **Binding** — Required to be followed. A binding precedent constrains future decisions.
+- **Precedent** — A past ruling that guides or sometimes binds similar future cases, depending on the court and jurisdiction.
+- **Binding** — Required to be followed in that court or system. A binding precedent constrains future decisions.
 - **Distinguish** — To argue that a new case is meaningfully different from an old precedent, so the precedent doesn't apply.
 - **Overturn** — To replace an old precedent with a new ruling. A bigger move than distinguishing.
 - **Stare decisis** — Latin for "to stand by decided things." The principle that courts follow precedent.

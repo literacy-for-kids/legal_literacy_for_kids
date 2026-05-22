@@ -45,6 +45,7 @@ This week, we are going to **turn it off** in our heads — imagine a world with
 - Read through both Guided Sessions and pick which day you'll do each one.
 - Prepare a notebook or folder labeled **Case Notes** — this is the journal for the full course.
 - Have ~10 sticky notes or index cards ready for the rule-sorting activity in Session 2.
+- Optional: use the [Rule Inventory Worksheet](./resources/rule-inventory-worksheet.md) to capture the rules the student notices and what each one is for.
 - Pick one rule from your own household you can use as a real example ("we take shoes off at the door," "no phones at dinner," etc.).
 :::
 
@@ -210,7 +211,7 @@ Notice the rules already running in the student's life, and start the **Case Not
 
 **1. The Rule Scavenger Hunt**
 
-Over one day, the student keeps a small running list of every rule they notice themselves following. Aim for 15 rules. Don't filter — write down even the small ones ("I knocked before opening the bathroom door").
+Over one day, the student keeps a small running list of every rule they notice themselves following. Aim for 15 rules. Don't filter — write down even the small ones ("I knocked before opening the bathroom door"). The [Rule Inventory Worksheet](./resources/rule-inventory-worksheet.md) works well for this.
 
 At the end of the day, review the list together and tag each one as **L** (law), **I** (institutional), **C** (custom), or **P** (promise).
 

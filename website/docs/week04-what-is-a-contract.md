@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
-sidebar_label: "Week 4: The Anatomy of an Enforceable Promise"
-title: "Week 4: The Anatomy of an Enforceable Promise"
-description: "Contracts are API specifications for human promises — students learn the mechanics of Offer, Acceptance, and Consideration."
+sidebar_label: "Week 4: The Anatomy of a Contract"
+title: "Week 4: The Anatomy of a Contract"
+description: "Students learn the beginner's model of contract structure: offer, acceptance, and consideration."
 ---
 
 # Week 4: The Anatomy of an Enforceable Promise
@@ -10,19 +10,23 @@ description: "Contracts are API specifications for human promises — students l
 
 Imagine you tell your friend, "I'll give you my Pokémon card if you give me your sticker." They say yes. You hand them the card. They hand you the sticker.
 
-You just made a **contract**.
+You just made a **clear exchange agreement**.
 
-Not "a sort of agreement." Not "a kind of deal." A contract. With all three required components, fully formed, legally complete (well — under most countries' contract law).
+In many legal systems, that agreement has the basic shape of a contract: an offer, an acceptance, and an exchange of value. Whether a court would actually enforce it depends on extra questions such as age, jurisdiction, legality, and context.
 
-This week we open up the hood on contracts and look at the engine. We are going to learn that **a contract is an interface specification** — a precise list of inputs, outputs, and exchanges that turns a vague promise into a binding agreement. And we'll discover that almost every promise that *doesn't* become a contract is missing one of three specific parts.
+This week we open up the hood on contracts and look at the engine. We are going to use a beginner's model: **offer, acceptance, and consideration**. Those three parts do a lot of the structural work, even though real contract law asks additional questions too.
 
 ---
 
 :::info Facilitator Snapshot
-- The big takeaway this week: a contract has exactly three required components — Offer, Acceptance, and Consideration. Miss any one, and you don't have a contract.
-- Students should leave this week able to look at any promise and ask: "Does it have all three parts?"
-- Don't get into the weeds of contract law subtleties (good faith, capacity, etc.). This week is the basic anatomy lesson.
-- We are setting up Weeks 5, 6, and 7. Each component gets its own week, and Week 7 is the practical capstone (a real contract).
+- The big takeaway this week: offer, acceptance, and consideration are the core building blocks of many contracts. If one is missing, the agreement is usually incomplete as a contract model.
+- Students should leave this week able to look at a promise and ask: "Is there a clear offer, a clear acceptance, and an exchange of value?"
+- Don't get into the weeds of contract law subtleties. It is enough to note that real enforceability also depends on things like age, subject matter, and jurisdiction.
+- We are setting up Weeks 5, 6, and 7. Each component gets its own week, and Week 7 is the practical capstone: a clear household agreement designed with contract tools.
+:::
+
+:::note Jurisdiction Note
+This week teaches the basic structure of bargains. Real enforceability varies by place, age, subject matter, and other legal rules. Treat the examples as models for careful thinking, not personal legal advice.
 :::
 
 :::tip Quick Navigation
@@ -38,7 +42,7 @@ This week we open up the hood on contracts and look at the engine. We are going 
 |---|---|
 | **Prep time** | ~10 minutes |
 | **Materials** | Paper, pencil, index cards, Case Notes |
-| **Key vocabulary** | contract, offer, acceptance, consideration, binding |
+| **Key vocabulary** | contract, offer, acceptance, consideration, enforceability |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -56,7 +60,7 @@ The temptation will be to teach contracts as serious adult things with scary lan
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "A real deal has three parts: someone offers something, someone agrees, and both people give something. If any part is missing, it's not a real deal yet."
+**Simplest version of the concept:** "A clear deal has three parts: someone offers something, someone agrees, and both people give something. If any part is missing, it's not a full deal yet."
 
 **What to shorten or skip:**
 - Skip the "interface specification" framing. Use "the three parts of a deal."
@@ -74,7 +78,7 @@ The temptation will be to teach contracts as serious adult things with scary lan
 
 :::info For Ages 10–12
 - Introduce the **API specification** analogy explicitly. A contract specifies inputs, outputs, and exchanges, just like a function signature does in code.
-- Discuss situations where a promise has all three parts but still isn't enforceable (e.g., a contract to do something illegal). Tease the idea that contracts also need *legal* subject matter.
+- Discuss situations where an agreement has the three core parts but still may not be enforceable (for example, illegal subject matter, pressure, or age limits). Tease the idea that real contract law asks more questions than this beginner model does.
 - Have them spot contracts in their daily life that they didn't know they were making (clicking "I agree" on a website, accepting an allowance, agreeing to chores).
 :::
 
@@ -100,15 +104,15 @@ Walk through this simple example, slowly:
 
 > "Your friend says: 'Deal!' That's the **acceptance**. They've agreed to the offer. Now both of you know the trade is on."
 
-> "Then you hand over the Charizard. They hand over the Pikachu. That exchange — the actual giving — is called **consideration**. Each of you is giving something the other person values."
+> "Then you hand over the Charizard. They hand over the Pikachu. That exchange — the actual giving — is called **consideration** in our beginner model. Each of you is giving something the other person values."
 
 Stop and say:
 
-> "Boom. You just made a contract. Not a kid version. An actual, legally binding contract under most countries' contract law."
+> "That has the basic structure lawyers look for in a contract: offer, acceptance, and exchange. Real courts may still ask extra questions, but the shape is there."
 
 If the student looks surprised, lean in:
 
-> "This isn't a metaphor. Contract law really does work this way. The Pokémon trade has exactly the same structural parts as a multi-million-dollar business deal."
+> "This isn't just a metaphor. Contract law really does care about these same parts. A playground trade and a business deal can share the same basic structure, even though the legal details around them differ."
 
 ---
 
@@ -127,7 +131,7 @@ Then introduce the engineering frame:
 Ask:
 
 > "If you only had the Offer, but no Acceptance, would that be a contract?" (No — there's no agreement.)
-> "If you had Offer and Acceptance but neither side ever did anything, would that be a contract?" (Technically yes, you'd have a *promise of consideration*, but in practice contracts only "complete" when value is actually exchanged. For our purposes, all three must be present for the contract to fully exist.)
+> "If you had Offer and Acceptance but neither side ever did anything, would that be enough yet?" (Maybe you have the outline of an agreement, but for our purposes we focus on situations where the exchange is clear too. That's the simplest way to see the structure.)
 > "If you gave them the Pikachu sticker without ever asking, would that be a contract?" (No — there's no offer or acceptance. That's just a gift.)
 
 ---
@@ -140,11 +144,11 @@ This is an important distinction. Walk through it:
 
 Discuss. Most students will initially say yes. But:
 
-> "A gift is when someone gives you something **without expecting anything in return**. A contract requires something to flow *both ways*. Birthday money is a gift. There's no consideration on your side. You didn't promise to do anything in return."
+> "A gift is when someone gives you something **without expecting anything in return**. A bargain requires something to flow *both ways*. Birthday money is a gift. There's no consideration on your side. You didn't promise to do anything in return."
 
-> "But — if your grandparent said, 'I'll give you $20 if you wash the car,' THAT is a contract. Now you're promising something in return. Now it's an exchange."
+> "But if your grandparent said, 'I'll give you $20 if you wash the car,' now you have an exchange. That has the basic shape of a contract."
 
-Why does this matter? Because a gift can be withdrawn before it's given. A contract usually cannot. Knowing the difference matters in real life.
+Why does this matter? Because the legal system usually treats gifts and bargained-for exchanges differently. Knowing the difference matters in real life.
 
 ---
 
@@ -176,7 +180,7 @@ Read each of these scenarios aloud. For each one, the student says **CONTRACT** 
 
 > **Scenario 6:** You and a friend pinky-swear you'll always be best friends forever. *(Not a contract — no consideration. Friendship is not legally exchangeable value.)*
 
-> **Scenario 7:** You click "I agree" on an app's terms of service to download a game. *(Contract — and a notoriously long one. The offer is the terms of service. Your "I agree" is acceptance. Your data/attention is the consideration. Yes, really.)*
+> **Scenario 7:** You click "I agree" on an app's terms of service to download a game. *(Usually treated as a contract-like agreement. The app offers access on stated terms, you accept by clicking, and both sides take on obligations. Exact legal treatment varies.)*
 
 > **Scenario 8:** A vending machine. You put in $1, push a button, get a soda. *(Contract — the machine made an implicit offer. Your money is acceptance + consideration. The soda is the machine's consideration.)*
 
@@ -212,7 +216,7 @@ These are interesting because they look like contracts but are missing one piece
 
 > **A coach's pep talk:** "If you all give 110% today, we'll win." (No acceptance from each player individually. No consideration the coach is offering.)
 
-> **An older sibling's threat:** "Don't tell mom and I'll give you my dessert." (This *is* a contract structurally, though it might not be enforced by a court. Discuss why — this is a great opener for next week's topics.)
+> **A bad bargain:** "Don't tell mom and I'll give you my dessert." *(It has the shape of an exchange, but it is a poor example for real contract design because secrecy and pressure create obvious problems. Not every bargain-shaped promise is a good or enforceable one.)*
 
 ---
 
@@ -323,11 +327,11 @@ Show the student a click-through "Terms of Service" agreement on a real website.
 :::
 
 :::tip Vocabulary This Week
-- **Contract** — A binding agreement between two or more parties, made up of an offer, an acceptance, and consideration.
+- **Contract** — A legally enforceable agreement in some circumstances. In this course, we begin with the core structure of offer, acceptance, and consideration, while remembering that real law also depends on other rules.
 - **Offer** — A clear, specific statement of what one party will do in exchange for what.
 - **Acceptance** — A clear agreement to the offer's terms.
 - **Consideration** — Something of value that each side gives in exchange.
-- **Binding** — Required to be followed; not just a polite intention.
+- **Binding** — Treated by a legal system as something that must be followed. Not every agreement is binding in that sense.
 - **Gift** — A one-way transfer of value with no consideration in return. Different from a contract.
 :::
 

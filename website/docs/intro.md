@@ -2,7 +2,7 @@
 sidebar_position: 0
 sidebar_label: "Welcome"
 title: "Legal Literacy for Kids"
-description: "A curiosity-driven 18-week curriculum for ages 8–12 that teaches how rules, contracts, and legal systems actually work"
+description: "A curiosity-driven 18-week curriculum for ages 8-12 that teaches how rules, contracts, and legal systems actually work"
 slug: /intro
 ---
 
@@ -10,146 +10,171 @@ slug: /intro
 
 **A curriculum for understanding the operating system of human society.**
 
-Most people — kids and adults alike — treat the legal system like a black box. Laws happen *to* you. Contracts are something grown-ups sign. Courts are places on TV. This 18-week curriculum cracks the box open and shows what is actually inside: **a giant, mostly logical system of rules, promises, and procedures designed to keep millions of people from crashing into each other.**
+Most people, kids and adults alike, meet law as a black box. Rules appear. Consequences happen. Adults point somewhere official and say, "That is just how it works."
 
-We teach the law the way you'd teach a computer system. Rules are code. Contracts are interface specifications. Precedent is version control. Rights are firewalls. Courts are diagnostic tools for the weird edge cases the original code didn't anticipate. This framing isn't a gimmick — it's how the system actually behaves once you look closely.
+This curriculum opens the box. It treats law as a system made of rules, agreements, procedures, interpretations, rulings, and amendments. Students learn to read that system instead of just reacting to it.
 
-By the end of the course, students will keep a running log of legal observations and rulings called **Case Notes**, and will have written, stress-tested, and revised their own foundational governing document: a **Micro-Charter** for a domain they actually care about.
-
----
+By the end of the course, learners keep a running journal called **Case Notes** and build a real **Micro-Charter** that they draft, test, amend, and use.
 
 :::tip Use This Page
 - Start with [The Big Idea](#the-big-idea) for the course philosophy.
-- Read [How to Use This Curriculum](#how-to-use-this-curriculum) for setup and pacing guidance.
-- Review [The Five Core Mental Models](#the-five-core-mental-models) for the ideas that thread through every lesson.
-- Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
-- Jump to [Case Notes](#case-notes) to see how the running journal works.
+- Read [How to Use This Curriculum](#how-to-use-this-curriculum) for pacing and setup.
+- Use [A Practical Rule Map](#a-practical-rule-map) for the key distinctions between law, rules, norms, promises, contracts, rights, and ethics.
+- Open [Legal Systems Cycle](./legal-systems-cycle.md) for the full course arc.
+- Visit [Facilitator Start Guide](./resources/facilitator-start-guide.md) before running emotionally sensitive activities.
+:::
+
+:::info Course Scope
+This is a curriculum with **18 core weeks** and **optional advanced weeks**. It is designed for **ages 8-12**, adaptable for younger or older learners, and usually runs in **60-90 minutes per week**.
+
+Each week includes two guided sessions and one independent practice. Younger learners may use shorter 20-minute sessions; older learners or classroom groups may use 30-minute sessions. Total weekly time is usually 60-90 minutes.
 :::
 
 :::info This Is Not Legal Advice
-This curriculum is an educational systems toolkit. It is not legal advice and it is not a law school primer. We use real legal concepts to teach clear thinking about rules, promises, and fairness — but no part of this material should be used to make decisions about a real legal situation. When a real legal question comes up, talk to a real lawyer.
+This curriculum is an educational systems toolkit. It uses legal ideas to teach careful thinking, not to resolve real legal problems. When an actual legal question appears, consult a qualified adult or professional in the relevant jurisdiction.
 :::
+
+> **Jurisdiction Note:** This lesson teaches a legal-system pattern. Exact rules differ by country, state, court system, school, and context.
 
 ## The Big Idea
 
-Imagine trying to run a city without any rules. No traffic lights. No agreed-upon meaning for what counts as "yours." No procedure for what happens when two people both claim the same parking spot.
+Imagine trying to run a city with no agreed rules, no stable meanings, and no process for resolving conflict.
 
-The system would crash within a day.
+The system would crash fast.
 
-Laws exist because **predictability is what allows societies to scale**. When you can trust that the next driver will stop at a red light, that the bakery will hand over the bread you paid for, and that no one can throw you in a cell without telling you why — you stop having to renegotiate every single interaction from scratch. The system has handled it. You can focus on the actual interesting parts of your life.
+Law exists because **predictability allows large groups of people to cooperate**. If people can trust what a rule means, what counts as evidence, how a dispute gets heard, and who can change the rules later, everyday life stops becoming one giant negotiation.
 
-This curriculum teaches students to see law that way: not as a list of things you're not allowed to do, but as **the protocol layer that makes complex human cooperation possible**. And once you can see it, you can ask much better questions about it — including when it's working, when it's buggy, and when it needs to be patched.
+That is the main reframe of this curriculum: law is not just a list of prohibitions. It is a human-built system for coordination, fairness, and repair.
 
----
+## A Practical Rule Map
+
+Students do better when they can tell different kinds of obligations apart. Use this map throughout the course.
+
+| Term | What it usually means | Useful question |
+|---|---|---|
+| **Law** | A rule created by a government, backed by official institutions | Who can enforce this officially? |
+| **Rule** | An instruction for how a system works | Who wrote this rule, and who can change it? |
+| **Norm** | An unwritten expectation that people usually follow | What happens if I break it: legal trouble, social pushback, or nothing? |
+| **Promise** | A commitment between people | Is this mainly moral, social, or legal? |
+| **Agreement / contract** | A more structured promise with terms and exchange | What did each side agree to give or do? |
+| **Right** | A limit on what power can do to a person | What is the system not allowed to do? |
+| **Responsibility** | A duty connected to a role, choice, or rule | What am I expected to carry or repair? |
+| **Ethical judgment** | A fairness or values question that may go beyond legality | Is it legal? Is it fair? Is it kind? Is it wise? |
+
+These recurring questions help:
+
+- Who created it?
+- Who has to follow it?
+- Who enforces it?
+- What happens if someone breaks it?
+- Who can change it?
+- Is it fair?
+- Is it legal?
+- Is it kind?
+- Is it wise?
 
 ## The Five Core Mental Models
 
-Throughout the curriculum, five big ideas thread through every lesson.
-
 ### 1. The Rule of Law Is System Stability
 
-In a functional system, the code applies equally to every node. **Rule of Law** means the rules are predictable and apply the same way regardless of who you are. **Rule of Man** means decisions depend on the mood of the person in charge. Predictability lets societies scale; arbitrariness makes them brittle.
-
----
+Predictable rules make large systems possible. Arbitrariness makes them brittle.
 
 ### 2. Contracts Are Interface Specifications
 
-A contract is the API for a promise. It has three required components: an **offer** (the input), an **acceptance** (the handshake), and **consideration** (the payload — something of value flowing in each direction). Miss any component and the spec is invalid, even if everyone meant well.
-
----
+We use contract design to practice clear agreements. Many legal systems look for offer, acceptance, and consideration, but exact contract rules vary by jurisdiction. Some agreements are legally enforceable, and some are not.
 
 ### 3. Precedent Is Version Control
 
-Courts don't rewrite the whole codebase every time something goes wrong. They look at past decisions (**precedent**) and patch the law incrementally. This means an early ruling can constrain decades of future rulings — for better and for worse.
-
----
+A precedent is a previous decision that later decision-makers may need to follow or seriously consider, especially when it comes from a higher court in the same legal system and the facts are similar enough.
 
 ### 4. The Letter vs. The Intent
 
-Rules are written in natural language, and natural language is ambiguous. "No vehicles in the park" — does that include a bicycle? A wheelchair? An ambulance? A war memorial tank? Most legal interpretation is the work of figuring out which reading best serves what the rule was *for*.
-
----
+Rules are written in natural language, and natural language is imperfect. The legal task is often to ask what the words say, what the rule was for, and which reading fits the system best.
 
 ### 5. Rights Are System Firewalls
 
-Rights are hardcoded boundaries on what the system is allowed to do to an individual. They are the things majority vote cannot override. In a well-designed system, the network cannot simply overwrite a single node, no matter how many other nodes agree.
-
----
+Rights are barriers against misuse of power. They matter most when a majority wants to do something the system should not allow.
 
 ## How to Use This Curriculum
 
 ### Who It's For
 
-This curriculum is designed for **adults working with kids ages 8–12** — parents, caregivers, teachers, homeschool families, co-op groups, after-school clubs. You do not need a law degree, a political science background, or anything resembling courtroom experience. If you can read a rule and ask "but what if…?", you have everything you need.
+This curriculum is for adults working with learners ages 8-12: families, caregivers, teachers, homeschool groups, clubs, and enrichment programs. You do not need a law degree. You need patience, curiosity, and a willingness to ask, "What is this rule for?"
 
 ### What a Typical Week Looks Like
 
-Each week has **three sessions of roughly 30 minutes each**:
+Each week includes:
 
-1. **Guided Session 1** — You lead. A short scenario, story, or thought experiment introduces the week's concept.
-2. **Guided Session 2** — You lead. A deeper activity applies the idea to a realistic situation.
-3. **Independent Practice** — Student-driven. Practice, observation, and a **Case Notes** entry where the student logs what they noticed and ruled.
+1. **Guided Session 1** - a scenario, model, or thought experiment
+2. **Guided Session 2** - a deeper activity, application, or draft
+3. **Independent Practice** - observation, revision, or a Case Notes entry
 
-### What This Curriculum Is NOT
+### What This Curriculum Is Not
 
-- **Not legal advice.** Every legal concept here is presented as a system to understand, not a recommendation for action.
-- **Not a law school primer.** We aren't training prosecutors or contract lawyers. We are training people who can read a rule, ask what it's for, and notice when something feels off.
-- **Not country-specific.** The mental models here describe how legal systems generally work. Specific statutes vary by country, state, and city, and that's not the point.
+- **Not legal advice**
+- **Not a law school survey**
+- **Not a tool for settling serious real-life conflicts**
+- **Not a universal script for every country or legal system**
 
 ### Adapting for Different Ages
 
-Every week includes:
+Every major lesson includes a younger learner path and an older learner extension. Use them flexibly.
 
-- **"For Younger Learners (Ages 8–9)"** — a simplified version of the week's idea, with shorter activities and oral or drawn alternatives to writing.
-- **"Extend (Ages 10–12)"** — deeper reasoning, more abstract scenarios, and additional discussion prompts.
+- Younger learners often need shorter chunks, oral answers, drawings, and fewer rules at once.
+- Older learners can compare competing interpretations, write more formal language, and explore tradeoffs, precedent, and appeals.
 
-You don't need to choose a track. Run the main lesson and use the age-specific boxes to adjust depth on the fly.
-
----
-
-## Course at a Glance
+## Course At a Glance
 
 | Unit | Weeks | Focus |
-|------|-------|-------|
-| **The Architecture of Rules** | 1–3 | Why rules exist, the tragedy of the commons, drafting the first laws of a new system |
-| **The Anatomy of a Promise** | 4–7 | Contracts as interface specs: offer, acceptance, consideration, and writing a real one |
-| **Debugging the Code** | 8–10 | Letter vs. intent, loopholes, and how precedent locks in future decisions |
-| **The Governance Project** | 11–14 | Rights as firewalls, distributed power, and writing & stress-testing a Micro-Charter |
-| **The Justice System in Action** | 15–18 | Courts as diagnostic tools, due process, mock trial, verdict, appeal, and revision |
+|---|---|---|
+| **The Architecture of Rules** | 1-3 | Why rules exist, how commons fail, and what first laws do |
+| **The Anatomy of a Promise** | 4-7 | Agreements, offer, acceptance, consideration, and clearer household agreements |
+| **Debugging the Code** | 8-10 | Interpretation, loopholes, ethics, and precedent |
+| **The Governance Project** | 11-14 | Rights, power, governance, the Micro-Charter, and amendments |
+| **The Justice System in Action** | 15-18 | Courts, due process, mock trial, verdict, appeal, and revision |
 
-### Optional Extensions
+### Optional Advanced Weeks
 
-- **Optional Week 1:** Criminal vs. civil law — two different systems for two different kinds of harm.
-- **Optional Week 2:** International law — what happens when there is no enforcer.
-
----
+- **Criminal vs. Civil Law** - two different legal tracks with different purposes and proof standards
+- **International Law** - rules between governments when there is no single world enforcer
 
 ## Case Notes
 
-The **Case Notes** journal is the backbone of this curriculum. Introduced in Week 1, it travels with the student through all 18 weeks. It is where they:
+Case Notes is the backbone artifact of the course. Introduce it in Week 1 and keep it going through Week 18.
 
-- log rules they notice in the real world
-- write down their own rulings on the cases they encounter
-- track how their thinking evolves as new mental models stack up
-- record amendments to their Micro-Charter as it gets stress-tested
+Use the [Case Notes Template](./resources/case-notes-template.md) if you want a printable version.
 
-By Week 18, Case Notes becomes a remarkable artifact: a record of one young person learning to think like a careful judge of rules, promises, and systems.
+Students use Case Notes to:
 
----
+- record rules they notice
+- write short rulings and questions
+- track loopholes, precedents, and amendments
+- reflect on how their understanding changes over time
+
+## Cross-Curriculum Connections
+
+This curriculum naturally overlaps with other Literacy for Kids tracks.
+
+- **Civic literacy** - governance, public rules, checks and balances, and rights
+- **Financial literacy** - contracts, terms, fraud, and consumer promises
+- **Media literacy** - evidence, claims, proof, and credibility
+- **Decision literacy** - tradeoffs, incentives, fairness, and unintended consequences
+- **Environmental literacy** - commons, treaties, shared resources, and enforcement problems
+- **Emotional and social literacy** - listening, respectful disagreement, and low-stakes conflict resolution
 
 ## The Goal
 
-By the end of 18 weeks, students will:
+By the end of 18 weeks, students should be able to:
 
-- **See rules as systems**, not as arbitrary commands from authority
-- **Spot the three required parts of a contract** and notice when one is missing
-- **Distinguish the letter of a rule from its intent** and use both to interpret edge cases
-- **Understand precedent** as binding past decisions that constrain future ones
-- **Name what rights actually are** — hardcoded constraints on institutional power
-- **Build and stress-test their own governing document** — and know how to amend it when reality breaks it
-- **Run a mock trial from complaint to verdict to appeal**
-- **Carry a working mental model of how the legal system is supposed to work** — and notice when it isn't
+- see rules as designed systems, not just commands
+- identify the parts of a structured agreement
+- distinguish letter from intent
+- explain how precedent shapes later rulings
+- describe rights as limits on power
+- build and amend a Micro-Charter
+- run a low-stakes trial from complaint to written ruling
+- recognize when process fairness matters as much as outcome
 
-The most important outcome isn't memorizing legal terms. It's a shift in stance:
+The most important outcome is not memorizing terms. It is a shift in stance:
 
-**Students should see themselves as readers, designers, and improvers of the rules — not just as people the rules happen to.**
+**Students learn to see themselves as readers, designers, and improvers of rules.**

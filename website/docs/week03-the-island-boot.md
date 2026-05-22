@@ -46,6 +46,7 @@ This week wraps up Unit 1 by giving the student the keys to a fresh system. They
 :::info Before You Begin
 - Read through the Island Scenarios in Session 1 so you can read them aloud naturally.
 - Have paper ready for the student to draft their First Three Laws.
+- Optional: use the [First Three Laws Worksheet](./resources/first-three-laws-worksheet.md) so the student records the law, the problem it solves, and the enforcement plan in one place.
 - Optional: print or sketch a simple island map. It makes the scenario more vivid.
 :::
 
@@ -225,12 +226,12 @@ Take the island idea seriously enough to stress-test the laws against a new situ
 
 Imagine: **two weeks have passed.** The kids are surviving. The three laws have mostly worked. But now a new situation emerges:
 
-> "Two kids fall in love. They want to build a separate shelter together, away from the main group. They want their own food supply. They are still 12 years old, and the group is worried."
+> "Two kids want to build a smaller side shelter for quiet work and to store the fishing gear they use most. Other kids worry that shared tools and supplies will slowly become 'theirs' and stop being available to the group."
 
 The student writes:
 - Do the three laws cover this situation?
 - If yes, how do they apply?
-- If no, is a new law needed? Or is this a case where someone has to make a judgment call?
+- If no, is a new law needed? Or is this a case where someone has to make a judgment call about shared resources, personal space, and group duties?
 
 This is the student's first taste of an **edge case** — a situation the original rules didn't anticipate. (We'll dig deep into edge cases in Weeks 8–10.)
 

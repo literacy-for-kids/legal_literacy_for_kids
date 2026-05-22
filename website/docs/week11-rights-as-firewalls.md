@@ -25,6 +25,10 @@ This is hard to grasp at first because it pushes back on something we've been ta
 - Be careful not to wade into political controversies. Use neutral, structural examples.
 :::
 
+:::note Scope Note
+Rights and due-process protections vary by country, constitution, school system, and institution. This week teaches the structural idea: rights are limits on power, even though the exact list of rights and procedures differs across legal systems.
+:::
+
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Firewall Concept](#guided-session-1)
@@ -122,9 +126,9 @@ Drop the analogy:
 
 Examples of rights as firewalls (use neutral, procedural ones — not policy-divisive ones):
 
-- **The right not to be punished without being told why.** Even if 99% of the people in your school think you broke a rule, the school still has to tell you what rule and give you a chance to respond.
-- **The right not to have your private things searched without reason.** Even if the principal really wants to look in your backpack, they're not supposed to do it without a real cause.
-- **The right to remain silent when accused.** Even if everyone expects you to defend yourself, you can choose not to speak — and that choice can't be used against you.
+- **The right not to be punished without being told why.** In a fair legal or school process, even if almost everyone thinks you broke a rule, the institution should still tell you what rule and give you a chance to respond.
+- **The right not to have your private things searched without reason.** In many systems or school policies, an authority figure needs a real cause before searching private belongings.
+- **The right to remain silent when accused.** In many legal systems, a person accused of a crime can choose not to answer questions, and that choice has special protections.
 - **The right to fair treatment regardless of who you are.** The rules have to be applied the same way to everyone, not differently based on who's popular.
 
 Notice: these are all **constraints on the institution**, not permissions for the individual. A right is a *limit on power*.

@@ -25,6 +25,10 @@ Three concepts do most of the work: **jurisdiction** (which court has authority)
 - Preview the mock trial in Week 17. The student should know it's coming and that the concepts this week directly feed into it.
 :::
 
+:::note Standards Note
+Courts do not use official percentages for these proof standards. "Preponderance of the evidence" means more likely than not. "Beyond reasonable doubt" means a very high level of confidence after fair consideration of the evidence.
+:::
+
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: What Makes a Court a Court?](#guided-session-1)
@@ -46,7 +50,7 @@ Three concepts do most of the work: **jurisdiction** (which court has authority)
 :::info Before You Begin
 - Have the student's Charter v1.1 on hand. The dispute-resolution protocol they wrote in Week 13 is the running point of comparison.
 - Read the four practice scenarios below so you can present them naturally.
-- Optional but useful: a simple visual showing the difference between "more likely than not" (51%) and "almost certain" (99%) — even a hand-drawn slider works.
+- Optional but useful: a simple visual showing the difference between "more likely than not" and "very high confidence" — even a hand-drawn slider works.
 :::
 
 :::tip Facilitation Mindset
@@ -218,11 +222,11 @@ Now the harder question: *how certain does the judge need to be?* Different kind
 
 > "There are two big standards in the real legal world."
 
-Draw a simple slider from 0% to 100% certain.
+Draw a simple slider from "not convinced" to "very convinced."
 
-> "**Preponderance of evidence**" — mark it at about 51%. "This is the standard for civil cases — disputes between two people about money, contracts, damage, that kind of thing. The judge just has to think it's *more likely than not* that the story is true. Like, 51% certain or better."
+> "**Preponderance of evidence**" means *more likely than not*. This is the standard for civil cases — disputes between two people about money, contracts, damage, and similar harms. If the evidence tips the scale even a little to one side, that side wins."
 
-> "**Beyond reasonable doubt**" — mark it near 99%. "This is the standard for criminal cases — when the government is trying to convict someone of a crime. The judge or jury has to be almost certain. Anything less and the accused walks free."
+> "**Beyond reasonable doubt**" is a much higher standard. This is the standard for criminal cases — when the government is trying to convict someone of a crime. The judge or jury must reach a very high level of confidence after considering the evidence. There is no official percentage."
 
 Ask:
 
@@ -375,8 +379,8 @@ After Session 2, have older learners look up the actual structure of their local
 - **Jurisdiction** — Which court has authority to hear which cases, and over which people.
 - **Standing** — The right to bring a case, usually because you were actually affected by what happened.
 - **Burden of proof** — The job of proving something in a dispute, and the level of certainty required to win.
-- **Beyond reasonable doubt** — The very high standard of proof used in criminal cases. Closer to 99% certain.
-- **Preponderance of evidence** — The lower standard of proof used in civil cases. Closer to 51% — more likely than not.
+- **Beyond reasonable doubt** — The very high standard of proof used in criminal cases. Not an official percentage.
+- **Preponderance of evidence** — The lower standard of proof used in civil cases. More likely than not.
 :::
 
 ## Preview of Next Week

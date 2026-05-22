@@ -27,7 +27,7 @@ These mental models help students transition from seeing rules as arbitrary rest
 
 ### The Curriculum Roadmap
 
-This 14-week progression moves from the theoretical need for rules to the practical application of writing and interpreting them.
+This 18-week core progression, with optional advanced weeks, moves from the theoretical need for rules to the practical application of writing, interpreting, testing, and revising them.
 
 ### Weeks 1–3: The Architecture of Rules
 
@@ -41,7 +41,7 @@ We start at zero. Why do we even need rules? We explore the tragedy of the commo
 **Focus:** Micro-Law, Accountability, and Consideration
 We scale down from society to the individual. How do two people make an enforceable deal? We look at what happens when promises lack "consideration" (an exchange of value) and how vague language creates systemic failure in a transaction.
 
-- **Key Activity: The Chores API** — Students draft an airtight, binding contract with their parents/siblings for a household task. They must account for edge cases (e.g., "What if the vacuum is broken?", "What defines 'clean'?") and establish a penalty for breach of contract.
+- **Key Activity: The Chores API** — Students draft a clear household agreement that borrows contract design tools: offer, acceptance, consideration, definitions, edge cases, and remedies. The goal is precision and fairness, not pretending every household agreement is automatically court-enforceable.
 
 ### Weeks 8–10: Debugging the Code (Interpretation)
 

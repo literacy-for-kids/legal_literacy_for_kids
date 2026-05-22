@@ -16,10 +16,11 @@ function HomepageHeader() {
             A free, open curriculum that teaches ages 8–12 how rules, contracts, and legal systems actually work.
           </p>
           <p className={styles.heroLead}>
-            18 weeks of hands-on, discussion-driven lessons — each about 20 minutes
-            per session — designed for classrooms, homeschool families, after-school
-            clubs, and any adult who wants to help kids move from seeing rules as
-            arbitrary restrictions to understanding law as the operating system of society.
+            18 core weeks, plus optional advanced weeks, designed for classrooms,
+            homeschool families, after-school clubs, and any adult who wants to help
+            kids move from seeing rules as arbitrary restrictions to understanding law
+            as the operating system of society. Most weeks use two guided sessions and
+            one independent practice, for about 60–90 minutes total.
           </p>
           <div className={styles.buttons}>
             <Link
@@ -43,7 +44,7 @@ export default function Home() {
   return (
     <Layout
       title="Welcome"
-      description="A free, open 18-week curriculum that teaches ages 8–12 how rules, contracts, and legal systems actually work.">
+      description="A free, open curriculum with 18 core weeks and optional advanced weeks that teaches ages 8–12 how rules, contracts, and legal systems work.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

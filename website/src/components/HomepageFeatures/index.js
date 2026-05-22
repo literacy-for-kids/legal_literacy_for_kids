@@ -101,8 +101,9 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Introduction</Heading>
           <p className={styles.sectionLead}>
-            Legal Literacy for Kids is an 18-week curriculum for ages 8–12, built for
-            classroom teachers, homeschool families, caregivers, and after-school leaders.
+            Legal Literacy for Kids is an 18-week core curriculum for ages 8–12, with
+            optional advanced weeks, built for classroom teachers, homeschool families,
+            caregivers, and after-school leaders.
             Students move from understanding why rules exist through contract writing,
             legal interpretation, and a full mock trial — learning to see law as the
             operating system of human society.
@@ -171,7 +172,8 @@ export default function HomepageFeatures() {
           <Heading as="h2">Start Teaching Legal Literacy</Heading>
           <p className={styles.sectionLead}>
             Begin with the Welcome page for an overview, then jump into Week 1.
-            Each session is about 20 minutes — designed for ages 8–12.
+            Each week includes two guided sessions and one independent practice.
+            Younger learners may use 20-minute chunks; older learners often use 30-minute sessions.
           </p>
           <div className={styles.ctaButtons}>
             <Link className="button button--primary button--lg" to="/docs/intro">

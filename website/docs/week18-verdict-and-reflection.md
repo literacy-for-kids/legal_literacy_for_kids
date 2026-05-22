@@ -10,7 +10,7 @@ description: "Students deliver verdicts, explore the concept of appeal, and refl
 
 The trial is done.
 
-Now we deliver the formal verdict, examine what it means, and introduce the last big concept of the curriculum: **appeal** — the system feature that lets a ruling be reviewed when the process was flawed. Then we write the final patch to your Charter, **Amendment v2.0**, and look back at 18 weeks of work.
+Now we deliver the formal verdict, examine what it means, and introduce the last big concept of the curriculum: **appeal** — the system feature that lets a ruling be reviewed when there may have been a meaningful error in process or rule application. Then we write the final patch to your Charter, **Amendment v2.0**, and look back at 18 weeks of work.
 
 This is the capstone. By the end of this week, you'll have run the entire arc — rules, contracts, interpretation, governance, justice — and you'll have a vocabulary for thinking about all of it. Law is not a list of rules someone made up to bother you. It's a collectively-maintained operating system that runs on the consensus of the people living under it. When you don't like a law, you now have the vocabulary to argue about whether it's the right rule — instead of just complaining.
 
@@ -21,7 +21,7 @@ That shift is what this curriculum was for.
 :::info Facilitator Snapshot
 - This is the finale. Make it feel like completion, not a test.
 - Session 1 is the formal verdict + an introduction to appeal. Session 2 is Amendment v2.0 + the summary table.
-- The big idea about appeal: you don't appeal because you lost. You appeal because the *process* was flawed. That distinction is what separates a legal system from a tantrum.
+- The big idea about appeal: you don't appeal just because you lost. You appeal because there may have been a reviewable error in process, rule application, or reasoning.
 - Independent Practice is the closing Case Notes entry. Give it weight. This is the last entry of the journal.
 - Celebrate. The student has completed a real piece of work.
 :::
@@ -47,6 +47,7 @@ That shift is what this curriculum was for.
 :::info Before You Begin
 - Have the Week 17 written verdict in hand. Reread it before Session 1.
 - Pull out the student's Case Notes from across the curriculum — even just having the notebook visible is a powerful prompt.
+- Have the [Appeal Checklist](./resources/appeal-checklist.md), [Final Reflection Template](./resources/final-reflection-template.md), and [Amendment Template](./resources/amendment-template.md) ready if you want copy-ready supports.
 - Think about how you want to mark completion. A certificate, a small celebration, a special meal, a photo of the final Charter — anything that signals "this was a real piece of work."
 :::
 
@@ -60,7 +61,7 @@ This week's facilitation is part teacher, part witness. You're not introducing m
 **Simplest version of the concept:** "We're going to finish the trial properly, learn what 'appeal' means, and update your Charter one more time. Then we'll look back at everything you've built."
 
 **What to shorten or skip:**
-- Skip the technical appeal categories (harmless error, etc.). Just teach: "You can ask for a ruling to be checked, but only if the process was wrong, not because you didn't like the answer."
+- Skip the technical appeal categories (harmless error, etc.). Just teach: "You can ask for a ruling to be checked if something important went wrong in the process or the rule application, not just because you didn't like the answer."
 - The summary table can be done out loud rather than written.
 - Keep sessions to 20 minutes.
 
@@ -87,8 +88,8 @@ This week's facilitation is part teacher, part witness. You're not introducing m
 By the end of this session, the student can:
 
 - deliver and discuss the formal verdict from Week 17 with explicit reasoning
-- explain appeal as a system feature, not a do-over for losers
-- identify what kinds of process errors justify an appeal
+- explain appeal as a system feature, not a do-over for disappointed parties
+- identify what kinds of reviewable errors justify an appeal
 
 ---
 #### Activities
@@ -113,7 +114,7 @@ That last question is the most important. It teaches the student to see the ruli
 
 Define it carefully:
 
-> "**Appeal** is the right to ask a higher court (or a review panel) to check whether a ruling was correct. But here's the part most people get wrong: **you can't appeal just because you lost**. You can appeal because the *process* was flawed."
+> "**Appeal** is the right to ask a higher court (or a review panel) to check whether a ruling was correct. But here's the part most people get wrong: **you can't appeal just because you lost**. You appeal because there may have been a meaningful error the reviewing court should check."
 
 List the kinds of things you actually can appeal on:
 
@@ -134,7 +135,7 @@ And the things you *cannot* appeal on:
 
 Land the principle:
 
-> "Appeals are about *process*, not preference. The process can be right even if the outcome feels wrong. And the outcome can be right even if the loser disagrees. Appeal is the mechanism that catches the cases where the process actually failed — not the cases where the loser just doesn't like losing."
+> "Appeals are about *reviewable error*, not preference. The process can be right even if the outcome feels wrong. And the outcome can be right even if the losing side disagrees. Appeal is the mechanism that catches the cases where the court may have skipped a step, used the wrong rule, or reasoned in a way that should be checked — not the cases where someone simply dislikes losing."
 
 ---
 
@@ -234,7 +235,7 @@ Now look back. Together with the student, fill out this summary table — one ro
 | **Anatomy of a Promise** | Week 4 | A contract is offer + acceptance + consideration |
 | | Week 5 | Offer and acceptance — when a deal actually forms |
 | | Week 6 | Consideration — value flowing both ways |
-| | Week 7 | The Chores API — a real signed enforceable contract |
+| | Week 7 | The Chores API — a real signed household agreement using contract-design tools |
 | **Debugging the Code** | Week 8 | Letter vs. intent — language is ambiguous |
 | | Week 9 | Loopholes — when the letter is followed but the intent is violated |
 | | Week 10 | Precedent — past rulings constrain future ones |
@@ -395,7 +396,7 @@ Use this as a facilitated conversation or a written reflection.
 
 **Unit 1 — Architecture of Rules (Weeks 1–3):** "Why do rules exist at all? How do they protect shared resources? What is the minimum a system needs to function?"
 
-**Unit 2 — Anatomy of a Promise (Weeks 4–7):** "A contract is an interface specification. Offer, acceptance, consideration. The Chores API is a real signed enforceable example."
+**Unit 2 — Anatomy of a Promise (Weeks 4–7):** "A contract is an interface specification. Offer, acceptance, consideration. The Chores API is a real signed household agreement built with contract-design tools."
 
 **Unit 3 — Debugging the Code (Weeks 8–10):** "Language is ambiguous. Loopholes happen. Precedent is how systems learn. Letter vs. intent is the work of interpretation."
 

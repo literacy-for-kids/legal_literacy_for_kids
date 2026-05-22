@@ -192,7 +192,7 @@ It would probably be slower. But it would also be more consistent and harder to 
 
 **3. Micro-Charter Power Design**
 
-Pull out the student's notes on their Micro-Charter (started in Week 11). Now ask:
+Pull out the student's notes for the Micro-Charter domain they chose in Week 11, along with their candidate rights and power ideas. Now ask:
 
 > "In your domain, who currently has the power to (a) make rules, (b) enforce them, and (c) decide if someone broke them?"
 

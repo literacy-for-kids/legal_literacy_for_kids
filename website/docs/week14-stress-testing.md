@@ -47,7 +47,7 @@ By the end of this week, your Charter will have **Amendment v1.1** attached to i
 :::info Before You Begin
 - Have the student's signed Charter from Week 13 in front of you. You will refer back to it constantly.
 - Adapt the five scenarios below to fit the student's actual Charter domain. The scenarios are written generically — but they land harder when they target the student's specific Charter (their bedroom rules, their friend group rules, their Minecraft server rules).
-- Have paper ready for the **Amendment Worksheet**: Scenario → Charter Provision Cited → Ruling → Gap Found → Proposed Patch.
+- Have paper ready for the **Amendment Worksheet**: Scenario → Charter Provision Cited → Ruling → Gap Found → Proposed Patch. The [Amendment Template](./resources/amendment-template.md) is useful once the student moves from notes to formal text.
 - Plan extra time for Session 2. Drafting amendments is slower than running scenarios.
 :::
 
@@ -224,7 +224,7 @@ Worksheet:
 
 Now collect everything. Across the four gap scenarios, the student has four proposed patches. Time to write them up formally.
 
-Use the **Amendment Template** introduced in Week 13:
+Use the [Amendment Template](./resources/amendment-template.md) introduced in Week 13:
 
 ```
 ═══════════════════════════════════════════════

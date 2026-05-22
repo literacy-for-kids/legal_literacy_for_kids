@@ -1,26 +1,31 @@
 ---
 sidebar_position: 7
-sidebar_label: "Week 7: Writing an Airtight Agreement"
-title: "Week 7: Writing an Airtight Agreement"
-description: "Students draft an airtight contract for a household task, accounting for edge cases and breach penalties."
+sidebar_label: "Week 7: Writing a Clear Household Agreement"
+title: "Week 7: Writing a Clear Household Agreement"
+description: "Students draft a low-stakes household agreement for a task, accounting for edge cases, remedies, and review."
 ---
 
 # Week 7: Writing an Airtight Agreement
 *The Anatomy of a Promise — Phase 2 Finale: The Chores API*
 
-This week, you're going to write a real contract.
+This week, you're going to write a real household agreement.
 
-Not a pretend contract. Not a worksheet. A **real, signed, enforceable document** that you and someone in your house will actually sign and follow. We're going to call it the **Chores API**, because that's what you're really writing: an interface specification for a household task, with inputs, outputs, edge cases, and remedies for breach.
+Not a pretend contract. Not a worksheet that gets forgotten. A **real, signed document** that you and someone in your house will actually use and review. We're going to call it the **Chores API**, because that's what you're really writing: an interface specification for a household task, with inputs, outputs, edge cases, and remedies when things go off track.
 
-By the end of this week, you'll have a piece of paper signed by you and a parent or sibling that defines exactly what "cleaning the kitchen" (or whatever task you choose) means, what each side is providing, what counts as breach, and what happens if it does. This is the practical capstone of Unit 2.
+By the end of this week, you'll have a piece of paper signed by you and a parent or sibling that defines exactly what "cleaning the kitchen" (or whatever task you choose) means, what each side is providing, what counts as a missed obligation, and what happens next. This is the practical capstone of Unit 2.
 
 ---
 
 :::info Facilitator Snapshot
-- This is the most hands-on, *real* lesson in the curriculum so far. The student walks away with an actual signed document.
+- This is the most hands-on, *real* lesson in the curriculum so far. The student walks away with an actual signed document they can use and revise.
 - The parent or other party who signs the contract has to be on board with following it. Discuss in advance.
-- The exercise is more important than the actual chore. Even if the contract is for a small thing (feeding the dog, taking out the trash), the process of drafting it is what matters.
+- The exercise is more important than the actual chore. Even if the agreement is for a small thing (feeding the dog, taking out the trash), the process of drafting it is what matters.
+- This is a practice agreement, not a promise that a court would enforce the arrangement between a child and a family member.
 - Expect some pushback in the drafting process. Real contracts are negotiated. That's a feature, not a bug.
+:::
+
+:::note Scope Note
+Many household agreements between minors and family members are not treated the same way as business contracts in court. We still use contract-design tools here because they teach clarity, reciprocity, notice, and revision.
 :::
 
 :::tip Quick Navigation
@@ -42,8 +47,10 @@ By the end of this week, you'll have a piece of paper signed by you and a parent
 ## Facilitator Preparation
 
 :::info Before You Begin
-- **Pick the task in advance.** You and the student should agree on what household task the contract will cover. Common choices: kitchen cleanup, dog walking, trash duty, laundry folding, dishes after dinner, bed-making, weekly room cleaning.
-- **Be willing to actually use the contract.** This means the parent/co-signer has to follow it too. If you back out after the contract is signed, the lesson collapses.
+- **Pick the task in advance.** You and the student should agree on what household task the agreement will cover. Common choices: kitchen cleanup, dog walking, trash duty, laundry folding, dishes after dinner, bed-making, weekly room cleaning.
+- **Be willing to actually use the agreement.** This means the parent/co-signer has to follow it too. If you back out after it is signed, the lesson collapses.
+- Use the [Contract Design Worksheet](./resources/contract-design-worksheet.md) for drafting and the [Chores API / Household Agreement Template](./resources/chores-api-household-agreement-template.md) for the final version.
+- Keep the agreement low-stakes. Avoid humiliating penalties, money pressure, or anything that would make the exercise feel threatening.
 - Read both Sessions so you can guide drafting without dominating.
 - Have a clean piece of paper ready for the final signed document.
 :::
@@ -73,8 +80,8 @@ This week, your job is to **push the student into specificity**. When they write
 
 :::info For Ages 10–12
 - Push the student to think through at least **three edge cases** ("what if I'm sick?", "what if the dishwasher is broken?", "what if there's a holiday?").
-- Introduce the formal contract structure: Parties, Recitals, Obligations, Edge Cases, Breach, Remedies, Signatures.
-- Encourage them to write a real **breach clause** ("If I don't complete the task by Friday, I lose my allowance for the next week").
+- Introduce the formal agreement structure: Parties, Purpose, Obligations, Edge Cases, Breach, Remedies, Review, Signatures.
+- Encourage them to write a realistic **response-to-breach clause** (for example: reschedule, make-up task, pause and renegotiate, or a clearly defined consequence tied to the agreement).
 :::
 
 ---
@@ -134,7 +141,7 @@ This matters because if an input is missing, the task can't be done. We'll handl
 
 Now the other side. What does the student get in exchange?
 
-This is where negotiation happens. Common consideration:
+This is where negotiation happens. In this curriculum, consideration means what each side is promising or giving in the agreement, even if a household agreement would not be treated exactly like a business contract in court. Common consideration:
 - A specific amount of money (allowance bump)
 - A specific privilege (extra screen time, later bedtime on weekends)
 - A specific permission (sleepover, special outing)
@@ -191,22 +198,23 @@ For each edge case, the student writes a clause for the contract:
 
 Now the serious part. What happens if either side just *doesn't follow through*?
 
-In contract law, breaking your obligation is called **breach**. The agreed-upon consequence is called the **remedy**.
+In contract law, breaking your obligation is called **breach**. The agreed-upon response is called the **remedy**.
 
 For this contract, the student writes:
 
 > **Breach by Party A (student):**
 > - If the task is not done by the agreed-upon time, with no valid edge case, then:
->   - First time: a warning + 24 hours to complete.
->   - Second time in a week: half the allowance is forfeited.
->   - Three times in a week: the contract is suspended for the following week.
+>   - First time: a reminder and a same-day make-up plan.
+>   - Repeated misses: the consideration for that task cycle may pause until the work is completed or the agreement is renegotiated.
+>   - If the pattern continues: both sides review whether the agreement is realistic and fair.
 
 > **Breach by Party B (parent):**
 > - If the consideration is not provided by the agreed-upon time:
->   - The student receives the consideration plus an additional $1 for delay.
->   - If three breaches happen in a row, the student may renegotiate the contract.
+>   - Party B provides it at the next agreed review time.
+>   - Both sides discuss what caused the miss.
+>   - If repeated misses happen, either side may pause and renegotiate the agreement.
 
-Notice: a real contract specifies what happens for **both sides** when they break it. This is important. If the contract only punishes the student for breaches, it's not really a fair contract.
+Notice: a fair agreement specifies what happens for **both sides** when they miss their obligations. If the document only punishes the student and never names the other side's duties, it is not well-designed.
 
 ---
 
@@ -217,7 +225,7 @@ Write the final contract on a clean sheet of paper. Use this structure:
 ```
 ═══════════════════════════════════════════════
 THE CHORES API
-A Binding Agreement
+A Household Agreement for a Shared Task
 ═══════════════════════════════════════════════
 
 PARTIES

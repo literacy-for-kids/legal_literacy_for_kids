@@ -55,7 +55,7 @@ This is the famous problem that legal philosophers have been chewing on for almo
 :::info Before You Begin
 - Read all 8 scenarios in Session 1 before teaching so you can react naturally to the student's reasoning.
 - Have the student's Case Notes ready — they'll be capturing how they ruled and *why*.
-- You may want to read up briefly on the H.L.A. Hart vs. Lon Fuller "vehicles in the park" debate from the 1950s — it's where this thought experiment comes from, and the real legal scholarly disagreement is fascinating background.
+- You may want to read up briefly on the H.L.A. Hart vs. Lon Fuller "vehicles in the park" debate from the 1950s. It is the classic legal argument about whether rules have a clear core meaning with fuzzy edges, or whether purpose and context are doing more of the work than the words alone.
 :::
 
 :::tip Facilitation Mindset

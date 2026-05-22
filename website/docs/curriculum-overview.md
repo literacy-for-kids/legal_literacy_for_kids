@@ -7,125 +7,109 @@ description: "An overview of the 18-week Legal Literacy for Kids curriculum stru
 
 # Curriculum Overview
 
-Legal Literacy for Kids is an 18-week course that teaches young learners (ages 8–12) to read the legal system as the **operating system of human society** — a giant, mostly logical set of rules, promises, and procedures that exists because predictability is what allows millions of people to live together without crashing into each other.
+Legal Literacy for Kids is an **18-week core curriculum** for ages 8-12, with **optional advanced weeks** for criminal vs. civil law and international law.
 
-This page gives the big picture: how the units connect, what's distinctive about this curriculum, what prerequisites are required, and what success looks like at the end of Week 18.
+It teaches students to read the legal system as a living structure of rules, agreements, interpretation, procedures, evidence, rulings, appeals, and amendments.
 
----
+Use [Legal Systems Cycle](./legal-systems-cycle.md) alongside this page if you want the full course arc in one visual sequence.
 
-## Unit Structure
+## Program Structure
 
-The course is organized into five units, plus two optional extension weeks.
+The course is organized into five units.
 
-### Unit 1: The Architecture of Rules (Weeks 1–3)
+### Unit 1: The Architecture of Rules (Weeks 1-3)
 
-Students start with the foundational question: **why do rules exist at all?** They explore what happens when a shared resource has no rules (the tragedy of the commons), and then run a thought experiment where they boot up a brand-new society from scratch and draft its first three laws. The unit ends with students articulating, in their own words, why rules are the structural condition for any system that has to scale beyond a handful of people.
+Students ask why rules exist at all. They explore collapse, shared resources, and the first laws of a new system.
 
----
+### Unit 2: The Anatomy of a Promise (Weeks 4-7)
 
-### Unit 2: The Anatomy of a Promise (Weeks 4–7)
+Students learn how structured agreements work. They study offer, acceptance, and consideration, then use those tools to design a clear household or group agreement.
 
-Contracts are introduced as **interface specifications for promises**: an offer (the input), an acceptance (the handshake), and consideration (the payload of value being exchanged). Each component gets its own week, and the unit ends with students drafting a real, signed, enforceable household contract — the **Chores API** — that they will actually use.
+### Unit 3: Debugging the Code (Weeks 8-10)
 
----
+Students examine meaning, ambiguity, loopholes, and precedent. They learn that clever interpretation is not always fair interpretation.
 
-### Unit 3: Debugging the Code (Weeks 8–10)
+### Unit 4: The Governance Project (Weeks 11-14)
 
-Once students understand what rules and contracts *say*, they confront the harder problem: what rules and contracts *mean*. Week 8 introduces the famous "No vehicles in the park" thought experiment to dramatize the gap between letter and intent. Week 9 turns to loopholes — situations where the letter of the law can be followed while the intent is violated. Week 10 introduces **precedent**: students rule on a series of escalating edge cases, where each ruling becomes binding for the next.
+Students move from rights and distributed power to a working Micro-Charter. Then they stress-test it and write amendments.
 
----
+### Unit 5: The Justice System in Action (Weeks 15-18)
 
-### Unit 4: The Governance Project (Weeks 11–14)
+Students study courts, standards of proof, due process, mock trial procedure, appeals, and final revision.
 
-Students learn that **rights** are firewalls — hardcoded constraints on institutional power that cannot be overridden by majority vote — and that distributed power is how a system avoids single points of failure. Then they apply everything from the prior 12 weeks to build their own **Micro-Charter**: a foundational governing document for a domain they choose (a Minecraft server, a shared room, a friend group). Week 14 stress-tests the Charter against hypothetical conflicts and forces them to write amendments.
+## Optional Advanced Weeks
 
----
+- **Criminal vs. Civil Law** - why similar facts can produce different legal tracks and different proof standards
+- **International Law** - why rules can still matter when no one sits above the system with total enforcement power
 
-### Unit 5: The Justice System in Action (Weeks 15–18)
+## Distinctive Features
 
-The capstone arc. Students learn how courts work as **diagnostic tools** for the edge cases the original code didn't anticipate (Week 15: jurisdiction, standing, burden of proof). They explore **due process** as a system design principle — why procedural fairness matters even when the outcome feels obvious (Week 16). Then they run a **mock trial** (Week 17) using their own Micro-Charter as the governing document, and finish by delivering a verdict, introducing the concept of appeal, and writing Amendment Version 2.0 of their Charter (Week 18).
+### 1. Systems Thinking Throughout
 
----
+The curriculum uses recurring metaphors such as law as an operating system, rights as firewalls, loopholes as bugs, and courts as dispute-resolution processes. These are not decorative. They help students see how the pieces fit together.
 
-### Optional Extensions
+### 2. Recurring Artifacts
 
-- **Optional Week 1: Criminal vs. Civil Law.** Two different systems for two different kinds of harm. Why the same act can lead to both. Different burdens of proof.
-- **Optional Week 2: International Law.** What happens when there is no enforcer. Treaties as contracts between states. Why sovereignty acts as a firewall against outside jurisdiction.
+Students keep building and revising the same core artifacts:
 
----
+- Case Notes
+- First Three Laws
+- contracts and agreements
+- precedent logs
+- Micro-Charter drafts and amendments
+- mock trial materials
+- final written ruling and reflection
 
-## What's Distinctive About This Curriculum
+### 3. Classroom-Ready Supports
 
-### 1. Systems Framing Throughout
+The curriculum now includes a dedicated resource set with templates, rubrics, exemplar artifacts, and extension ideas. Start with [Facilitator Resources](./resources/index.md).
 
-Most legal-education-for-kids materials present law as a list of important facts to memorize. This curriculum presents law as a **system to understand**. Contracts are interface specifications. Precedent is version control. Rights are firewalls. Courts are diagnostic tools. The framing isn't a gimmick — it's how the system actually behaves once you look closely.
+## Pacing
 
-### 2. The Micro-Charter as a Living Artifact
+Each week includes two guided sessions and one independent practice. Younger learners may use shorter 20-minute sessions; older learners or classroom groups may use 30-minute sessions. Total weekly time is usually 60-90 minutes.
 
-From Week 11 onward, the curriculum builds toward the Micro-Charter. Students write it in Week 13, break it in Week 14, run a trial under it in Week 17, and amend it in Week 18. By the end, they have a real document that has survived real stress tests — and they understand why every word of it is there.
-
-### 3. Case Notes as the Backbone Journal
-
-Students keep a running log called **Case Notes** through all 18 weeks. It is where they record rules they noticed, rulings they made, and amendments they wrote. By the end, it is an artifact showing how one young person learned to think like a careful judge of rules and systems.
-
-### 4. The "No Vehicles in the Park" Thought Experiment
-
-Weeks 8 and 9 sit on a single thought experiment that is famous in legal philosophy because it illuminates a real and unsolvable feature of language: that rules written in words are always slightly ambiguous, and that almost all interpretive work is figuring out which reading best serves the rule's purpose.
-
----
+| Component | Typical time |
+|---|---|
+| Guided Session 1 | 20-30 minutes |
+| Guided Session 2 | 20-30 minutes |
+| Independent Practice | 20-30 minutes |
+| **Total per week** | **60-90 minutes** |
 
 ## Prerequisites
 
-**None.**
+None. The course is self-contained.
 
-This curriculum does not require any prior exposure to law, politics, or civics. It is self-contained.
+It also connects naturally to civic literacy, financial literacy, media literacy, decision literacy, environmental literacy, and emotional or social literacy.
 
-That said, the curriculum sits nicely alongside other Literacy for Kids tracks. **Civic Literacy** covers the most related territory (rules, communities, government structure) and pairs naturally. **Decision Literacy** introduces process-vs-outcome thinking that shows up implicitly throughout. **Financial Literacy** covers contracts in a money context that overlaps with our Unit 2.
+## Scope and Accuracy Notes
 
----
+> **Jurisdiction Note:** This lesson teaches a legal-system pattern. Exact rules differ by country, state, court system, school, and context.
 
-## What Success Looks Like at Week 18
+- The course focuses on legal-system patterns, not one country's full doctrine.
+- The contract unit teaches how to design clear agreements. It does **not** claim that every household, classroom, or child-made agreement is automatically enforceable in court.
+- The due process unit focuses mainly on **procedural fairness**: notice, evidence, hearing, neutral decision-maker, and reasoned decision.
+- The precedent unit teaches a common-law style pattern. Some legal systems use precedent differently.
 
-By the end of the course, a student should be able to:
+## What Success Looks Like
 
-- **Explain why rules exist** in their own words, with an example
-- **Name the three required components of a contract** and identify whether a given promise has all three
-- **Distinguish the letter of a rule from its intent**, and use both to argue about an edge case
-- **Explain precedent** — what it is, why it matters, and how an early ruling constrains later ones
-- **Define what a "right" is** as a constraint on institutional power, and give an example
-- **Show their Micro-Charter v2.0** and explain at least one amendment they made because of stress-testing
-- **Walk through the steps of a trial** — complaint, response, evidence, arguments, verdict, appeal
-- **Use Case Notes voluntarily** — meaning they actually log rules and rulings they notice in real life, not because anyone made them
+By Week 18, a student should be able to:
 
-The deeper outcome is a shift in stance: students stop seeing legal systems as opaque adult machinery and start seeing them as **designed objects that they can read, evaluate, and improve.**
+- explain why rules exist
+- tell laws, rules, norms, promises, and rights apart
+- identify the parts of a structured agreement
+- reason about loopholes and edge cases
+- explain what precedent does and when it matters
+- draft and revise a Micro-Charter
+- describe a fair hearing in procedural terms
+- run a mock trial using evidence and written reasoning
 
----
+The deeper success is a changed stance: learners stop seeing legal systems as mysterious adult machinery and start seeing them as designed systems that can be read, questioned, and improved.
 
-## How Long Each Week Takes
+## Materials You Will Want Ready
 
-| Component | Time |
-|---|---|
-| Guided Session 1 | ~30 minutes |
-| Guided Session 2 | ~30 minutes |
-| Independent Practice | ~30 minutes |
-| **Total per week** | **~90 minutes** |
+- a notebook or folder for Case Notes
+- paper, pencils, sticky notes, index cards
+- a timer
+- the relevant worksheets from [Facilitator Resources](./resources/index.md)
 
-Most families spread the three sessions over a week. Some do all three on a Saturday. Both work.
-
----
-
-## Materials You'll Need
-
-- A notebook or folder for **Case Notes** (the running journal)
-- Paper, pencils, sticky notes
-- A timer
-- Optional: index cards for sorting activities, dice for randomization in a few weeks
-- No special software. No textbooks. No expensive materials.
-
----
-
-## Voice and Tone
-
-The curriculum uses an engineering and systems vocabulary throughout — *operating system, API, version control, firewall, edge case, patch* — because that framing makes the legal system more legible to a young mind that has likely already seen these concepts in games and tech. The tone is warm, curious, and sometimes wry. Law is fascinating; this curriculum treats it that way.
-
-**A reminder, repeated everywhere:** this is an educational systems toolkit, not legal advice. Use it to teach thinking, not to make real legal decisions.
+No special software or textbook is required.

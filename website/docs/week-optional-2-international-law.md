@@ -25,8 +25,13 @@ This week, we look at the strangest layer of the legal system: the layer where n
 :::info Facilitator Snapshot
 - This is an optional extension week. It is the most abstract week in the curriculum and works best for older learners or as a discussion-heavy session.
 - The big move: international law is the cleanest case of "rules without a top-level enforcer." Understanding *why it works at all* is the most interesting question.
-- The week ties cleanly to Week 11 (rights as firewalls — here, sovereignty acts as a national-level firewall) and Week 4 (contracts — treaties are state-level contracts).
-- This week's activity is a drafted "household treaty" — a contract between members of the household with no third-party enforcer, modeling the international situation in miniature.
+- The week ties cleanly to Week 11 (rights as firewalls — here, sovereignty acts as a national-level firewall) and Week 4 (contracts — treaties have contract-like features, but they are their own kind of legal instrument).
+- The contract analogy is useful, but keep it qualified: treaties are formal agreements between states governed by international law, not private contracts between ordinary people.
+- This week's activity is a drafted treaty-style household agreement — a formal agreement between members of the household with no third-party enforcer, modeling the international situation in miniature.
+:::
+
+:::note Jurisdiction Note
+International law varies by treaty, institution, and topic. This lesson teaches the broad pattern: states make formal commitments, but enforcement is usually weaker, more political, and more uneven than it is in domestic law.
 :::
 
 :::tip Quick Navigation
@@ -64,7 +69,7 @@ This week is more conversation than activity. Be willing to sit with the strange
 
 **What to shorten or skip:**
 - Skip the UN structure and sovereignty discussion. Just teach: "Countries agree on rules, and they mostly follow them — because if they don't, other countries don't want to deal with them anymore."
-- Skip the household treaty drafting; use a verbal example instead.
+- Skip the treaty-style household agreement drafting; use a verbal example instead.
 - Keep sessions to 20 minutes.
 
 **Adapting the activities:**
@@ -90,7 +95,7 @@ By the end of this session, the student can:
 
 - describe what international law is and what makes it structurally different from national law
 - explain why countries follow international rules despite the absence of an enforcer
-- identify treaties as a kind of contract between states
+- identify treaties as formal agreements between states with contract-like features
 
 ---
 #### Activities
@@ -129,21 +134,21 @@ Walk up the stack with the student:
 
 ---
 
-**2. Treaties as Contracts Between States**
+**2. Treaties as State Agreements**
 
 Define it:
 
-> "A **treaty** is the international version of a contract. The structure is identical to what we learned in Unit 2 of this curriculum: **offer, acceptance, consideration**."
+> "A **treaty** is a formal agreement between states. The contract analogy is useful because countries negotiate terms, consent to them, and take on stated obligations. But treaties are governed by international law, not private contract law, so the match is helpful rather than exact."
 
 Walk through it:
 
-| Contract element | Treaty version |
+| Agreement idea | Treaty version |
 |---|---|
-| **Offer** | One country proposes the terms of an agreement. |
-| **Acceptance** | The other country agrees to the terms, usually formally ratified by its government. |
-| **Consideration** | Each country gives something the other one wants: trade access, military cooperation, peace, emission reductions, financial aid. |
+| **Proposal and negotiation** | One or more countries propose terms and negotiate them. |
+| **Consent / ratification** | Governments agree to the terms, often through a formal ratification process. |
+| **Obligations and commitments** | Each country takes on stated duties, promises cooperation, or accepts shared limits. |
 
-> "If a treaty has all three, it is — in the formal sense — a binding agreement. Both countries are 'on the hook' for what they promised. Just like a contract."
+> "Treaties can be binding international commitments, but they do not work exactly like private contracts. Their force comes from consent, international rules, reciprocity, reputation, and pressure from other states."
 
 Examples (don't get bogged down in detail):
 
@@ -262,11 +267,11 @@ If your student has done Environmental Literacy, draw the connection:
 ## Independent Practice
 ### Goal
 
-Apply the international-law mindset to a real treaty in miniature — drafted between members of the student's own household.
+Apply the international-law mindset to a treaty-style agreement in miniature — drafted between members of the student's own household.
 
 ### Activities
 
-**1. The Household Treaty**
+**1. A Treaty-Style Household Agreement**
 
 Pick a real shared resource or coordination point with another member of the household. Examples:
 
@@ -275,13 +280,13 @@ Pick a real shared resource or coordination point with another member of the hou
 - Use of shared food (snacks, a favorite drink)
 - Use of a shared workspace or table
 
-Now draft a **treaty** — not a Charter, just a bilateral agreement — between you and one other household member, covering this shared resource.
+Now draft a **treaty-style agreement** — not a Charter, just a bilateral agreement — between you and one other household member, covering this shared resource.
 
-The treaty must have:
+The treaty-style agreement must have:
 
 ```
 ═══════════════════════════════════════════════
-TREATY BETWEEN [Your name] AND [Other party]
+TREATY-STYLE AGREEMENT BETWEEN [Your name] AND [Other party]
 Re: [Shared resource]
 Date: ___________
 ═══════════════════════════════════════════════
@@ -315,7 +320,7 @@ ________________________  ________________________
 [Your name]                [Other party]
 ```
 
-The trickiest part is the **enforcement mechanism**. Most household treaties between siblings have no real enforcement — which makes them exactly like international law. You have to fall back on reciprocity ("if you don't do your part, I won't do mine"), reputation ("you'll be known as untrustworthy"), or escalation ("we'll have to bring this to a parent" — that's like the Security Council).
+The trickiest part is the **enforcement mechanism**. Most treaty-style household agreements between siblings have no real enforcement — which makes them a useful model of international law. You have to fall back on reciprocity ("if you don't do your part, I won't do mine"), reputation ("you'll be known as untrustworthy"), or escalation ("we'll have to bring this to a parent" — that's like the Security Council).
 
 ---
 
@@ -345,7 +350,7 @@ This week's **Case Notes** entry:
 >
 > **What the UN can do — and what it can't:**
 >
-> **My household treaty (taped in or summarized):**
+> **My treaty-style household agreement (taped in or summarized):**
 >
 > **How my treaty held up — and what I learned from running it:**
 
@@ -372,7 +377,7 @@ If the learner can do 2 of 3, they've absorbed the structural lesson.
 ## Pause and Notice
 
 :::note What Matters Here
-After the household treaty exercise, ask:
+After the treaty-style household agreement exercise, ask:
 
 > "What's the strangest thing about international law to you?"
 
@@ -391,7 +396,7 @@ Many students land on: *that it works at all.* When you really sit with the fact
 
 :::tip Connecting to Earlier Weeks
 - **From Week 2 (Tragedy of the Commons):** The atmosphere, oceans, and outer space are global commons. International law is the layer that tries — with mixed success — to manage them.
-- **From Week 4 (Contracts):** A treaty is a contract between countries. Offer, acceptance, and consideration all apply.
+- **From Week 4 (Contracts):** The contract analogy helps us see how treaties work, but treaties are their own kind of legal instrument governed by international law.
 - **From Week 11 (Rights as Firewalls):** Sovereignty is the country-level firewall. It protects nations from outside power the way rights protect individuals from institutional power.
 - **From Week 13 (Micro-Charter):** Your Charter has an enforcement mechanism. Notice how much it depends on the members continuing to honor it. International law works the same way, at scale.
 :::
@@ -408,7 +413,7 @@ Have older learners look up the actual text (or a summary) of one real treaty �
 
 :::tip Vocabulary This Week
 - **International law** — The body of rules between nations. No top-level enforcer.
-- **Treaty** — A formal agreement between two or more states. The international version of a contract.
+- **Treaty** — A formal agreement between two or more states. The contract analogy is useful, but treaties are governed by international law, not private contract law.
 - **Sovereignty** — The principle that each nation's internal law is its own business. A national-level firewall.
 - **Reciprocity** — "I'll keep my end if you keep yours." One of the main mechanisms holding international law together.
 - **Sanctions** — Economic pressure imposed by one country (or group of countries) on another to punish a violation or compel a change in behavior.
