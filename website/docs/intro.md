@@ -155,12 +155,12 @@ Students use Case Notes to:
 
 This curriculum naturally overlaps with other Literacy for Kids tracks.
 
-- **Civic literacy** - governance, public rules, checks and balances, and rights
-- **Financial literacy** - contracts, terms, fraud, and consumer promises
-- **Media literacy** - evidence, claims, proof, and credibility
-- **Decision literacy** - tradeoffs, incentives, fairness, and unintended consequences
-- **Environmental literacy** - commons, treaties, shared resources, and enforcement problems
-- **Emotional and social literacy** - listening, respectful disagreement, and low-stakes conflict resolution
+- [**Civic literacy**](https://literacy-for-kids.github.io/civic_literacy_for_kids/) - governance, public rules, checks and balances, and rights
+- [**Financial literacy**](https://literacy-for-kids.github.io/financial_literacy_for_kids/) - contracts, terms, fraud, and consumer promises
+- [**Media literacy**](https://literacy-for-kids.github.io/media_literacy_for_kids/) - evidence, claims, proof, and credibility
+- [**Decision literacy**](https://literacy-for-kids.github.io/decision_literacy_for_kids/) - tradeoffs, incentives, fairness, and unintended consequences
+- [**Environmental Systems literacy**](https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/) - commons, treaties, shared resources, and enforcement problems
+- [**Emotional and social literacy**](https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/) - listening, respectful disagreement, and low-stakes conflict resolution
 
 ## The Goal
 
