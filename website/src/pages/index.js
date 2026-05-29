@@ -8,6 +8,7 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const heroImageUrl = useBaseUrl('/img/hero-image.png');
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={clsx('container', styles.heroContent)}>
@@ -41,7 +42,9 @@ function HomepageHeader() {
           <img
             className={styles.heroImage}
             src={heroImageUrl}
-            alt="Illustrated hero image for the legal literacy curriculum"
+            alt="Illustration of children learning about rights, rules, fairness, and justice."
+            width="1536"
+            height="1024"
           />
         </div>
       </div>
