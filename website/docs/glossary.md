@@ -10,6 +10,8 @@ slug: /glossary
 
 This glossary gives short, learner-friendly definitions for the key terms in the curriculum.
 
+Some entries are core student words. Some are older learner extension words that appear later or in optional notes.
+
 > **Jurisdiction Note:** This lesson teaches a legal-system pattern. Exact rules differ by country, state, court system, school, and context.
 
 These definitions are for learning, not for courtroom use.
@@ -22,7 +24,7 @@ These definitions are for learning, not for courtroom use.
 | **Agreement** | A shared understanding between people about what they will do. Some agreements are legally enforceable and some are not. | Week 4 |
 | **Ambiguity** | A situation where words can reasonably be read more than one way. | Week 8 |
 | **Amendment** | A formal change to a rule, charter, or document. | Week 13 |
-| **Anti-circumvention** | Language added to stop people from gaming a rule through technical tricks. | Week 9 |
+| **Anti-circumvention** | Older learner term for wording meant to stop people from sneaking around a rule through technical tricks. | Week 9 |
 | **Appeal** | A request for a higher or later review because the process or legal reasoning may have gone wrong. | Week 18 |
 | **Beyond reasonable doubt** | A very high level of confidence used in criminal cases. Courts do not assign one exact percentage. | Week 15 |
 | **Binding** | Required to be followed, not just suggested. | Week 4 |
@@ -34,18 +36,18 @@ These definitions are for learning, not for courtroom use.
 | **Civil law** | A branch of law that often focuses on private disputes and remedies between people or organizations. | Optional Week |
 | **Clear and convincing evidence** | A higher proof standard than more likely than not; strong, persuasive support for a claim. | Week 15 advanced note |
 | **Commons** | A shared resource that many people can use. | Week 2 |
-| **Consideration** | Something of value exchanged in an agreement or contract. It can be money, action, a promise, or forbearance, depending on the legal system. | Week 4 |
-| **Contract** | A type of agreement that legal systems may enforce when certain requirements are met. | Week 4 |
+| **Consideration** | The trade part of a deal: what each side gives, does, or promises. It can be money, action, a promise, or forbearance, depending on the legal system. | Week 4 |
+| **Contract** | A more formal kind of clear deal that legal systems may enforce when certain requirements are met. | Week 4 |
 | **Counter-offer** | A response that changes the offer, creating a new negotiation. | Week 5 |
 | **Criminal law** | A branch of law in which the state prosecutes conduct treated as a public wrong. | Optional Week |
 | **Custom** | An unwritten rule that people usually follow. | Week 1 |
 | **Distinguish** | To explain why an older precedent does not control a newer case because the facts differ in an important way. | Week 10 |
-| **Distributed power** | Power spread across more than one role or institution. | Week 12 |
+| **Distributed power** | Power shared across more than one role or person. | Week 12 |
 | **Due process** | Fair procedure: notice, a chance to be heard, a neutral decision-maker, and a decision based on reasons and evidence. | Week 16 |
-| **Edge case** | An unusual situation that tests a rule at its borders. | Week 7 |
+| **Edge case** | A tricky what-if that tests how well a rule works. | Week 7 |
 | **Enforcement** | How a rule is applied and what happens when it is broken. | Week 3 |
 | **Ethical judgment** | A question about what is fair, kind, wise, or responsible, even when the law is unclear or absent. | Intro |
-| **Firewall** | A barrier that blocks misuse of power or access. In this curriculum, rights work like firewalls. | Week 11 |
+| **Firewall** | Older learner comparison for a shield that blocks misuse of power or access. In the main student voice, this curriculum uses the word **shield**. | Week 11 |
 | **Forbearance** | Agreeing not to do something you had the right to do. | Week 6 |
 | **Foundational law** | A starting rule written early in a system and often harder to change later. | Week 3 |
 | **Free rider** | Someone who benefits from a shared system without carrying a fair part of the cost. | Week 2 |
@@ -59,12 +61,12 @@ These definitions are for learning, not for courtroom use.
 | **Loophole** | A way to follow the words of a rule while defeating its purpose. | Week 9 |
 | **Majority** | The larger side in a vote. | Week 11 |
 | **Meeting of the minds** | A shared understanding of the same terms. | Week 5 |
-| **Micro-Charter** | The small governing document students build, test, and amend. | Week 13 |
+| **Micro-Charter** | The small governing document students build, test, and improve. The child-facing name is **My Group Agreement**. | Week 13 |
 | **Mutual obligation** | A structure in which both sides owe something. | Week 6 |
 | **Norm** | A social expectation that is not necessarily written down or legally enforced. | Intro |
 | **Offer** | A clear statement of proposed terms for an agreement or exchange. | Week 4 |
 | **Overturn** | To replace an older precedent with a new rule or decision. | Week 10 |
-| **Patch** | A specific revision that fixes a rule, gap, or process failure. | Week 9 |
+| **Patch** | An older learner term for a specific rule fix or official update. | Week 9 |
 | **Plain meaning** | The most ordinary, direct reading of the words. | Week 8 |
 | **Preamble** | The opening statement of a foundational document, explaining its purpose. | Week 13 |
 | **Precedent** | A previous decision that later decision-makers may need to follow or seriously consider, especially when it comes from a higher court in the same legal system and the facts are similar enough. | Week 10 |
@@ -81,9 +83,9 @@ These definitions are for learning, not for courtroom use.
 | **Rule** | An instruction that tells people what to do, what not to do, or how a system runs. | Week 1 |
 | **Rule of law** | The principle that rules should apply predictably and consistently, rather than by personal whim. | Intro |
 | **Separation of powers** | Splitting rule-making, enforcement, and interpretation into different roles or institutions. | Week 12 |
-| **Single point of failure** | One component whose failure can crash the whole system. | Week 12 |
+| **Single point of failure** | Too much power or importance placed in one person or part of a system. | Week 12 |
 | **Sovereignty** | The principle that a nation has authority over its own internal system. | Optional Week |
-| **Specification** | A precise description of what counts, what is required, and how something will be checked. | Week 7 |
+| **Specification** | A clear description of what counts, what is required, and how something will be checked. | Week 7 |
 | **Spirit of the law** | The broader purpose or fairness logic behind a rule. | Week 9 |
 | **Standing** | The right to bring a case because you were directly affected or are otherwise legally allowed to do so. | Week 15 |
 | **Stare decisis** | A legal principle about following earlier decisions. | Week 10 |

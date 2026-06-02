@@ -7,12 +7,12 @@ description: "A planning worksheet for drafting the first laws of a new society 
 
 ## Purpose
 
-This worksheet helps learners move from vague survival talk to structurally necessary rules.
+This worksheet helps learners move from vague island talk to the rules a group needs right away.
 
 ## When to Use It
 
 - Week 3
-- Any later review when a learner wants to compare foundational rules with later amendments
+- Any later review when a learner wants to compare foundational rules with later rule updates
 
 ## Student Directions
 
@@ -39,7 +39,7 @@ Problem it solves:
 Why this needs to happen now:
 Who enforces it:
 What counts as a breach:
-Possible loophole or edge case:
+Possible tricky what-if or sneaky gap:
 
 LAW 2
 The law:
@@ -47,7 +47,7 @@ Problem it solves:
 Why this needs to happen now:
 Who enforces it:
 What counts as a breach:
-Possible loophole or edge case:
+Possible tricky what-if or sneaky gap:
 
 LAW 3
 The law:
@@ -55,7 +55,7 @@ Problem it solves:
 Why this needs to happen now:
 Who enforces it:
 What counts as a breach:
-Possible loophole or edge case:
+Possible tricky what-if or sneaky gap:
 
 One situation my first three laws still do not cover:
 ```
@@ -68,5 +68,5 @@ One situation my first three laws still do not cover:
 
 ## Older Learner Extension
 
-- Add a column for "jurisdiction" or "who exactly this law applies to."
+- Add a column for "who exactly this law applies to."
 - Add a priority note: which law should control if two laws conflict?

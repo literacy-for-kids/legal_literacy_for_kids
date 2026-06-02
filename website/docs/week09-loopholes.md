@@ -1,37 +1,66 @@
 ---
 sidebar_position: 9
-sidebar_label: "Week 9: Finding and Closing the Edge Cases"
-title: "Week 9: Finding and Closing the Edge Cases"
-description: "Students learn to identify loopholes as unintended edge cases and practice closing them."
+sidebar_label: "Week 9: Sneaky Gaps in Rules"
+title: "Week 9: Sneaky Gaps in Rules"
+description: "Students learn to find loopholes, explain why they work, and fix rules more fairly."
 ---
 
-# Week 9: Finding and Closing the Edge Cases
-*Debugging the Code — Phase 3*
+# Week 9: Sneaky Gaps in Rules
+*Reading Rule Words - Phase 2*
 
-Last week we asked what to do when the letter of a rule disagrees with the intent of a rule. This week we look at what happens when someone notices that gap and tries to use it.
+This week, the learner meets a problem rule-makers know well: a rule can sound fine until somebody finds a sneaky way around it.
 
-A **loophole** is a way to follow the letter of a rule while completely violating its intent. Loopholes aren't always evil — sometimes they reveal that the rule was poorly written. But when someone finds one and uses it for private advantage, they're effectively saying: *"The rule didn't quite say what it meant, and I'm going to use that gap."*
+That means the rule had a gap that needs repair.
 
-This week, we put on the hat of the rule-maker. The student gets to write rules, watch other people (you, the facilitator) try to find loopholes, and then **patch** the rules to close those loopholes. It's the legal equivalent of beta-testing code: test the system, then fix the bugs.
+## Kid Hook
+
+A rule says: **No cookies before dinner.**
+
+Someone says, "Fine. I will eat a brownie instead."
+
+Did they follow the rule's exact words? Maybe.
+
+Did they follow the rule's purpose? Probably not.
+
+## Today's Mission
+
+Learn to spot sneaky gaps in rules and rewrite them so they are fairer and clearer.
+
+## You'll Make / You'll Try
+
+- a **why line** for a rule
+- a **sneaky gap** example
+- a better rule or rule update that closes the gap
+
+## Materials
+
+- paper
+- pencil
+- optional [Loophole Audit Worksheet](./resources/loophole-audit-worksheet.md)
+- the Week 7 household agreement if you made one
+- **Case Notes**
+
+## Quick 20-Minute Version
+
+1. Pick one simple rule.
+2. Ask, "How could someone follow the words but miss the point?"
+3. Add a **why line** and rewrite the rule more clearly.
+
+## Main Activity
+
+Find sneaky gaps in everyday rules and then repair the rules instead of celebrating the trick.
 
 ---
 
 :::info Facilitator Snapshot
-- This week is fun, because it gives the student permission to think like a tester — what's the cleverest way to comply technically while violating the spirit?
-- The flip side: closing loopholes is harder than it looks. Every patch creates new edges.
-- The key skill: a loophole-resistant rule states its purpose, not just its prohibition. ("No vehicles" is loophole-bait. "Nothing that disturbs the peace of pedestrians" is harder to game.)
-- This sets up Week 10, where students see how courts use prior rulings (precedent) to close gaps incrementally.
+- Keep the tone playful, but the ethics serious.
+- Focus on safe, low-stakes examples.
+- Use kid examples, not tax law or adult loophole stories.
+- Every rule rewrite should include a reason, not just longer wording.
 :::
 
-:::note Ethics Note
+:::warning Ethics Note
 We study loopholes to improve rules, not to teach people how to trick others. If the conversation turns into planning how to game a live family or classroom rule, stop and redirect the energy back into repair.
-:::
-
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: How Loopholes Work](#guided-session-1)
-- [Guided Session 2: Patch the Rule](#guided-session-2)
-- [Independent Practice](#independent-practice)
 :::
 
 ## Week at a Glance
@@ -39,236 +68,180 @@ We study loopholes to improve rules, not to teach people how to trick others. If
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper, pencil, the list of loophole scenarios, Case Notes |
-| **Key vocabulary** | loophole, patch, anti-circumvention, purpose clause, spirit of the law |
-| **Difficulty** | Moderate to Advanced |
+| **Materials** | Paper, pencil, optional worksheet, **Case Notes** |
+| **Core vocabulary** | gap, loophole, fair, fix |
+| **Difficulty** | Moderate |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Read through the loophole scenarios in Session 1. Be prepared to play the role of the "rule-breaker" trying to exploit each rule.
-- Have paper ready for drafting and patching rules.
-- Pull out the student's Chores API from Week 7 — we'll loophole-test it later in the week.
-- Optional: use the [Loophole Audit Worksheet](./resources/loophole-audit-worksheet.md) so the student can track the rule, the loophole, the patch, and the ethics note in one place.
+- Prepare 3-5 rules the learner can test.
+- Good kid examples include:
+  - No cookies before dinner.
+  - No screen time.
+  - Clean your room.
+  - Be home by 9:00.
+- If the learner made a household agreement in Week 7, bring it back.
 :::
 
 :::tip Facilitation Mindset
-This week, you are the loophole-finder. The student is the rule-maker. When you spot a way to game their rule, lean into it. ("Aha — the rule said 'no eating dessert before dinner.' I'll just have a giant snack at 5:55 PM and skip dinner.") The student should feel both impressed and frustrated — and then get to patch the rule. Keep the tone playful, but be explicit that the goal is system repair, not real-life evasion.
+Ask the learner to notice two things every time:
+
+- Why does this loophole work?
+- What fix closes the gap without becoming unfair or ridiculously long?
 :::
 
-## For Younger Learners (Ages 8–9)
+## Younger Learner Adaptation (Ages 8-9)
 
-:::info Adapting This Week
-**Simplest version of the concept:** "A loophole is when someone follows a rule's exact words but breaks what the rule was really for."
+:::info For Younger Learners
+**Simple idea:** Some rules have hidden gaps, and the group can fix them.
 
-**What to shorten or skip:**
-- Use 3 loophole scenarios instead of 5.
-- Skip the "anti-circumvention" terminology.
-- Keep sessions to 20 minutes.
+**Concrete substitutions:**
+- Use only 2 rule examples.
+- Draw the sneaky move and the better rule.
+- Skip long writing and say the **why line** out loud.
 
-**Adapting the activities:**
-- Make the loophole-finding game very playful. Frame it as "trying to be sneaky."
-- Accept simpler patches ("just add a rule that says you can't do that").
-
-**Journal alternative:** Draw a rule with a sneaky person finding a way around it, then draw the patched rule.
-
-**What success looks like:** The learner can find one loophole in a rule and write a patch that closes it.
+**What success looks like:** The learner can find one sneaky gap and suggest one fairer rule.
 :::
 
-:::info For Ages 10–12
-- Introduce **purpose clauses** — rules that explicitly state their own intent, like "This rule is intended to protect pedestrian safety." Purpose clauses give judges a tool to close loopholes.
-- Discuss why **arms races** happen in real law: every loophole someone finds, the rule-makers patch, and then someone finds a new one.
-- Have them spot real-world examples of loopholes — tax shelters, online platform terms-of-service workarounds, etc.
+## Older Learner Extension (Ages 10-12)
+
+:::info For Older Learners
+- After the child-friendly idea is clear, introduce **loophole** as the formal name for a sneaky gap.
+- Older learners can compare a narrow rule fix with a broader **purpose clause**.
+- Terms like **anti-circumvention** belong here, not in the main lesson.
 :::
 
 ---
 
 ## Guided Session 1
-### How Loopholes Work
+### Find the Sneaky Gap
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- recognize the structure of a loophole
-- identify a loophole in a stated rule
-- distinguish between a loophole and a legitimate exception
+- explain what a loophole is
+- describe why a loophole works
+- notice the difference between the words of a rule and its purpose
 
----
 #### Activities
 
-**1. The First Loophole**
+**1. Start with a familiar rule**
 
-Set up a small scene:
+Try examples like:
 
-> "Imagine your parent says: 'No dessert before dinner.'"
+- No cookies before dinner.
+- No screen time.
+- Clean your room.
 
-> "Now you're a sneaky kid. What's the loophole?"
+Ask:
 
-Brainstorm together:
+- What is this rule trying to stop?
+- How might someone follow the words but dodge the purpose?
 
-- Eat a giant snack at 5:55 PM, then skip dinner entirely (technically followed the rule).
-- Have dessert *during* dinner (depends on the wording — the rule said "before").
-- Eat something that's *technically* not "dessert" but is just as sweet (a smoothie with ice cream in it — is that dessert?).
-- Eat dessert *after* dinner, then *before* a second dinner.
-- Define "dinner" as one bite of broccoli, then have dessert.
+**2. Fill in the why line**
 
-These are loopholes. The rule's *letter* is followed, but the rule's *intent* (eat your real meal first, dessert is a reward, etc.) is destroyed.
+For each rule, write:
 
----
+> **Rule:**
+>
+> **Why it exists:**
+>
+> **Sneaky gap:**
 
-**2. The Loophole Pattern**
+This keeps the learner focused on fairness, not only trick-finding.
 
-After laughing at the dessert loopholes, name the pattern:
+**3. Add the kindness note**
 
-> "A loophole has a specific structure. There's a rule. The rule has a stated purpose. The rule's words don't quite cover every way of violating the purpose. Someone finds the gap. They comply with the words while destroying the purpose. The rule-maker is annoyed, because technically they did follow the rule."
+Say this out loud:
 
-Then ask:
-
-> "Is finding a loophole always bad? Are there ever cases where finding a loophole is actually fair?"
-
-Discuss. Sometimes yes:
-- If a rule was poorly written and unfairly broad, finding a loophole exposes the bug.
-- If a rule's purpose has become outdated, gaming the letter is one way to surface that.
-- Sometimes loopholes are the system's way of saying "this rule needs an update."
-
-But mostly loopholes are about taking advantage of unclear writing for personal benefit.
-
----
-
-**3. The Loophole Hunt**
-
-Walk through these. For each, the student finds the loophole:
-
-> **Rule:** "No running in the hallways."
-> *Loophole: I wasn't running — I was speed-walking. Or hopping. Or skipping really fast. Or wheeling on a scooter, which is rolling.*
-
-> **Rule:** "You must finish your vegetables before getting dessert."
-> *Loophole: Define "finish" — I ate one carrot. That's a vegetable, and I finished it.*
-
-> **Rule:** "No cell phones at the dinner table."
-> *Loophole: My smartwatch isn't a phone. Or — I have my phone, I just keep it on my lap.*
-
-> **Rule:** "Be home by 9 PM."
-> *Loophole: Be in the driveway by 9 PM. Be technically on the property. Have my front foot crossing the threshold at 9:00:00 even if my back foot is outside.*
-
-> **Rule:** "Limit screen time to one hour per day."
-> *Loophole: Multiple screens at once — that's not really one hour per screen. Or, the screen was on but I wasn't really watching. Or, that wasn't a screen — that was a Kindle and Kindles are for reading.*
-
-Notice: **almost every rule that just says "don't X" can be gamed by redefining X**. The patch is to either close the redefinition or state the purpose.
+> Finding a loophole is not the same as being fair.
 
 ---
 
 ## Guided Session 2
-### Patch the Rule
+### Fix the Rule
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- write a patch to close a specific loophole
-- recognize that every patch creates new edges
-- write a rule with an explicit purpose clause
+- rewrite a rule more clearly
+- explain why a rule update is better
+- test whether the new version still feels fair
 
----
 #### Activities
 
-**1. Patching One Rule, One Loophole at a Time**
+**1. Write the fix**
 
-Take a rule. The student writes it. You (facilitator) find a loophole. The student writes a patch. Then you find a new loophole in the patched version. Repeat 3 times.
+Use this frame:
 
-> **Round 1**
-> **Student's rule:** "No screens at dinner."
-> **Loophole:** "Smartwatches aren't 'screens' in the way you meant."
-> **Patch:** "No screens, including smartwatches, at dinner."
+> **Rule:**
+>
+> **Why it exists:**
+>
+> **Sneaky gap:**
+>
+> **Better rule:**
 
-> **Round 2**
-> **Loophole:** "I just keep my phone on my lap and check it occasionally."
-> **Patch:** "No screens, including smartwatches, at dinner. Devices must be left in another room during meals."
+Encourage a rule that is clearer, not just longer.
 
-> **Round 3**
-> **Loophole:** "I just have my friend text me on their phone and read it over their shoulder."
-> **Patch:** "No screens, including smartwatches, at dinner. Devices must be left in another room. Reading off someone else's device counts as a screen for this rule's purpose."
+**2. Test the new rule**
 
-Notice what's happening: **the rule is getting longer, more specific, and more complicated** with every patch. This is what real legal codes look like after decades of loophole-closing.
+Ask one more what-if:
 
----
+- Does the better rule still allow reasonable exceptions?
+- Did the fix become too strict?
+- Is there still a gap?
 
-**2. The Purpose Clause Trick**
+**3. Revisit the household agreement**
 
-Now try a different approach. Instead of patching loopholes one by one, write the rule with a **purpose clause**:
-
-> "No screens at dinner. The purpose of this rule is for family members to be present with each other during meals. Anything that pulls a person's attention away from the conversation — phones, watches, books, headphones — violates the purpose of the rule."
-
-Notice: the purpose clause gives whoever enforces the rule **a tool**. If someone tries a new loophole (a clever new device, reading over someone's shoulder), the enforcer can point to the purpose and say, "the spirit of the rule was about attention, not the specific device."
-
-This is one of the most powerful moves in rule design. **State the purpose, not just the prohibition.**
-
----
-
-**3. Loophole-Test the Chores API**
-
-Pull out the student's Chores API agreement from Week 7.
-
-Together, hunt for loopholes:
-
-- "What does 'cleaning the kitchen' really specify? Could I leave one dirty cup in the sink? Two?"
-- "What if I do the task in the most minimal way possible — does that count?"
-- "The agreement says 'by 8 PM.' What if I'm finishing at 7:59:30? What if I'm finishing at 8:00:30?"
-- "What if the kitchen was already clean? Does the task still need to happen?"
-- "What if I trade tasks with my sibling — is that a breach or is it allowed?"
-
-For each loophole, decide: (a) is this really a loophole, or just a reasonable interpretation? (b) if it's a loophole, what patch closes it? (c) is a purpose clause better than a patch?
-
-The student amends their Chores API based on the loophole audit. This is a real edit to a real document.
+If the learner wrote a Week 7 agreement, ask whether it has any fuzzy spots or sneaky gaps. If yes, write one update.
 
 ---
 
 ## Independent Practice
 ### Goal
 
-Find and close loopholes in rules from the student's actual life.
+Notice one real or pretend rule that could use a fairer rewrite.
 
 ### Activities
 
-**1. The Loophole Audit**
+**1. Choose one rule**
 
-Pick three rules from your daily life (home, school, club, friend group). For each, write:
+The rule can come from home, school, a game, or a story.
 
-- The rule, as it currently exists.
-- One loophole someone could exploit.
-- Your proposed patch.
-- An alternative: a purpose clause that would close the loophole without needing a patch.
+**2. Complete the full line**
 
----
+Write:
 
-**2. The Hardest Patch**
-
-For one of the rules, try to find a loophole that **no patch can fully close**. (Hint: rules about subjective things — "be respectful," "use your best effort," "don't be mean" — are loophole-resistant because there's no specific gameable letter, but they require human judgment to enforce.)
-
-Discuss: is a vague rule better than a specific one? Or worse?
+- Rule
+- Why it exists
+- Sneaky gap
+- Better rule
 
 ### Case Notes
 
-Add this to your **Case Notes**:
+Add this to **Case Notes**:
 
 > **Date:**
 >
-> **A real-life rule and the loophole I found:**
+> **The rule:**
 >
-> **My patch:**
+> **Why it exists:**
 >
-> **The purpose clause version (an alternative to patching):**
+> **The sneaky gap:**
 >
-> **What I changed in my Chores API after loophole-testing it:**
+> **My better rule:**
 >
-> **A rule I think can't be loophole-proofed — and why:**
+> **Why my better rule is fairer:**
 
 **Sentence starters for younger learners:**
-- "A sneaky way to break the rule but follow it is ___."
-- "If I were the rule-maker, I'd fix it by ___."
 
-### Reflection Questions
-
-- Have you ever exploited a loophole yourself? Did it feel okay at the time? Looking back?
-- Is there a rule in your life that probably exists because someone, somewhere, exploited a loophole years ago?
-- Why don't rule-makers just write incredibly long, specific rules to cover every loophole in advance?
+- "The rule says ___."
+- "The sneaky gap is ___."
+- "A better rule is ___."
 
 ---
 
@@ -276,60 +249,24 @@ Add this to your **Case Notes**:
 
 After this week, check whether the learner can:
 
-1. **Define a loophole:** "What's a loophole?" (Looking for: following the letter of a rule while violating its intent.)
-2. **Spot one in real life:** "Find a loophole in this rule: 'No running in the hallways.'" (Looking for: any creative gaming — speed-walking, scootering, hopping.)
-3. **Write a patch:** "Patch that loophole." (Looking for: a real patch or a purpose clause.)
+1. **Name a loophole:** "How is someone getting around the rule?"
+2. **Explain the purpose:** "What was the rule trying to protect?"
+3. **Write a better version:** "How would you fix it?"
 
-If the learner can do at least 2 of these, they're ready for Week 10.
+If the learner can do at least 2 of these, they are ready for Week 10.
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-After loophole-testing the Chores API, ask:
+This week is not about teaching kids to get away with things.
 
-> "Did finding loopholes in your own agreement make you feel clever, sneaky, or annoyed? What about when you imagined someone else doing the same to your rules?"
+It is about training them to notice when a rule's wording leaves a gap and then repair that gap in a way that stays fair.
 
-This is an important moment. Most students enjoy *finding* loopholes more than they enjoy having their rules gamed. That asymmetry is the engine of a lot of legal evolution: people are sharp when they want something, and the law has to keep up.
-
-> "There's also an ethical difference between testing a rule to improve it and exploiting a rule for private advantage. Which one were you doing in each example?"
-
-> "There's a phrase grown-ups sometimes use: *'the spirit of the law versus the letter of the law.'* When you follow only the letter and ignore the spirit, are you cheating? Or are you just doing what the rule said?"
-
-Don't try to settle this. The legal world has been arguing about it for thousands of years. The point is that the student starts to notice that **the spirit and the letter are two different things, and that's a feature of how rules work, not a flaw to be fixed.**
-
-**This week's takeaway:** A rule's *purpose* is more durable than a rule's *words*. When you write a rule, write the purpose alongside it — that gives the rule a defense against loopholes that no list of patches can match, and it keeps the work focused on improvement rather than exploitation.
-:::
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-**From Week 8:** Last week we saw that letter and intent can pull in opposite directions. This week, we saw what happens when someone *deliberately* exploits that gap. The two weeks together are the full picture of interpretive challenge.
-
-**From Week 7:** Your Chores API just got an upgrade — version 1.1, patched against loopholes. Real contracts evolve this way constantly.
-:::
-
----
-
-:::tip Simplify (Ages 8–9)
-Skip the purpose clause concept. Just teach "find the sneaky way around the rule, then write a better rule." Use only food and bedtime rules.
-:::
-
-:::tip Extend (Ages 10–12)
-Discuss this real example: tax law has thousands of pages of patches because people keep finding new ways to game it. Compare it to a rule with a strong purpose clause, like "income earned in this jurisdiction is taxable." Which is harder to game in practice? (Trick question — they're both gamed, just differently.)
-:::
-
-:::tip Vocabulary This Week
-- **Loophole** — A way to follow the letter of a rule while violating its intent.
-- **Patch** — An update to a rule that closes a specific loophole.
-- **Purpose clause** — A statement in a rule explaining what the rule is intended to accomplish. A defense against loopholes.
-- **Spirit of the law** — The general intent and purpose of the rule, as opposed to its exact words.
-- **Anti-circumvention** — Rules specifically designed to stop people from gaming other rules.
+**This week's takeaway:** A loophole shows that a rule needs improvement, not that tricking people is admirable.
 :::
 
 ## Preview of Next Week
 
-Next week, we look at the other major tool courts use to manage interpretation over time: **precedent**. When a court makes a ruling on a hard case, that ruling may guide or sometimes bind similar future cases, depending on the court and jurisdiction. You'll act as judge for a series of escalating edge cases, and your early rulings will lock you into harder decisions later.
+Next week, we ask what happens when a group has already made one decision and now faces a similar case. Should the next decision match the earlier one?

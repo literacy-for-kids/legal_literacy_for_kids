@@ -1,311 +1,227 @@
 ---
 sidebar_position: 19
-sidebar_label: "Optional Week 1: Two Types of Law, Two Types of Cases"
-title: "Optional Week 1: Two Types of Law, Two Types of Cases"
-description: "An exploration of how criminal and civil law differ in purpose, procedure, and burden of proof."
+sidebar_label: "Optional Week 1: Two Kinds of Cases"
+title: "Optional Week 1: Two Kinds of Cases"
+description: "Students compare community rule-breaking cases with harm-repair cases and see why they work differently."
 ---
 
-# Optional Week 1: Two Types of Law, Two Types of Cases
-*Extension — Beyond the Core Curriculum*
+# Optional Week 1: Two Kinds of Cases
+*Optional Extension*
 
-Up to this point, the curriculum has treated "law" as a single thing.
+This optional lesson shows that not all legal cases ask the same question.
 
-It is not.
+Sometimes a case is about a rule broken against the community. Sometimes a case is about repairing harm done to a person.
 
-Real legal systems run on **two parallel tracks** that look similar from the outside but are structurally different in purpose, procedure, and standard of proof. They are called **criminal law** and **civil law**, and the same act can produce a case in one, the other, both, or neither.
+## Kid Hook
 
-This week, we unpack the difference. By the end, you'll be able to look at an event in the news, or in your life, and know which kind (or kinds) of law it triggers.
+Imagine one act causes two different problems.
+
+Someone damages school property and also breaks another student's backpack. One part is about breaking a public rule. The other part is about repairing harm to a specific person.
+
+## Today's Mission
+
+Learn the difference between a community rule-breaking case and a harm-repair case.
+
+## You'll Make / You'll Try
+
+- a two-column comparison chart
+- a sort of low-stakes examples into one kind of case, the other kind, both, or neither
+
+## Materials
+
+- paper
+- pencil
+- scenario cards
+- **Case Notes**
+
+## Quick 20-Minute Version
+
+1. Compare one community rule-breaking case with one harm-repair case.
+2. Use the chart: who brings it, what are they trying to fix, what could happen?
+3. Sort 4 examples.
+
+## Main Activity
+
+Compare two kinds of cases and sort low-stakes scenarios to see which kind fits.
 
 ---
 
 :::info Facilitator Snapshot
-- This is an optional extension week. It can be run after Week 18 — or fit into the gap between Weeks 15 and 16 if you want to slot it into the main curriculum.
-- The big move: the same act can produce two completely separate cases that use different standards and produce different outcomes.
-- Use a lower-stakes structural example such as reckless driving that causes injury, business fraud, or pollution. The goal is the parallel-track idea, not a sensational case.
-- Two activities: a sorting exercise (criminal / civil / both / neither) and a parallel-track walkthrough.
+- Use low-stakes examples first.
+- Keep the two big ideas clear:
+  - a community or state can bring a case about rule-breaking
+  - a harmed person can bring a case about repairing harm
+- Use kid language first and formal court vocabulary second.
 :::
 
 :::note Jurisdiction Note
-Criminal and civil systems differ across countries and states. This lesson teaches the broad pattern: public wrongs and private disputes can trigger different kinds of cases with different purposes, procedures, and proof standards.
-:::
-
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Two Systems, Two Purposes](#guided-session-1)
-- [Guided Session 2: The Parallel Tracks](#guided-session-2)
-- [Independent Practice](#independent-practice)
+Criminal and civil systems differ across countries and states. This lesson teaches the broad pattern, not every detail.
 :::
 
 ## Week at a Glance
 
 | | |
 |---|---|
-| **Prep time** | ~15 minutes |
-| **Materials** | Paper, pencil, Case Notes, a list of 8 sorting scenarios (provided below) |
-| **Key vocabulary** | criminal law, civil law, prosecution, plaintiff, defendant, compensation, deterrence |
+| **Prep time** | ~10 minutes |
+| **Materials** | Paper, pencil, scenario cards, **Case Notes** |
+| **Core vocabulary** | case, harm, repair, rule-breaking |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Print or copy the 8 scenarios from Session 2 so the student can sort them physically.
-- Refresh the difference between the two standards of proof from Week 15 — **beyond reasonable doubt** (criminal) and **preponderance of evidence** (civil).
-- Decide which low-stakes parallel-track example you want to use. A car crash involving reckless driving, a fraud case, or a pollution case usually teaches the structure without adding unnecessary emotional weight.
+- Prepare 6-8 low-stakes scenarios.
+- Good examples include property damage, broken borrowed items, broken school rules, or careless acts that hurt someone's stuff.
+- Avoid sensational or frightening crimes.
 :::
 
 :::tip Facilitation Mindset
-This week is more conceptual than experiential — there's no Charter activity, no trial, no big project. It's about gaining a clean mental model. Stay simple. The goal is not coverage of legal doctrine but a clear sense of: *two parallel systems, different purposes, different standards.*
+Keep asking:
+
+- Who brings this case?
+- What are they trying to fix?
+- What could happen next?
+
+Those questions help the learner see the two tracks clearly.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Younger Learner Adaptation (Ages 8-9)
 
-:::info Adapting This Week
-**Simplest version of the concept:** "There are two kinds of legal cases. One is for when somebody hurts everyone — like stealing or violence. The other is for when somebody hurts just one person — like breaking their stuff. The first one is about punishment. The second one is about making up for it."
+:::info For Younger Learners
+**Simple idea:** Some cases are about breaking a group rule. Some are about helping a hurt person get repair.
 
-**What to shorten or skip:**
-- Skip the parallel-track walkthrough. Just teach the sorting.
-- Reduce the sorting list from 8 to 4 scenarios.
-- Skip the formal names for the proof standards at first — just say "really sure" and "mostly sure."
-- Keep sessions to 20 minutes.
+**Concrete substitutions:**
+- Use only 4 scenario cards.
+- Use colors: one color for community rule-breaking, one color for harm-repair.
+- Skip the formal proof terms.
 
-**Adapting the activities:**
-- Use cards for sorting. The student physically places each scenario into one of four piles: Criminal, Civil, Both, Neither.
-
-**Journal alternative:** A drawing with two columns labeled "Hurt Everyone" and "Hurt One Person," with one example in each.
-
-**What success looks like:** The learner can give one example of a criminal case and one example of a civil case, and explain the difference in their own words.
+**What success looks like:** The learner can explain the difference between the 2 case types in simple words.
 :::
 
-:::info For Ages 10–12
-- Discuss why the same act can result in both a criminal prosecution and a civil lawsuit. (Hint: different purposes, different harms, different standards.)
-- Introduce **punitive damages** as the civil system's nod toward deterrence-style remedies, even though civil cases are mainly about compensation.
-- Explore: in your country, is it actually true that the state prosecutes? In some legal systems, the prosecution model differs. (Acknowledging variation is honest.)
+## Older Learner Extension (Ages 10-12)
+
+:::info For Older Learners
+- After the child-friendly version is clear, introduce the formal names:
+  - **criminal** case
+  - **civil** case
+- Older learners can also hear the difference between being "really sure" and "more likely than not" before adding the formal proof language.
+- Terms like **plaintiff**, **prosecution**, **compensation**, and **deterrence** belong here, not in the opening voice.
 :::
 
 ---
 
 ## Guided Session 1
-### Two Systems, Two Purposes
+### Two Questions, Two Kinds of Cases
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- distinguish the purpose of criminal law (punishment, deterrence) from the purpose of civil law (compensation, making whole)
-- name the parties in each kind of case
-- recall the different standards of proof
+- explain the difference between a community rule-breaking case and a harm-repair case
+- compare who brings each kind of case
+- compare what each kind of case is trying to do
 
----
 #### Activities
 
-**1. Two Different Questions**
+**1. Build the two-column chart**
 
-Start by writing two questions on a piece of paper:
+Use this chart:
 
-> **Question A:** Did this person do something so harmful that society — through the state — needs to punish them?
->
-> **Question B:** Did this person harm a specific other person, who deserves to be made whole?
+| | Community rule-breaking case | Harm-repair case |
+|---|---|---|
+| **Who brings it?** | The community or state | The person who was harmed |
+| **What are they trying to fix?** | A broken public rule | Harm to a person or their property |
+| **What could happen?** | A consequence from the system | Repair, payment, or some other remedy |
 
-Read them aloud. Then:
+**2. Compare two examples**
 
-> "Those are two completely different questions. Real legal systems use two completely different machines to answer them. The first machine is **criminal law**. The second machine is **civil law**. They look similar from the outside — trials, judges, evidence — but they are doing different jobs."
+Use a low-stakes pair:
 
----
+- someone breaks a school rule that protects everyone
+- someone damages another person's item and needs to repair the harm
 
-**2. Criminal Law in One Page**
-
-| Feature | What it is |
-|---|---|
-| **Who brings the case?** | The state. The prosecutor acts on behalf of all of society. |
-| **Who is the defendant?** | The accused person. |
-| **What's the harm being addressed?** | A harm to society as a whole — even when the immediate victim is a single person. Crime is treated as a wrong against the entire community's rules. |
-| **What's the standard of proof?** | **Beyond reasonable doubt.** Very high confidence after considering the evidence. No official percentage. |
-| **What's the goal?** | Punishment and deterrence. Punishing the offender, signaling to others that this is not acceptable. |
-| **What's the remedy?** | Penalties: fines, community service, probation, jail. |
-
-> "Notice: the victim is not the one bringing the case. The state is. That's because crime is treated as a violation of the collective rules, not just a private dispute. Even in a robbery, the state — not the robbed person — is the one prosecuting."
-
----
-
-**3. Civil Law in One Page**
-
-| Feature | What it is |
-|---|---|
-| **Who brings the case?** | The harmed party. Called the plaintiff. |
-| **Who is the defendant?** | The party accused of causing the harm. |
-| **What's the harm being addressed?** | A harm to a specific individual. The dispute is between the two of them. |
-| **What's the standard of proof?** | **Preponderance of evidence.** Lower — more likely than not. |
-| **What's the goal?** | Compensation. Making the harmed party whole — usually with money. |
-| **What's the remedy?** | Damages: money paid to the plaintiff. Sometimes an injunction (a court order to do or stop doing something). |
-
-> "Notice: the goal is not to punish. The goal is to make the harmed party whole. If you broke my window, civil law says you should pay me what it costs to replace the window. It doesn't say you should be in jail."
-
----
-
-**4. Why Two Systems?**
-
-Lay out the reason:
-
-> "Why have two systems? Because two different things need to happen when something goes wrong. Society needs to discourage harmful acts — that's the criminal track. And the specific person who was harmed needs to be made whole — that's the civil track. One system is hard to do both well."
-
-> "The standards are different on purpose. We use a very high standard for criminal cases because the cost of being wrong is huge — taking away someone's freedom. We use a lower standard for civil cases because the cost of being wrong is usually money, which is reversible."
+Ask how those cases feel different.
 
 ---
 
 ## Guided Session 2
-### The Parallel Tracks
+### Sort the Scenarios
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- recognize that the same act can produce both a criminal case and a civil case
-- categorize scenarios as criminal-only, civil-only, both, or neither
-- explain why parallel tracks give different outcomes
+- sort examples into criminal, civil, both, or neither
+- explain why one act can sometimes lead to two different cases
+- use simple proof language carefully
 
----
 #### Activities
 
-**1. The Parallel-Track Insight**
+**1. Sort low-stakes scenarios**
 
-Here's the move that surprises most students:
+Examples:
 
-> "The same single act can lead to BOTH a criminal case AND a civil case. They run on separate tracks. They can have different outcomes."
+- someone damages a class mural and also ruins another student's art folder
+- a borrowed bike comes back damaged
+- someone breaks a park rule that protects shared space
+- a player breaks a game rule but nobody is really harmed
 
-Use a structural example instead:
+Sort into:
 
-> "Imagine someone causes a car crash that hurts a passenger. The state might prosecute them criminally for reckless driving. The injured passenger might sue them civilly for medical bills and lost work. One act, two completely separate cases, two completely separate questions, two completely separate standards."
+- community rule-breaking case
+- harm-repair case
+- both
+- neither
 
-The point isn't the specific case — it's the **structural fact** that the two systems are independent.
+**2. Compare proof levels**
 
----
+Explain simply:
 
-**2. The Sorting Activity**
+- some cases need the decision-maker to be **really sure**
+- some use a lower standard like **more likely than not**
 
-Present 8 scenarios. The student categorizes each one as:
-
-- **Criminal only** (society pursues, no specific person to compensate)
-- **Civil only** (one person harmed another, no crime committed)
-- **Both** (the act is a crime AND created a specific harm)
-- **Neither** (no legal cause of action at all)
-
-Read each one aloud. Discuss as you go.
-
----
-
-> **Scenario 1:** Someone shoplifts a candy bar from a store.
->
-> *Looking for: Both. Criminal — theft is a crime against the state's rules. Civil — the store is the harmed party and could sue (though usually doesn't for small amounts). Most students miss the civil side.*
-
----
-
-> **Scenario 2:** A contractor was hired to paint a house but didn't show up after being paid.
->
-> *Looking for: Civil. Breach of contract. The harmed party is the homeowner, who can sue. No crime — unless the contractor took the money intending never to do the work, which crosses into fraud.*
-
----
-
-> **Scenario 3:** Someone runs a red light, hits no one, and is stopped by a police officer.
->
-> *Looking for: Criminal (or "traffic" — a quasi-criminal category). The state issues a ticket. There's no specific harmed person, so no civil case.*
-
----
-
-> **Scenario 4:** A neighbor's dog bites someone on a walk.
->
-> *Looking for: Civil. The bitten person can sue for medical costs. Usually not criminal — unless the dog's owner knew the dog was dangerous and was negligent. Some jurisdictions have "dangerous dog" statutes that could trigger criminal liability.*
-
----
-
-> **Scenario 5:** Two friends agree on a price for a used bike, hand over the money, and then one disappears with both the money and the bike.
->
-> *Looking for: Both. Criminal — that's fraud or theft. Civil — the buyer can sue for breach of contract.*
-
----
-
-> **Scenario 6:** A company pollutes a river and a town downstream gets sick.
->
-> *Looking for: Both. Criminal — environmental laws make pollution a crime in many jurisdictions. Civil — the affected townspeople can sue for damages. This is a classic dual-track case.*
-
----
-
-> **Scenario 7:** Someone insults a stranger online but doesn't lie about them.
->
-> *Looking for: Neither, usually. Insult alone is generally not actionable in either system. (Defamation — which is lying in a way that damages reputation — would be civil. Threats can be criminal. But a pure insult? Often legally uneventful, even when socially terrible.)*
-
----
-
-> **Scenario 8:** A roommate accidentally breaks another roommate's laptop while moving it.
->
-> *Looking for: Civil. The owner can sue for the cost of replacement. Not criminal, because it was an accident — there was no intent to harm. Criminal law usually requires some form of intent or recklessness.*
-
----
-
-**3. The Reflection on Sorting**
-
-After the activity, ask:
-
-- Which scenario surprised you?
-- Which one was hardest to place?
-- Do you notice that most criminal cases also have a civil dimension, even if the civil case isn't usually pursued? Why might that be? (Hint: civil suits cost money to bring; criminal cases are funded by the state.)
-
----
-
-**4. One Scenario, Two Tracks**
-
-Pick one of the "Both" scenarios — Scenario 1, 5, or 6 are good. Walk it through both systems in parallel:
-
-| Feature | Criminal Track | Civil Track |
-|---|---|---|
-| **Who brings it?** | The state | The harmed party |
-| **What's the standard?** | Beyond reasonable doubt | Preponderance of evidence |
-| **What's the remedy if guilty/liable?** | Fine, jail, probation | Money damages |
-| **What's the purpose?** | Punishment + deterrence | Compensation |
-| **Could the two trials reach opposite conclusions?** | **Yes** — different standards mean a defendant can be acquitted criminally and found liable civilly (or in rare cases, the reverse) |
-
-This is the deepest takeaway of the week. The same fact pattern can produce opposite outcomes in the two systems — *not because one system is wrong, but because they are answering different questions.*
+Do the kid version first. The formal terms can wait for the extension note.
 
 ---
 
 ## Independent Practice
 ### Goal
 
-Apply the criminal/civil distinction to events the student encounters in the news, in stories, or in their own life.
+Notice the different goals of different cases.
 
 ### Activities
 
-**1. The News Hunt**
+**1. Pick 2 examples**
 
-Over a few days, look for two or three news stories involving legal cases. For each one, identify:
+Use stories, books, or pretend scenarios.
 
-- Is this criminal, civil, or both?
-- Who is bringing the case?
-- What is the standard of proof?
-- What is the remedy being sought?
+**2. Answer the chart questions**
 
-News articles often use words like "charged" (criminal) and "sued" (civil) — that's the surface clue. Notice it.
+For each one, ask:
 
----
-
-**2. The Re-Sort**
-
-Pick three scenarios from your own life or from stories — a sibling broke something, a friend didn't pay back a loan, a character in a book got in trouble. Apply the four-way sort (criminal only, civil only, both, neither) to each one.
+- Who brings it?
+- What are they trying to fix?
+- What outcome might happen?
 
 ### Case Notes
 
-This week's **Case Notes** entry:
+Add this to **Case Notes**:
 
 > **Date:**
 >
-> **In my own words: what is the difference between criminal and civil law?**
+> **Example case:**
 >
-> **My favorite of the 8 scenarios — and why it's tricky:**
+> **Who brings it:**
 >
-> **A real news story I identified as Criminal/Civil/Both:**
+> **What they are trying to fix:**
 >
-> **A real moment from my life that fits one of the four categories:**
+> **What kind of case it is:**
 
-### Reflection Questions
+**Sentence starters for younger learners:**
 
-- Does it seem fair to you that the same act can lead to two different trials with opposite outcomes? Why or why not?
-- Why do you think most civil cases never get filed, even when a real harm happened? (Cost, time, evidence — discuss.)
-- Should the standard of proof be the same in both systems? Why or why not?
+- "This case is about ___."
+- "It is brought by ___."
+- "It is trying to fix ___."
 
 ---
 
@@ -313,53 +229,22 @@ This week's **Case Notes** entry:
 
 After this week, check whether the learner can:
 
-1. **Define both systems in their own words:** "What's the difference between criminal and civil law?" (Looking for: state vs. individual, punishment vs. compensation, beyond reasonable doubt vs. preponderance of evidence.)
-2. **Spot a "Both" case:** "Give me an example of a single act that could lead to both kinds of case." (Looking for: any reasonable example — theft, drunk driving causing injury, fraud, pollution.)
-3. **Explain why the standards differ:** "Why do criminal cases use a higher standard of proof than civil cases?" (Looking for: because the cost of being wrong is higher — taking away someone's freedom vs. money.)
-
-If the learner can do 2 of 3, they've absorbed the structural lesson.
+1. **Explain the 2 tracks:** "What is the difference between these 2 kinds of cases?"
+2. **Sort a scenario:** "Which kind fits this example?"
+3. **Explain the goal:** "What is this case trying to fix?"
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-After the sorting activity, ask:
+One act can sometimes create more than one kind of case because different legal questions are being asked.
 
-> "Once you saw the two-track system, did any real situation you'd seen before suddenly make more sense?"
+One system asks, "Was a public rule broken?" Another asks, "Who was harmed, and how can that harm be repaired?"
 
-This is the trick of the week. The criminal/civil distinction is one of those concepts that, once you have it, you start noticing everywhere. News articles, TV shows, conversations about disputes — almost all of them are implicitly about one track or the other (or both).
-
-> "Most kids — and a lot of adults — assume that 'going to court' is one thing. Once you can see it as two parallel tracks with different jobs, the system becomes much more legible. You can ask: which track is this on? What's the standard? What's the remedy? Those are the right questions to ask before getting into the details."
-
-**This week's takeaway:** The legal system is not monolithic. It has parallel tracks running at the same time, with different purposes, different standards, and sometimes different outcomes. Knowing which track you're on is the first thing to figure out.
+**This week's takeaway:** Different cases can look similar from the outside while doing very different jobs.
 :::
 
----
+## Optional Next Step
 
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-- **From Week 11 (Rights as Firewalls):** The higher standard of proof in criminal cases is a firewall — a structural protection against the state's power to take away your freedom.
-- **From Week 13 (Micro-Charter):** Your Charter's dispute-resolution system is closer to civil law than criminal law in structure. It is about resolving disputes between members, not punishing offenders on behalf of a larger society.
-- **From Week 15 (How Courts Work):** Standing works differently in the two systems. In criminal, the state has standing because the harm is to society. In civil, the harmed party has standing because the harm is to them.
-:::
-
----
-
-:::tip Simplify (Ages 8–9)
-Use only 4 scenarios in the sort, and use only two of the four categories (Criminal and Civil — skip "Both" and "Neither"). The basic distinction is enough at this age.
-:::
-
-:::tip Extend (Ages 10–12)
-Have older learners pick one real "Both" case from history or recent news (something age-appropriate) and write a one-page summary explaining the criminal and civil sides separately. What happened in each? Did they reach the same conclusion? Why or why not?
-:::
-
-:::tip Vocabulary This Week
-- **Criminal law** — The system that handles wrongs against society. The state prosecutes. Standard: beyond reasonable doubt.
-- **Civil law** — The system that handles disputes between private parties. The harmed party sues. Standard: preponderance of evidence.
-- **Prosecution** — The state's act of bringing a criminal case.
-- **Plaintiff** — The party bringing a civil case.
-- **Damages** — Money awarded to a civil plaintiff to compensate for harm.
-- **Deterrence** — Discouraging future misconduct by punishing past misconduct. A goal of criminal law.
-:::
+This lesson fits especially well after Week 15 or after the end of the full course, once the learner already understands proof and fair process.

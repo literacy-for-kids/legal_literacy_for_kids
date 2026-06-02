@@ -20,12 +20,12 @@ Use these pages as printable guides, copy-ready templates, or simple planning to
 - [Rule Inventory Worksheet](./rule-inventory-worksheet.md)
 - [First Three Laws Worksheet](./first-three-laws-worksheet.md)
 - [Contract Design Worksheet](./contract-design-worksheet.md)
-- [Chores API / Household Agreement Template](./chores-api-household-agreement-template.md)
+- [Household Agreement Template](./chores-api-household-agreement-template.md)
 - [Loophole Audit Worksheet](./loophole-audit-worksheet.md)
 - [Precedent Ruling Log](./precedent-ruling-log.md)
 - [Micro-Charter Template](./micro-charter-template.md)
 - [Amendment Template](./amendment-template.md)
-- [Listening Protocol Template](./listening-protocol-template.md)
+- [Fair Hearing / Listening Protocol Template](./listening-protocol-template.md)
 - [Mock Trial Packet](./mock-trial-packet.md)
 - [Written Ruling Template](./written-ruling-template.md)
 - [Appeal Checklist](./appeal-checklist.md)
@@ -34,16 +34,16 @@ Use these pages as printable guides, copy-ready templates, or simple planning to
 ## Assessment and Examples
 
 - [Assessment Rubrics](./assessment-rubrics.md)
-- [Exemplar Student Artifacts](./exemplar-student-artifacts.md)
+- [Exemplar Student Work](./exemplar-student-artifacts.md)
 
 ## Extensions and Connections
 
-- [Real-World Extensions and Cross-Curriculum Connections](./real-world-extensions.md)
+- [Real-World Extensions and Other Connections](./real-world-extensions.md)
 
 ## How to Use These Materials
 
 - Print only the pages you need for the current week.
-- Keep working documents in one folder so students can revisit them during amendments and trial prep.
+- Keep working documents in one folder so students can revisit them during official rule updates and trial prep.
 - Use the younger learner and older learner notes to adjust workload without losing the legal-thinking goal.
 - Replace any emotionally loaded real scenario with a fictional version before using a template.
 
@@ -56,7 +56,7 @@ If you are preparing the course from the start, this is the most useful order:
 3. Case Notes Template
 4. Rule Inventory Worksheet
 5. First Three Laws Worksheet
-6. Contract and Chores API resources
+6. Deal and Household Agreement resources
 7. Precedent, Charter, and Amendment resources
 8. Mock Trial, Ruling, Appeal, and Final Reflection resources
 

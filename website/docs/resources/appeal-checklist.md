@@ -25,17 +25,17 @@ Check only the items that actually apply. If nothing applies, the answer may be 
 
 ## Checklist
 
-### Possible Grounds for Appeal
+### Possible Reasons for a Second Look
 
 - [ ] The wrong rule or Charter provision was applied.
-- [ ] A required step in the Listening Protocol was skipped.
+- [ ] A required step in the fair-hearing plan was skipped.
 - [ ] Important evidence was not shared with both sides.
 - [ ] The decision-maker was not neutral.
-- [ ] The burden of proof was applied incorrectly.
+- [ ] The proof job was handled incorrectly.
 - [ ] The ruling did not explain its reasoning clearly enough to review.
 - [ ] The error may have changed the outcome.
 
-### Usually Not Grounds for Appeal
+### Usually Not Good Reasons for a Second Look
 
 - [ ] I disagree with the outcome.
 - [ ] I wish the rule were different.
@@ -51,7 +51,7 @@ The specific process or reasoning problem was:
 
 I think it mattered because:
 
-What I want the reviewing court or panel to do:
+What I want the review group or second decider to do:
 ```
 
 ## Younger Learner Adaptation

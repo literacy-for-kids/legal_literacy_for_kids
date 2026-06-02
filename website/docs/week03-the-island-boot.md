@@ -1,35 +1,59 @@
 ---
 sidebar_position: 3
-sidebar_label: "Week 3: Drafting the First Laws of a New Society"
-title: "Week 3: Drafting the First Laws of a New Society"
-description: "Students identify the exact moment a rule becomes structurally necessary and draft the first laws of their society."
+sidebar_label: "Week 3: Island Rules Challenge"
+title: "Week 3: Island Rules Challenge"
+description: "Students decide which rules a brand-new island community needs first and why."
 ---
 
-# Week 3: Drafting the First Laws of a New Society
-*The Architecture of Rules — Phase 1 Finale*
+# Week 3: Island Rules Challenge
+*The Architecture of Rules - Phase 1 Finale*
 
-You're going to boot up a brand-new society this week.
+This week, the learner becomes a rule-maker.
 
-Imagine 20 kids — same age as you — washed up on an uninhabited island. No adults. No internet. No phones. They have food, water, and shelter for a few weeks if they're careful. But there are no rules yet. The system has not been initialized.
+Instead of studying rules that already exist, they will build the first rules for a new island community. The goal is not lots of rules. The goal is the first few rules that help a group live together fairly.
 
-What happens? When does the *first* rule actually become necessary? Which rules can wait until later? What does the **minimum viable legal system** look like?
+## Kid Hook
 
-This week wraps up Unit 1 by giving the student the keys to a fresh system. They will design it from scratch.
+Imagine you and a group of kids are starting a safe, storybook island community. You have places to sleep, food to share, tools to use, and choices to make together.
+
+What rules do you need first?
+
+## Today's Mission
+
+Decide which rules an island community needs right away, which ones can wait, and how those first rules should work.
+
+## You'll Make / You'll Try
+
+- an island map with key places marked
+- a sort of rule ideas: **Need Right Away**, **Need Later**, **Probably Not Needed**
+- a First Three Laws page for your island community
+
+## Materials
+
+- paper
+- pencil
+- markers or crayons
+- index cards or sticky notes
+- optional [First Three Laws Worksheet](./resources/first-three-laws-worksheet.md)
+- **Case Notes**
+
+## Quick 20-Minute Version
+
+1. Draw the island map.
+2. Sort 6 rule ideas into **Need Right Away**, **Need Later**, and **Probably Not Needed**.
+3. Write the 3 first rules and what problem each one solves.
+
+## Main Activity
+
+Build an island map, sort rule cards, and write the first 3 rules for a brand-new community.
 
 ---
 
 :::info Facilitator Snapshot
-- This is the capstone activity for Unit 1. The point is to apply Weeks 1 and 2 to a real design problem.
-- Resist the urge to suggest rules. Let the student propose rules as situations come up, and let them discover when rules are *too early* (overdesigning) or *too late* (system already broken).
-- The deliverable is a written list of "First Three Laws" by the end of the week. Keep them. We'll reference them later.
-- This is also where the student starts thinking like a system designer rather than a system user.
-:::
-
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Island Day One](#guided-session-1)
-- [Guided Session 2: The First Three Laws](#guided-session-2)
-- [Independent Practice](#independent-practice)
+- Keep the island adventurous, not scary. This is not a trauma scenario.
+- Focus on fairness, shared tools, decision-making, and what helps the group work.
+- Ask "What problem does this rule solve right now?" before accepting a rule.
+- Preserve the deep idea that a rule only works if it applies fairly to everyone.
 :::
 
 ## Week at a Glance
@@ -37,241 +61,202 @@ This week wraps up Unit 1 by giving the student the keys to a fresh system. They
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper, pencil, a few index cards or sticky notes, Case Notes |
-| **Key vocabulary** | minimum viable system, structural necessity, jurisdiction, enforcement |
+| **Materials** | Paper, pencil, markers, cards, **Case Notes** |
+| **Core vocabulary** | community, rule, fair, shared, consequence |
 | **Difficulty** | Introductory to Moderate |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Read through the Island Scenarios in Session 1 so you can read them aloud naturally.
-- Have paper ready for the student to draft their First Three Laws.
-- Optional: use the [First Three Laws Worksheet](./resources/first-three-laws-worksheet.md) so the student records the law, the problem it solves, and the enforcement plan in one place.
-- Optional: print or sketch a simple island map. It makes the scenario more vivid.
+- Prepare paper for an island map.
+- Make 6-9 simple rule idea cards if you want a physical sort.
+- Optional rule ideas: food sharing, sleeping spaces, tool return, meeting time, who can vote, cleanup jobs, quiet hours.
+- If helpful, print the [First Three Laws Worksheet](./resources/first-three-laws-worksheet.md).
 :::
 
 :::tip Facilitation Mindset
-The right pace for this week is **let the student get it wrong first**. If they propose a rule before any problem has emerged, gently ask: "What problem is this rule solving right now?" If they wait too long, the scenario will get chaotic and they'll see why earlier rules might have helped.
+If the learner wants to write too many rules, ask which ones truly belong on Day 1. If they write too few, give a new scenario and let the need for a rule appear.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Younger Learner Adaptation (Ages 8-9)
 
-:::info Adapting This Week
-**Simplest version of the concept:** "If you're starting a new place from scratch, what are the very first rules you would need?"
+:::info For Younger Learners
+**Simple idea:** When a new group starts from scratch, it needs a few clear rules to share space, supplies, and decisions.
 
-**What to shorten or skip:**
-- Use 3 island scenarios instead of 6.
-- Skip the "minimum viable system" vocabulary. Just say "the smallest rule list you can get away with."
-- Keep sessions to 20 minutes.
+**Concrete substitutions:**
+- Draw the island instead of writing long explanations.
+- Use 3 sort cards, not 9.
+- Ask, "Who is this rule for?" instead of using legal vocabulary.
+- Ask, "What happens next if someone ignores it?" instead of asking for a formal enforcement plan.
 
-**Adapting the activities:**
-- Draw the island. Let the student place where things happen.
-- Accept a drawn or spoken list of laws instead of written ones.
-
-**Journal alternative:** Draw the three laws as pictures with one-sentence captions.
-
-**What success looks like:** The learner can name three rules they would put in place on day one of a new society and explain what each one prevents.
+**What success looks like:** The learner can name 3 first rules and what problem each one solves.
 :::
 
-:::info For Ages 10–12
-- Push them to articulate *why* each law is necessary at this exact point in time. ("Could this wait until week 2?")
-- Discuss the difference between **prohibitive** rules ("don't do X") and **structural** rules ("here is how we will do X"). Most foundational laws are structural.
-- Introduce the idea of **jurisdiction** — which rules apply to whom, and where.
+## Older Learner Extension (Ages 10-12)
+
+:::info For Older Learners
+- After the kid phrase is clear, introduce **jurisdiction** as "Who does this rule apply to?"
+- Introduce **enforcement** as "What happens if someone ignores it?"
+- Ask older learners to notice the difference between a rule that says "don't do this" and a rule that explains how a group makes decisions.
 :::
 
 ---
 
 ## Guided Session 1
-### Island Day One
+### Build the Island and Sort the Rules
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- recognize the moment when a rule becomes structurally necessary
-- avoid both over-rule-making and under-rule-making
-- think about a rule's *purpose*, not just its content
+- picture the needs of a new community
+- notice which rules feel urgent and which can wait
+- connect each rule to a real problem
 
----
 #### Activities
 
-**1. Set the Scene**
+**1. Draw the island map**
 
-Read this aloud:
+Invite the learner to draw a simple island map with these places:
 
-> "Imagine 20 kids, all around your age, stranded on an island. The boat that brought them is gone. They have enough food and clean water for two weeks if they're careful. There are no adults. There's no internet. They have backpacks, some basic supplies, and each other."
+- food area
+- sleeping area
+- shared tools area
+- meeting place
+- conflict corner
 
-> "Right now, there are zero rules. Nothing is forbidden. Nothing is required. Everyone is just on the beach, alive and a little stunned."
+The map helps the learner think visually about how the group will live.
 
-Pause and ask:
+**2. Sort rule ideas**
 
-> "Right now, in this exact moment — do you need any rules yet?"
+Write possible rules on cards and sort them into 3 piles:
 
-Most students will say no — and that's correct. Until something *happens*, no rule is yet structurally necessary.
+- **Need Right Away**
+- **Need Later**
+- **Probably Not Needed**
 
----
+Examples of rule ideas:
 
-**2. The Scenarios**
+- return shared tools after using them
+- the group meets every evening
+- no one may take extra food secretly
+- everyone must wear blue on Tuesdays
+- big group choices need a vote
+- quiet time starts after lights-out
 
-Now walk the student through scenarios. After each one, ask: "Does this require a new rule? Or can it be handled without one?"
+For each card, ask:
 
-> **Scenario 1:** Two kids both want to sleep in the only existing shelter from last night's storm. They start arguing. Three other kids are watching, getting tense.
+- What problem does this rule solve?
+- Do we already have that problem?
+- Could this wait until later?
 
-> **Scenario 2:** Someone notices that the food supplies are running low faster than expected. Turns out one kid has been eating extra at night.
+**3. Notice the pattern**
 
-> **Scenario 3:** A kid wanders into the forest without telling anyone. They are gone all day. Everyone is worried. They come back fine.
+Help the learner say the key idea in kid language:
 
-> **Scenario 4:** Two kids have built a small raft. They want to sail to try to find help. Other kids think this is dangerous and want them to stay.
-
-> **Scenario 5:** A kid hurts their ankle. They can't help with chores anymore. Some kids think they shouldn't get an equal share of food since they aren't working.
-
-> **Scenario 6:** Someone proposes that anyone who steals food gets banished from the group.
-
-For each scenario, ask:
-
-- Is a rule needed right now?
-- If yes, what's the **minimum** rule that solves it?
-- Who gets to enforce it?
-- What happens if someone breaks it?
-
-The goal is to notice that **rules emerge from problems**, not the other way around.
-
----
-
-**3. The Pattern**
-
-After the scenarios, drop the insight:
-
-> "Notice something important: every rule we wanted to add was a response to a *specific problem*. Rules don't show up because someone wants to be in charge. They show up because **a problem keeps happening** and the group needs a predictable way to handle it."
-
-Introduce the term **structural necessity**:
-
-> "A rule is **structurally necessary** when the system can't work without it. Many of the rules in real life are structurally necessary in this same way — they exist because if they didn't, the same problem would keep happening over and over."
+> "The first rules are usually the ones that help a group share, stay fair, and solve arguments."
 
 ---
 
 ## Guided Session 2
-### The First Three Laws
+### Write the First Three Laws
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- propose three foundational laws for a new society
-- justify each law in terms of what problem it solves
-- recognize that early laws shape everything that comes later
+- choose 3 foundational rules for the island
+- explain what each rule is for
+- think about what happens if someone ignores a rule
 
----
 #### Activities
 
-**1. The Constraint**
+**1. Choose the 3 first rules**
 
-Tell the student:
+Tell the learner:
 
-> "You only get to write **three** laws on Day 1. Three. That's it. Anything you don't write becomes someone's free judgment call later."
+> "You only get 3 first rules. Pick the ones that help the whole group most."
 
-> "What three laws would you write?"
+This forces them to prioritize.
 
-Why only three? Because the goal is to force prioritization. With unlimited rules, everything gets written down and nothing is fundamental. With only three, the student has to ask: *what is most important?*
+**2. Use the three-question frame**
 
----
+For each rule, write answers to:
 
-**2. Draft, Critique, Revise**
+- **What is the rule?**
+- **What problem does it solve?**
+- **What happens if someone ignores it?**
 
-The student drafts three laws on paper. Then, for each one, the facilitator pushes back:
+You can also ask the gentle legal version:
 
-- "What problem does this law solve?"
-- "What if someone disagrees with this law?"
-- "Who decides if someone broke it?"
-- "What's the consequence?"
-- "Could a sneaky person follow the letter of this law while still being terrible?"
+- **Who does this rule apply to?**
 
-Don't argue with the student. Just keep asking until the law is well-defined. If a question reveals a hole in the law, let the student revise.
+That is the kid-first path into jurisdiction.
 
----
+**3. Make the final document**
 
-**3. The Three Laws Document**
+Write the final page as:
 
-Write the final three laws on a clean sheet of paper, labeled:
+> **The First Three Laws of My Island Community**
 
-> **The Founding Laws of (Student's Name)'s Island**
+Suggested example shapes:
 
-For each law, write:
-1. **The Law** — what it says
-2. **The Problem** — what it solves
-3. **Enforcement** — who decides whether it was followed, and what happens if not
+- Everyone shares food using the group food plan.
+- Shared tools go back to the tools area after use.
+- Big choices that affect everyone are decided at the meeting place.
 
-Keep this document. We will reference it in Week 13 (the Micro-Charter).
-
-**Examples of well-formed first laws:**
-
-> **Law 1:** No one may take food from the shared supply without checking with the rotating Supply Watcher.
-> **Problem:** Food going missing faster than expected, no accountability.
-> **Enforcement:** The Supply Watcher logs every meal. If food is missing, the group decides what to do.
-
-> **Law 2:** Decisions that affect everyone (where to sleep, what to ration, who goes exploring) require a vote of everyone present. A simple majority wins.
-> **Problem:** A few loud people making decisions for the whole group.
-> **Enforcement:** Any kid can call for a vote. No vote = no binding decision.
-
-> **Law 3:** No one is banished from the group except by a vote where at least 75% of the kids agree.
-> **Problem:** Anger or popularity contests leading to someone being left to die.
-> **Enforcement:** Banishment without a 75% vote is not valid. The banished kid stays.
+Encourage the learner to keep the rules clear and fair, not fancy.
 
 ---
 
 ## Independent Practice
 ### Goal
 
-Take the island idea seriously enough to stress-test the laws against a new situation.
+Test the new island rules with one more safe, low-stakes scenario.
 
 ### Activities
 
-**1. The New Scenario**
+**1. Try one tricky what-if**
 
-Imagine: **two weeks have passed.** The kids are surviving. The three laws have mostly worked. But now a new situation emerges:
+Offer a gentle scenario such as:
 
-> "Two kids want to build a smaller side shelter for quiet work and to store the fishing gear they use most. Other kids worry that shared tools and supplies will slowly become 'theirs' and stop being available to the group."
+- two kids both want the same tool at the same time
+- someone forgets the cleanup job
+- a younger member needs help carrying water
+- a new person joins the group later
 
-The student writes:
-- Do the three laws cover this situation?
-- If yes, how do they apply?
-- If no, is a new law needed? Or is this a case where someone has to make a judgment call about shared resources, personal space, and group duties?
+Ask:
 
-This is the student's first taste of an **edge case** — a situation the original rules didn't anticipate. (We'll dig deep into edge cases in Weeks 8–10.)
+- Do our 3 rules already help with this?
+- Do we need to explain a rule more clearly?
+- Is this a problem for later, not Day 1?
 
----
+**2. Make a rule map check**
 
-**2. Spot the Three Laws in Real Life**
-
-Look at the United States Bill of Rights (or whichever foundational document is most relevant to the student's country). Just skim. Ask:
-
-> "Which of these look like 'first three law' material — meaning, things foundational enough that they had to be locked in right away?"
-
-This is a low-stakes exposure. The student isn't memorizing rights. They're noticing the pattern: *every legal system has foundational laws written first, and everything else builds on top.*
+Point to the island map and ask where each rule matters most. This keeps the lesson visual and concrete.
 
 ### Case Notes
 
-Add this to your **Case Notes**:
+Add this to **Case Notes**:
 
 > **Date:**
 >
-> **My Three Founding Laws:**
+> **My first 3 rules:**
 > 1.
 > 2.
 > 3.
 >
-> **For each law, what problem does it solve?**
+> **The problem each rule solves:**
 >
-> **One situation my laws probably don't cover:**
+> **One tricky what-if I noticed:**
 >
-> **One law I almost wrote, but cut — and why:**
+> **One rule I almost added, but saved for later:**
 
 **Sentence starters for younger learners:**
-- "My first law is ___."
-- "It exists because ___."
-- "What it does not cover is ___."
 
-### Reflection Questions
-
-- Which of your three laws was the hardest to write? Why?
-- Did you write any laws about how to *change* the laws later? Why or why not?
-- If a new kid showed up on the island after Day 30, would your laws still feel fair to them?
+- "My first rule is ___."
+- "It helps because ___."
+- "A tricky what-if is ___."
 
 ---
 
@@ -279,58 +264,26 @@ Add this to your **Case Notes**:
 
 After this week, check whether the learner can:
 
-1. **Name their three laws:** "What are the three foundational laws of your island?" (Looking for: specific laws, not vague principles.)
-2. **Justify each one:** "Why this law? What does it solve?" (Looking for: a specific problem each law addresses.)
-3. **Spot a gap:** "What's something your laws don't cover?" (Looking for: any honest acknowledgment of a gap — this shows real thinking.)
+1. **Name the first 3 rules:** "What are your island's first rules?"
+2. **Explain the reason:** "What problem does each rule solve?"
+3. **Spot a gap:** "What is one problem that might still need a later rule?"
 
-If the learner can do at least 2 of these, they're ready for Week 4.
+If the learner can do at least 2 of these, they are ready for Week 4.
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-After the Three Laws are written, ask:
+Ask:
 
-> "If you wrote these laws, but the kid in charge of enforcing them only enforced them on the kids they didn't like — would the laws still be doing their job?"
+> "If a rule only gets used on the people the leader dislikes, is that still a fair rule?"
 
-This is one of the deepest ideas in legal philosophy: **the law only works if it applies equally**. A perfect law enforced unfairly is no longer a law — it's just a weapon. Let the student sit with that.
+This is one of the deepest ideas in the course. A good rule written on paper is not enough. The rule also has to be applied fairly.
 
-> "Now imagine the law was applied fairly, but you personally disagreed with it. Would you follow it anyway? Why or why not?"
-
-Don't give them an answer. The tension between *what's legal* and *what's right* is one of the most important questions a person can think about, and it will come back in Unit 5.
-
-**This week's takeaway:** A law is not just what's written. It's what's written, plus how it's enforced, plus who has to follow it. All three matter.
-:::
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-**From Week 1:** We learned that rules exist for reasons — safety, fairness, coordination. Now we've watched those reasons emerge from real scenarios on a new island.
-
-**From Week 2:** We saw how shared resources collapse without rules. Notice how many of your Three Laws are about protecting commons (food, shelter, group decisions).
-:::
-
----
-
-:::tip Simplify (Ages 8–9)
-Skip the "edge case" scenario in independent practice. Just have the student name their three laws and draw what the island looks like after the rules are in place.
-:::
-
-:::tip Extend (Ages 10–12)
-Have older learners read a short summary of the **Mayflower Compact** (1620) — one of the earliest examples of a group of people writing down "the rules we're going to live by" before starting a society. Compare what they wrote to what your student wrote.
-:::
-
-:::tip Vocabulary This Week
-- **Minimum viable system** — The smallest set of rules a system needs to function. Anything less and it crashes.
-- **Structural necessity** — A rule that exists because the system genuinely cannot work without it.
-- **Jurisdiction** — Which set of rules applies, and to whom. Your island's laws are the jurisdiction; your house's rules are a different jurisdiction.
-- **Enforcement** — How a rule is actually applied. Who checks? What happens if it's broken?
-- **Foundational law** — A law written at the start of a system, often harder to change than later laws.
+**This week's takeaway:** A group's first rules should solve real problems and work fairly for everyone in the group.
 :::
 
 ## Preview of Next Week
 
-Next week, we shift gears completely. We've spent three weeks on **rules made by a group for itself**. Now we look at **promises made between two specific people**. That's a contract — and contracts have a precise structure that turns out to be much closer to a software interface specification than most people realize.
+Next week, we shift from group rules to two-person deals. You will sort examples like card trades, borrowed pencils, chores, and promises to figure out what makes a real deal clear.
