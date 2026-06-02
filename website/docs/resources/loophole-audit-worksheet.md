@@ -1,6 +1,6 @@
 ---
 title: "Loophole Audit Worksheet"
-description: "A worksheet for finding edge cases, loopholes, and better wording in rules and agreements."
+description: "A worksheet for finding sneaky gaps, tricky what-ifs, and better wording in rules and agreements."
 ---
 
 # Loophole Audit Worksheet
@@ -17,7 +17,7 @@ This worksheet helps learners study loopholes in order to improve systems, not t
 
 ## Student Directions
 
-Pick a rule, agreement, or Charter clause. Try to find a loophole. Then write a fair patch.
+Pick a rule, agreement, or charter clause. Try to find a loophole or tricky what-if. Then write a fair rule update.
 
 ## Facilitator Notes
 
@@ -27,7 +27,7 @@ Pick a rule, agreement, or Charter clause. Try to find a loophole. Then write a 
 
 ## Template
 
-| Rule or clause | What it is trying to protect | Loophole or edge case | Why the loophole works | Better patch | Purpose clause version | Does the patch create a new problem? | Ethics note |
+| Rule or clause | What it is trying to protect | Loophole or tricky what-if | Why it works | Better rule update | Why-line version | Does the update create a new problem? | Ethics note |
 |---|---|---|---|---|---|---|---|
 | | | | | | | | Fair / unfair / not sure |
 | | | | | | | | Fair / unfair / not sure |
@@ -41,9 +41,9 @@ Use this prompt after each row:
 
 - Use one row only.
 - Replace "purpose clause" with "Why does this rule exist?"
-- Let the learner draw the sneaky move and the patch.
+- Let the learner draw the sneaky move and the rule update.
 
 ## Older Learner Extension
 
 - Add a column for "Would precedent make this loophole easier or harder to stop later?"
-- Compare a loophole patch with a broader principle-based rewrite.
+- Compare a loophole fix with a broader principle-based rewrite.

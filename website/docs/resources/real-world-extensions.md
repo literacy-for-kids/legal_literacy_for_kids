@@ -1,9 +1,9 @@
 ---
-title: "Real-World Extensions and Cross-Curriculum Connections"
+title: "Real-World Extensions and Other Connections"
 description: "Optional extension ideas and natural connections to the broader Literacy for Kids ecosystem."
 ---
 
-# Real-World Extensions and Cross-Curriculum Connections
+# Real-World Extensions and Other Connections
 
 These activities are optional. Use them only when they stay low-stakes, age-appropriate, and safe.
 
@@ -24,7 +24,7 @@ Attend or watch a school board, city council, town meeting, or student governmen
 - how evidence or reasons are used
 - whether the process feels fair or rushed
 
-### Interview a System Builder
+### Interview a Rule Helper or Community Problem-Solver
 
 Talk to a lawyer, mediator, judge, city council member, school administrator, student government advisor, librarian, coach, or community organizer.
 
@@ -77,7 +77,7 @@ Use a fictional issue such as park hours, shared garden use, or quiet hours in a
 
 Take one family, classroom, or club rule and rewrite it more clearly, with a fair process and fewer loopholes.
 
-## Cross-Curriculum Connections
+## Other Learning Connections
 
 ### Civic Literacy
 
@@ -97,7 +97,7 @@ Take one family, classroom, or club rule and rewrite it more clearly, with a fai
 
 - evidence
 - claims and counterclaims
-- burden of proof
+- proof job
 - credibility and source quality
 
 ### Decision Literacy
@@ -116,9 +116,9 @@ Take one family, classroom, or club rule and rewrite it more clearly, with a fai
 
 ### Emotional and Social Literacy
 
-- listening protocols
+- fair-hearing steps
 - respectful disagreement
-- conflict de-escalation
+- calming conflict
 - noticing the difference between fairness and winning
 
 ## Planning Grid
@@ -126,7 +126,7 @@ Take one family, classroom, or club rule and rewrite it more clearly, with a fai
 | Extension | Best week to pair with | Related literacy |
 |---|---|---|
 | Public meeting observation | Weeks 11-12 or 15 | Civic literacy |
-| Interview a system builder | Weeks 15-18 | Civic, media |
+| Interview a rule helper or community problem-solver | Weeks 15-18 | Civic, media |
 | Terms of service comparison | Weeks 4-7 | Financial, media |
 | School rule comparison | Weeks 8-10 or 13-14 | Civic, decision |
 | Treaty or commons extension | Week 2 or Optional International Law | Environmental, civic |

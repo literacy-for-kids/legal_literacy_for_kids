@@ -62,4 +62,4 @@ One thing I would tell another learner about this course:
 ## Older Learner Extension
 
 - Add a short paragraph comparing Week 1 thinking to Week 18 thinking.
-- Add one cross-curriculum connection to civics, finance, media, environment, decision-making, or social-emotional learning.
+- Add one other learning connection to civics, finance, media, environment, decision-making, or social-emotional learning.

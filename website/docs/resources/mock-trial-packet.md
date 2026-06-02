@@ -26,7 +26,7 @@ Choose a small, manageable dispute. Then fill out the complaint, response, evide
 - Do not use bullying, abuse, trauma, serious harm, exclusion with real emotional stakes, family secrets, money pressure, romantic conflict, or intense relationship history.
 - All participants must opt in.
 - A facilitator may veto or replace any scenario.
-- The goal is system practice, not punishment or embarrassment.
+- The goal is fair-process practice, not punishment or embarrassment.
 - If the real dispute feels heavy, switch to fiction immediately.
 
 ## Low-Stakes Case Ideas
@@ -42,8 +42,8 @@ Choose a small, manageable dispute. Then fill out the complaint, response, evide
 ```text
 COMPLAINT
 
-Plaintiff:
-Defendant:
+Person bringing the complaint:
+Responding person:
 Date filed:
 
 Facts:
@@ -69,7 +69,7 @@ What I disagree with:
 
 How I read the rule:
 
-Evidence or reasons I want the court to consider:
+Evidence or reasons I want the hearing group or decider to consider:
 
 What outcome I think is fair:
 ```
@@ -88,13 +88,13 @@ What outcome I think is fair:
 1. Notice given
 2. Time to prepare provided
 3. Evidence shared in advance
-4. Court convened
+4. Hearing begins
 5. Opening statements
-6. Plaintiff presents
-7. Defendant responds
+6. Complaining side presents
+7. Responding side replies
 8. Judge or panel questions
 9. Closing statements
-10. Deliberation
+10. Decision discussion
 11. Written or spoken ruling
 12. Amendment note if the Charter exposed a gap
 
@@ -106,6 +106,6 @@ What outcome I think is fair:
 
 ## Older Learner Extension
 
-- Add a burden-of-proof note.
+- Add a proof-job note.
 - Require each side to quote the Charter text directly.
-- Add a post-trial section on whether an appeal issue exists.
+- Add a post-trial section on whether a second-look issue exists.

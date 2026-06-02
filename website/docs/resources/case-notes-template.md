@@ -1,19 +1,19 @@
 ---
 title: "Case Notes Template"
-description: "A reusable journal template for the running Case Notes artifact used across the curriculum."
+description: "A reusable journal template for the running Case Notes notebook used across the curriculum."
 ---
 
 # Case Notes Template
 
 ## Purpose
 
-Case Notes is the running journal for the whole curriculum. It helps students record what they notice, what they ruled, what still feels fuzzy, and what they would patch.
+Case Notes is the running journal for the whole curriculum. It helps students record what they notice, what they ruled, what still feels fuzzy, and what they would improve.
 
 ## When to Use It
 
 - Start in Week 1.
 - Revisit it every week.
-- Use it whenever a learner spots a rule, dispute, loophole, precedent, or amendment idea in daily life.
+- Use it whenever a learner spots a rule, dispute, loophole, precedent, tricky what-if, or official rule update idea in daily life.
 
 ## Student Directions
 
@@ -57,9 +57,9 @@ My best interpretation or ruling:
 
 What still feels unclear?
 
-Possible patch, amendment, or better wording:
+Possible rule update, amendment, or better wording:
 
-Cross-curriculum connection:
+Other connection:
 - civic literacy
 - financial literacy
 - media literacy
@@ -77,5 +77,5 @@ Cross-curriculum connection:
 ## Older Learner Extension
 
 - Add a second possible interpretation.
-- Note the burden of proof or evidence question when relevant.
+- Note the proof job or evidence question when relevant.
 - Add one sentence on whether the process felt fair.

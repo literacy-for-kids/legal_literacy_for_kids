@@ -1,13 +1,13 @@
 ---
-title: "Listening Protocol Template"
-description: "A due-process checklist and template for low-stakes hearings and structured listening."
+title: "Fair Hearing / Listening Protocol Template"
+description: "A fair-hearing checklist and template for low-stakes hearings and structured listening."
 ---
 
-# Listening Protocol Template
+# Fair Hearing / Listening Protocol Template
 
 ## Purpose
 
-This template gives learners a fair-hearing structure for low-stakes disputes.
+This template gives learners fair-hearing steps for low-stakes disputes.
 
 ## When to Use It
 
@@ -28,7 +28,7 @@ Fill in the realistic timing and roles for your own small court or group process
 ## Template
 
 ```text
-LISTENING PROTOCOL FOR ____________________
+FAIR HEARING STEPS FOR ____________________
 
 1. NOTICE
 How the accused or responding person will be told what the issue is:
@@ -64,4 +64,4 @@ What happens if someone says the process was skipped or misused:
 
 - Add a burden-of-proof line.
 - Add a short section on what counts as relevant evidence.
-- Compare your protocol to a school discipline process, sports hearing, or real court summary.
+- Compare your fair-hearing steps to a school discipline process, sports hearing, or real court summary.

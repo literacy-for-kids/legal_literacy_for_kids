@@ -1,9 +1,9 @@
 ---
-title: "Exemplar Student Artifacts"
-description: "Low-stakes sample artifacts that show what strong student work can look like without turning them into required answers."
+title: "Exemplar Student Work"
+description: "Low-stakes sample pages that show what strong student work can look like without turning them into required answers."
 ---
 
-# Exemplar Student Artifacts
+# Exemplar Student Work
 
 These are **examples, not required answers**. They show what clear, fair, age-appropriate legal thinking can look like.
 
@@ -16,7 +16,7 @@ Type: rule and commons
 What happened: Someone kept taking the last granola bar and not replacing it.
 What I think the rule was for: So everyone gets a fair chance at shared snacks.
 My ruling or conclusion: We need a rule that whoever takes the last snack writes it on the list.
-Possible patch: Put the grocery list next to the snack shelf.
+Possible rule update: Put the grocery list next to the snack shelf.
 ```
 
 ## 2. Weak vs. Strong Rule
@@ -31,7 +31,7 @@ Why the stronger version works: it is easier to check, easier to teach, and easi
 - **Weak clause:** "Clean the table and get extra screen time."
 - **Strong clause:** "By 7:00 PM on Tuesdays and Thursdays, Party A clears the craft table, wipes the surface, returns markers to the bin, and throws away scraps. In exchange, Party B gives Party A 20 extra minutes of screen time on Saturday."
 
-## 4. Sample Chores API Clause
+## 4. Sample Household Agreement Clause
 
 ```text
 If the sink is already empty but the counters are dirty, the kitchen task is not complete until the counters are wiped and the sponge is returned to the tray.
@@ -43,7 +43,7 @@ If the sink is already empty but the counters are dirty, the kitchen task is not
 Rule: No snacks in the reading tent.
 Intent: Keep the space clean and bug-free.
 Loophole: A smoothie in a closed cup is technically not a snack.
-Patch: No food or drinks other than water in sealed bottles in the reading tent.
+Rule update: No food or drinks other than water in sealed bottles in the reading tent.
 Ethics note: The loophole is clever, but it still defeats the clean-space purpose.
 ```
 
@@ -76,18 +76,18 @@ Reason: The old text did not say whether guests had to follow the same cleanup r
 ## 9. Sample Mock Trial Written Ruling
 
 ```text
-Facts found: The defendant used the shared project shelf during the plaintiff's reserved time and did not ask first.
+Facts found: The responding person used the shared project shelf during the complaining person's reserved time and did not ask first.
 Rule applied: Rule 2 of the Project Shelf Charter: "Reserved slots must be honored unless both members agree to a change."
-Ruling: The plaintiff prevails.
-Reasoning: The shelf was reserved, the defendant knew it, and there was no agreement to change the schedule.
-Remedy: The defendant restores the materials and gives the plaintiff the next open slot.
+Ruling: The complaining person should win.
+Reasoning: The shelf was reserved, the responding person knew it, and there was no agreement to change the schedule.
+Remedy: The responding person restores the materials and gives the complaining person the next open slot.
 Gap note: The Charter should define how schedule changes are recorded.
 ```
 
 ## 10. Sample Appeal Request
 
 ```text
-I am asking for review because the Listening Protocol said both sides would see all evidence before the hearing, but the screenshot used in the ruling was shown for the first time during the hearing.
+I am asking for review because the fair-hearing steps said both sides would see all evidence before the hearing, but the screenshot used in the ruling was shown for the first time during the hearing.
 I think this mattered because I would have explained the missing earlier messages if I had seen the screenshot sooner.
 I am not appealing just because I lost. I am appealing because the process step about evidence sharing was skipped.
 ```

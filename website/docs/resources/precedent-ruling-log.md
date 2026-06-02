@@ -1,6 +1,6 @@
 ---
 title: "Precedent Ruling Log"
-description: "A log for tracking early rulings, later constraints, and distinguishing or overturning moves."
+description: "A log for tracking early rulings, later links, and when a learner follows, explains a difference, or changes an old answer."
 ---
 
 # Precedent Ruling Log
@@ -22,11 +22,11 @@ Fill in one row for each case. Keep referring back to earlier cases as you go.
 
 - Run cases in order.
 - Ask learners to name the prior case that controls the new one.
-- Use the "distinguish" and "overturn" columns only when the learner is ready for them.
+- Use the last two columns only when the learner is ready for them. The older legal words can come later.
 
 ## Template
 
-| Case # | Facts | Rule text | My ruling | Why I ruled this way | Which earlier case controls this one? | Distinguish? | Overturn? | What this means for future cases |
+| Case # | Facts | Rule text | My ruling | Why I ruled this way | Which earlier case controls this one? | Important difference? | Change old answer? | What this means for future cases |
 |---|---|---|---|---|---|---|---|---|
 | 1 | | | | | | | | |
 | 2 | | | | | | | | |
@@ -45,4 +45,4 @@ Fill in one row for each case. Keep referring back to earlier cases as you go.
 ## Older Learner Extension
 
 - Add a final paragraph: "Which ruling would I change now, and why?"
-- Add jurisdiction notes if comparing different legal systems or school systems.
+- Add place or system notes if comparing different legal systems or school systems.

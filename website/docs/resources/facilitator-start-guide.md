@@ -5,7 +5,7 @@ description: "A practical before-you-start guide for facilitators, caregivers, a
 
 # Facilitator Start Guide
 
-This curriculum teaches legal literacy, not legal advice. It helps ages 8-12 understand how rules, agreements, rights, courts, and amendments work as systems.
+This curriculum teaches legal literacy, not legal advice. It helps ages 8-12 understand how rules, agreements, rights, courts, and rule updates work together.
 
 Use this guide before Week 1 and revisit it whenever you need a reset on pacing, safety, or facilitation style.
 
@@ -13,7 +13,7 @@ Use this guide before Week 1 and revisit it whenever you need a reset on pacing,
 
 Use this page to:
 
-- understand the scope and pacing of the 18 core weeks and optional advanced weeks
+- understand the shape and pace of the 18 core weeks and optional extension weeks
 - set safe expectations for real-life examples, mock trials, and agreements
 - prepare the materials and mindset that make the course work well
 - decide when to use a low-stakes real example and when to switch to fiction
@@ -66,11 +66,11 @@ If a real dispute feels emotionally intense, switch to a fictional scenario imme
 - If a learner volunteers something heavy, acknowledge it briefly and redirect to a safer example.
 - When in doubt, fictionalize names, settings, and details.
 
-### 5. Adapt to your jurisdiction and culture
+### 5. Adapt to your place and culture
 
-Legal rules differ by country, state, province, tribe, territory, court system, school, and family context. Treat the curriculum as a legal-system pattern, not a universal script.
+Legal rules differ by country, state, province, tribe, territory, court system, school, and family context. Treat the curriculum as a pattern for how rules and decisions work, not a universal script.
 
-When real legal questions arise, consult a qualified adult or professional in the relevant jurisdiction.
+When real legal questions arise, consult a qualified adult or professional in the place you live.
 
 ## Materials Checklist
 
@@ -86,16 +86,16 @@ Useful extras:
 
 - printed worksheets from the resources section
 - a folder for Micro-Charter drafts and amendments
-- a consistent place to store signed artifacts
+- a consistent place to store finished work
 
-## Core Artifacts
+## Core Reusable Work
 
-The course works best when these artifacts are kept and reused:
+The course works best when this work is kept and reused:
 
 - Case Notes
 - First Three Laws worksheet
 - contract and agreement drafts
-- Chores API or household agreement
+- household agreement
 - loophole audits
 - precedent ruling log
 - Micro-Charter and amendments
@@ -141,7 +141,7 @@ When students write a contract, charter, ruling, or amendment, keep pointing the
 ## Older Learner Extension
 
 - compare two interpretations of the same rule
-- add edge cases and appeals
+- add tricky what-ifs and appeals
 - push for clearer definitions and written reasoning
 - compare family, classroom, civic, and national systems
 - connect the lesson to real policies, terms of service, or governing documents
@@ -174,7 +174,7 @@ If you want the shortest setup path before Week 1:
 - Rule Inventory Worksheet
 - First Three Laws Worksheet
 - Contract Design Worksheet
-- Chores API / Household Agreement Template
+- Household Agreement Template
 - Loophole Audit Worksheet
 - Precedent Ruling Log
 - Micro-Charter Template
@@ -183,6 +183,6 @@ If you want the shortest setup path before Week 1:
 
 ## Final Reminder
 
-This curriculum is strongest when it is warm, exact, and low-stakes. The goal is system practice. The goal is not winning, punishing, diagnosing real family problems, or putting children under pressure to perform adult conflict resolution.
+This curriculum is strongest when it is warm, exact, and low-stakes. The goal is rule-and-fairness practice. The goal is not winning, punishing, diagnosing real family problems, or putting children under pressure to perform adult conflict resolution.
 
 If the lesson stays safe, specific, and thoughtful, the legal thinking will stick.

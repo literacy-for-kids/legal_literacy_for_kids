@@ -1,42 +1,65 @@
 ---
 sidebar_position: 6
-sidebar_label: "Week 6: The Payload: Why Exchange Matters"
-title: "Week 6: The Payload: Why Exchange Matters"
-description: "Students learn how consideration helps distinguish a bargain from a gift or one-way promise."
+sidebar_label: "Week 6: What Each Person Gives"
+title: "Week 6: What Each Person Gives"
+description: "Students learn that a deal usually includes a trade, and they practice spotting the trade part of a deal."
 ---
 
-# Week 6: The Payload: Why Exchange Matters
-*The Anatomy of a Promise — Phase 2*
+# Week 6: What Each Person Gives
+*Making Clear Deals - Phase 3*
 
-We have offer. We have acceptance. We have the handshake.
+Last week, the learner watched a deal get made.
 
-But there's one more piece — the part that helps show an agreement is a bargain, not just a gift or a vague promise. It's called **consideration**, and it's one of the most misunderstood words in contract law. Consideration is **the value each side gives the other**. It's the payload of the transaction. The actual data flowing through the API.
+This week, we ask a simpler question: what does each person give, do, or promise in the deal? That is the trade part. Later, we add the legal word **consideration**.
 
-Here's the surprising part: without consideration, many agreements do not look like contracts at all. Even if both people agreed. Even if both people meant it. Even if both people shook hands and pinky-promised.
+## Kid Hook
 
-"I promise to be nice." — Not a contract.
-"I'll walk your dog if you pay me $5." — bargain with clear consideration.
+Look at these arrows:
 
-That exchange changes how the promise works. This week we figure out why.
+- I give a sticker. You give a sticker.
+- I do the dog-walking. You give me extra Saturday screen time.
+- I borrow the bike. I help clean it before giving it back.
+
+In a deal, both sides should have something on the arrows.
+
+## Today's Mission
+
+Spot the trade part of a deal.
+
+## You'll Make / You'll Try
+
+- two-arrow diagrams for simple deals
+- a card sort that asks: **Deal**, **Gift**, or **Promise That Matters But Is Not a Deal**
+
+## Materials
+
+- paper
+- pencil
+- index cards
+- a few small objects or pictures of objects
+- **Case Notes**
+
+## Quick 20-Minute Version
+
+1. Draw two arrows for one example: "I give ___. You give ___."
+2. Sort 4 promises into **Deal**, **Gift**, or **Important Promise**.
+3. Say the formal term: "The trade part of a deal is called consideration."
+
+## Main Activity
+
+Use arrow diagrams and card sorting to find what each person gives in a deal.
 
 ---
 
 :::info Facilitator Snapshot
-- Big takeaway: consideration is what helps distinguish a bargain from a gift or one-way promise.
-- Consideration doesn't have to be money. It can be an action, a thing, a promise of future action, or giving up a chance or claim.
-- Don't get tangled in adult contract law subtleties. Stick to the core: each side must give something the other side values.
-- This week sets up Week 7, where students draft a clear, signed household agreement using these tools.
+- Define **consideration** as the trade part of a deal.
+- Keep the core examples physical and familiar.
+- Preserve this important idea: some promises matter deeply even when they are not contract-style deals.
+- Move peppercorns, nominal value, and other doctrine-heavy examples to the older extension only.
 :::
 
 :::note Jurisdiction Note
-Different legal systems handle consideration somewhat differently. For this curriculum, the goal is not to memorize doctrine but to understand why exchange matters when law tries to distinguish bargains from gifts.
-:::
-
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: What Counts as Value?](#guided-session-1)
-- [Guided Session 2: The Promise Test](#guided-session-2)
-- [Independent Practice](#independent-practice)
+Different legal systems handle consideration somewhat differently. This lesson teaches the beginner pattern: law often looks for a real exchange when it decides whether a bargain exists.
 :::
 
 ## Week at a Glance
@@ -44,241 +67,186 @@ Different legal systems handle consideration somewhat differently. For this curr
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Paper, pencil, a few small "valuable" items (sticker, coin, snack), Case Notes |
-| **Key vocabulary** | consideration, value, exchange, payload, mutual obligation |
+| **Materials** | Paper, cards, small objects, **Case Notes** |
+| **Core vocabulary** | promise, deal, trade, consideration |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Have a few small items on hand that have different kinds of value: a coin (monetary), a snack (consumable), a sticker (sentimental), a favor coupon ("good for one help with homework").
-- Read through both Sessions.
-- Be prepared for the philosophical question: "Why does the law require consideration at all?" There's a good answer below.
+- Prepare 6-8 short promise cards.
+- Gather examples the learner can picture quickly: sticker, chore, bike, snack, game turn, help with cleanup.
+- Be ready to compare a deal with a gift and a moral promise.
 :::
 
 :::tip Facilitation Mindset
-This week is genuinely interesting from a philosophical angle. Why does the law treat a one-way promise differently from a two-way promise? The answer reveals something deep about what the legal system is *for*. Don't rush past this question.
+If the learner gets stuck, go back to the arrows.
+
+Ask: "What goes this way? What goes back the other way?" If there is only one arrow, it may not be a deal.
 :::
 
-## For Younger Learners (Ages 8–9)
+## Younger Learner Adaptation (Ages 8-9)
 
-:::info Adapting This Week
-**Simplest version of the concept:** "A real deal needs both people to give something. If only one person is giving and the other is just taking, it's a gift — not a deal."
+:::info For Younger Learners
+**Simple idea:** In a deal, each person gives or does something.
 
-**What to shorten or skip:**
-- Skip the "value can be an action, not just a thing" complication for now.
-- Use only physical trade examples.
-- Keep sessions to 20 minutes.
+**Concrete substitutions:**
+- Use 4 cards, not 8.
+- Use pictures and arrows instead of lots of writing.
+- Say "the trade part" first and add **consideration** afterward.
 
-**Adapting the activities:**
-- Use real objects. Physically swap them. The lesson lands better when consideration is something the student can touch.
-- Accept oral answers.
-
-**Journal alternative:** Draw a trade. Two arrows pointing in opposite directions, each labeled with what's being given.
-
-**What success looks like:** The learner can name what each person gave in a real-world deal they've made.
+**What success looks like:** The learner can point to what each person gives in a deal.
 :::
 
-:::info For Ages 10–12
-- Introduce the idea that **consideration doesn't have to be money or things**. A promise to do something, a promise *not* to do something, even giving up a right — all count.
-- Discuss why the legal system requires consideration at all. (Hint: enforceability and proof. The exchange shows that both sides meant it.)
-- Explore "nominal consideration" — when a contract uses a tiny amount (like $1) to make a deal legally binding even though no real value is changing hands.
+## Older Learner Extension (Ages 10-12)
+
+:::info For Older Learners
+- After the learner gets the kid version, explain the historical oddity that tiny value can sometimes still count legally.
+- Terms like **peppercorn doctrine**, **nominal consideration**, and **forbearance** belong here, not in the main lesson.
+- Ask older learners why law might care more about exchange in some bargains than in gifts.
 :::
 
 ---
 
 ## Guided Session 1
-### What Counts as Value?
+### The Two-Arrow Test
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- recognize consideration in a real-world deal
-- understand that consideration doesn't have to be money
-- identify whether both sides are actually giving something
+- identify what each person gives in a deal
+- use arrow diagrams to show exchange
+- explain why trade makes a deal different from a gift
 
----
 #### Activities
 
-**1. The Two-Way Arrow**
+**1. Draw the arrows**
 
-Draw a simple diagram on paper:
+Write simple examples and draw arrows both ways:
 
+- I give a sticker. You give a sticker.
+- I do the chore. You give 20 extra minutes of screen time.
+Next week, the learner uses everything from Weeks 4 through 6 to write a clear household agreement for one low-stakes job.
+Draw:
+
+```text
+I give -->
+<-- You give
 ```
-PERSON A    ←─────→    PERSON B
-       gives X     gives Y
-```
 
-> "Every real contract has two arrows. Value flowing in both directions. If there's only one arrow, you don't have a contract — you have a gift, a one-way transfer."
+Explain that when both arrows are filled, you usually have the trade part of a deal.
 
-Then walk through examples:
+**2. Fill the arrows with examples**
 
-| Deal | A's Consideration | B's Consideration | Contract? |
-|---|---|---|---|
-| Pokémon card for sticker | Card | Sticker | Yes — two arrows |
-| $5 for dog walking | $5 | Walking the dog | Yes — two arrows |
-| "Happy birthday, here's $20" | $20 | Nothing | No — one arrow (gift) |
-| "I'll be your friend forever" | Friendship | Friendship | Tricky — see below |
-| Chore in exchange for allowance | The chore | The allowance | Yes |
-| Giving up your game turn now in exchange for first turn later | Your turn now | Their turn later | Yes — giving up a turn can have value |
+Try examples such as:
 
-Stop on the friendship example:
+- sticker for sticker
+- help fold laundry for extra screen time
+- use of a bike for helping clean it after
+- pet sitting for a small thank-you gift that was promised in advance
 
-> "Why isn't 'I'll be your friend if you'll be mine' a real contract?"
+For each one, ask:
 
-The answer: friendship isn't a thing the law can measure or enforce. You can't *make* someone be a real friend by court order. The legal system handles things it can verify and remedy. Friendship lives somewhere else.
+- What does Person A give?
+- What does Person B give?
+- Are both arrows filled?
 
----
+**3. Add the formal word**
 
-**2. Consideration That's Not a Thing**
+Once the learner can use the arrows, say:
 
-Here's a critical move. Consideration can be:
+> "Law often calls this trade part **consideration**."
 
-- **A thing** — a card, a dollar, a snack
-- **An action** — walking a dog, mowing a lawn, helping with homework
-- **A promise** — "I promise to do X" can itself be consideration, even before the X happens
-- **Giving up a turn or claim** — "I won't use the shared art table now if you let me go first later"
-- **Forbearance** — agreeing to *not* do something you were otherwise allowed to do
-
-Discuss each. Have the student come up with one example of each kind.
-
----
-
-**3. The Tiny Dollar Trick**
-
-Here's a real-world thing that surprises students:
-
-> "Sometimes older contract examples include a clause like, 'In exchange for $1, I agree to...' Even though $1 is basically nothing, some legal systems still treat that tiny exchange as consideration."
-
-> "Why? Because the law often cares that there is an exchange at all. It usually cares less about the size of the exchange than about whether both sides intended a bargain."
-
-This is sometimes called the **peppercorn doctrine** in older contract law. It's a strange-looking rule, but it helps explain the bigger idea: the law wants evidence that both sides meant to make a bargain.
+Then rewrite one example using the formal word in parentheses.
 
 ---
 
 ## Guided Session 2
-### The Promise Test
+### Promise, Gift, or Deal?
+
 #### Learning Goal
+
 By the end of this session, the student can:
 
-- analyze any promise and identify whether consideration flows both ways
-- spot the difference between a contract and a one-way gift
-- recognize "moral" promises that aren't legally enforceable
+- tell the difference between a one-way promise and a trade
+- explain why not every good promise is a contract-style deal
+- use the word consideration carefully
 
----
 #### Activities
 
-**1. The Promise Cards**
+**1. Sort the examples**
 
-For each of these, the student decides: **Contract, Gift, or Moral Promise?**
+Create 3 piles:
 
-> 1. "I'll lend you my book for a week if you return it in good condition." → *Bargain-shaped agreement — each side has a clear obligation.*
+- **Deal / trade**
+- **Gift**
+- **Important promise, but not this kind of deal**
 
-> 2. "Happy birthday! Here's a gift card." → *Gift.*
+Use examples like:
 
-> 3. "I promise to clean my room." → *Moral promise — no consideration to anyone.*
+- "I will give you this sticker for your bookmark."
+- "I will buy you ice cream because I want to."
+- "If you water my plant this weekend, I will let you borrow my game."
+- "I promise I will be kinder to my little brother."
+- "If you clean the hamster cage, I will add 15 minutes of reading time tonight."
 
-> 4. "I promise to clean my room if you let me stay up an extra 30 minutes." → *Contract.*
+**2. Ask the key question**
 
-> 5. "I promise I won't use the shared tablet during your study hour." → *One-way promise unless something is exchanged for it.*
+For each example, ask:
 
-> 6. "I'll skip my turn on the swing now if you let me go first next round." → *Bargain — both sides exchange something of value.*
+> "What does each person give?"
 
-> 7. "I promise to be a better friend." → *Moral promise — feels deep, but legally empty.*
+If only one side is giving something, the learner can usually see why it is not the same kind of deal.
 
-> 8. "I'll help with your poster tonight if you help with mine tomorrow." → *Bargain — exchange of services.*
+**3. Protect the moral point**
 
-Pattern: the legal world only steps in when both sides are giving something the other side values. Everything else is moral, social, or personal — important, but outside the legal system.
+Say clearly:
 
----
-
-**2. The Big Philosophical Question**
-
-This is the moment to ask, slowly:
-
-> "Why do you think the law requires consideration to make a promise enforceable? Why doesn't the law just enforce *any* promise people sincerely make?"
-
-Let the student think. Take their answers seriously. Then drop the real answer:
-
-> "Two big reasons. First, **proof**. If you and I both gave each other something, there's evidence that we both meant the deal. If only you promised something, the law has a harder time knowing whether you really meant it or were just being polite."
-
-> "Second, **scope**. If the law had to enforce every sincere promise — every 'I'll always love you,' every 'I promise to be a better person' — it would be drowning in promises it couldn't possibly verify. Consideration is the line that separates the promises courts can handle from the ones they can't."
-
-This is one of the deepest things in this curriculum. The law is not all of life. It handles the part of life that can be specified and verified. Everything else is left to humans.
-
----
-
-**3. Spot the Missing Consideration**
-
-For each of these, the student identifies what's missing for the promise to be a contract:
-
-> "Mom said she'd take me to the park this Saturday." (One-way promise. Add consideration: "...if I finish all my homework by Friday.")
-
-> "My friend said they'd never lie to me again." (Pure moral promise. Add consideration: would need an exchange of something.)
-
-> "The teacher said I could borrow her stapler." (One-way unless borrowing inherently obligates return — which it usually does.)
-
-> "My sister said she'd let me use her bike anytime." (One-way unless you offered something in return.)
-
-Notice: turning a moral or one-way promise into a contract just means adding the second arrow.
+> "Some promises matter a lot even when they are not contract-style deals. Friendship, care, and kindness still matter."
 
 ---
 
 ## Independent Practice
 ### Goal
 
-Build the habit of identifying consideration in real-world deals.
+Notice the trade part in real or pretend deals.
 
 ### Activities
 
-**1. The Consideration Audit**
+**1. Arrow audit**
 
-Pick **three real promises** you've heard or made this week. For each, write:
+Find 3 examples from life, stories, or pretend play. For each one, fill the arrows.
 
-- The promise
-- The consideration each side gave (or whether one side gave nothing)
-- Whether it's a contract, a gift, or a moral promise
+**2. Rewrite one promise**
 
-Examples:
-- "Dad said he'd order pizza tonight if I finished my book report by 6 PM." → Contract.
-- "My friend said I could use her colored pencils." → Gift (one-way).
-- "I promised I'd never make fun of my brother again." → Moral promise.
-
----
-
-**2. The Re-Write Challenge**
-
-Take one moral promise you wrote down and **re-engineer it into a contract** by adding consideration on both sides.
+Take one vague promise and turn it into a clearer trade example for learning purposes.
 
 Example:
-- Moral promise: *"I promise to feed the dog every day."*
-- As a contract: *"I'll feed the dog every day this month in exchange for $10 added to my allowance."*
 
-Discuss: does turning it into a contract change the feel of the promise? Why or why not?
+> "I promise I will help more at home" becomes "If I empty the dishwasher every evening this week, I earn 20 minutes of game time on Friday."
+
+Make clear that this is a practice exercise, not a rule that must be used in real family life.
 
 ### Case Notes
 
-Add this to your **Case Notes**:
+Add this to **Case Notes**:
 
 > **Date:**
 >
-> **A real contract from this week — what was the consideration on each side?**
+> **One deal I noticed:**
 >
-> **A one-way promise (gift) I made or received:**
+> **What each person gave:**
 >
-> **A moral promise — something deeply meant but with no consideration:**
+> **The trade part (consideration) was:**
 >
-> **The promise I re-engineered into a contract — and what changed when I did:**
+> **One promise that mattered but was not a trade:**
 
 **Sentence starters for younger learners:**
-- "A deal where both of us gave something was ___."
-- "A gift I got (where I gave nothing back) was ___."
-- "A promise I made that wasn't really a contract was ___."
 
-### Reflection Questions
-
-- When you turned the moral promise into a contract, did it feel more "real" or *less* "real"? Why?
-- Are there promises in your life that you'd never want to turn into contracts? Why not?
-- Is it possible for a contract to be sincere AND legally binding? Or do those two things pull against each other?
+- "I give ___."
+- "You give ___."
+- "This is a trade because ___."
 
 ---
 
@@ -286,58 +254,24 @@ Add this to your **Case Notes**:
 
 After this week, check whether the learner can:
 
-1. **Define consideration:** "What does it mean for a promise to have consideration?" (Looking for: each side gives something of value.)
-2. **Spot a non-contract:** "If your aunt promises to take you to the zoo for your birthday, is that a contract?" (Looking for: no — it's a one-way promise, no consideration from you.)
-3. **Convert a promise:** "How would you turn 'I promise to clean my room' into a contract?" (Looking for: add something the other person has to do in return.)
+1. **Show both sides:** "What does each person give in this deal?"
+2. **Use the formal term gently:** "What does consideration mean here?"
+3. **Protect the moral point:** "Can a promise still matter even if it is not this kind of trade?"
 
-If the learner can do at least 2 of these, they're ready for Week 7.
+If the learner can do at least 2 of these, they are ready for Week 7.
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-After Session 2, ask:
+This week is not teaching children to turn every human relationship into a contract.
 
-> "Think of the most meaningful promise anyone has ever made to you. Was it a contract? Or was it the kind of promise that doesn't have consideration at all?"
+It is teaching them to notice when a deal includes a real exchange and when a promise belongs more to kindness, trust, or responsibility.
 
-Most students will land on something deep — a parent's promise to love them, a friend's promise of loyalty, their own promise to themselves.
-
-> "Notice that some of life's most important promises are the ones that *don't* meet the legal definition of a contract. They're held together by something else — trust, love, identity, integrity. The legal system isn't where those promises live."
-
-This is the most important quiet moment in Unit 2. The student should leave understanding that the law handles one kind of promise, and life is full of other kinds. **Knowing the difference is more important than knowing the legal definitions.**
-
-**This week's takeaway:** A contract requires something flowing in both directions. The fact that the law works this way isn't a limitation — it's a design choice. The law handles what it can handle. Everything else is up to us.
-:::
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-**From Week 4:** We learned that a contract needs all three parts: Offer, Acceptance, Consideration. This week completes the triangle.
-
-**From Week 5:** Counter-offers happen all the time during the consideration discussion ("I'll do that, but for $7 instead of $5"). Notice how negotiation often turns into a back-and-forth about exactly how much consideration each side gives.
-:::
-
----
-
-:::tip Simplify (Ages 8–9)
-Skip the "consideration can be a promise of future action" complication. Stick with "both people give something" using physical items the student can trade.
-:::
-
-:::tip Extend (Ages 10–12)
-Discuss "nominal consideration" — using a tiny amount like $1 to make a contract binding. Real adults do this when, say, transferring ownership of a house "for $1 plus other valuable consideration." Why would they bother? (To make the transfer legally clean while keeping it effectively a gift.)
-:::
-
-:::tip Vocabulary This Week
-- **Consideration** — The value each side gives in a contract. Can be a thing, an action, a promise, or even silence.
-- **Payload** — The actual stuff flowing through the contract. Same idea as consideration, in engineering terms.
-- **Mutual obligation** — Both sides are committed to do something. The defining feature of a contract.
-- **Gift** — A one-way transfer of value. Not a contract.
-- **Moral promise** — A sincere promise without consideration. Important to the person, but not legally enforceable.
+**This week's takeaway:** Consideration means the trade part of a deal: what each side gives, does, or promises.
 :::
 
 ## Preview of Next Week
 
-Next week is the practical capstone of Unit 2: **the Chores API**. The student will draft a real, signed household agreement using contract-design tools — specifying exactly what counts as "cleaning the kitchen," what happens if equipment is broken, what counts as a breach, and how the agreement will be reviewed or revised. They'll walk away with an actual document they can use and improve.
+Next week, you will use everything from Weeks 4 through 6 to write a clear household agreement for one small job or responsibility.
