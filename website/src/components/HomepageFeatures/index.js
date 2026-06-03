@@ -1,4 +1,5 @@
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import {hub, curricula} from 'literacy-site-theme/ecosystem';
 import styles from './styles.module.css';
@@ -95,6 +96,7 @@ function LiteracyCard({label, href, description, isCurrent}) {
 }
 
 export default function HomepageFeatures() {
+  const roadmapImageUrl = useBaseUrl('/img/roadmap.png');
   return (
     <div className={styles.pageSections}>
       <section className={styles.section}>
@@ -159,6 +161,13 @@ export default function HomepageFeatures() {
             contract design, legal interpretation, rights and governance, and culminates
             in a full mock trial capstone.
           </p>
+          <div className={styles.roadmapVisual}>
+            <img
+              className={styles.roadmapImage}
+              src={roadmapImageUrl}
+              alt="Visual roadmap showing the Legal Literacy for Kids curriculum sequence"
+            />
+          </div>
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section) => (
               <RoadmapCard key={section.title} {...section} />
