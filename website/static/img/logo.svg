@@ -1,4 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#b45309"/>
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="72" fill="white" text-anchor="middle">⚖️</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Legal Literacy for Kids Logo</title>
+  <desc id="desc">A compact amber legal literacy icon showing a balanced justice scale on a simple geometric base.</desc>
+
+  <!-- Background badge -->
+  <rect x="12" y="12" width="176" height="176" rx="42" fill="#FFFBEB"/>
+  <rect x="12" y="12" width="176" height="176" rx="42" stroke="#B45309" stroke-width="8"/>
+
+  <!-- Central post -->
+  <path d="M100 58V133" stroke="#B45309" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- Top pivot and beam -->
+  <circle cx="100" cy="63" r="13" fill="#B45309"/>
+  <path d="M58 75H142" stroke="#B45309" stroke-width="11" stroke-linecap="round"/>
+
+  <!-- Beam center highlight -->
+  <circle cx="100" cy="75" r="8" fill="#FDE68A"/>
+
+  <!-- Hangers -->
+  <path d="M67 79L50 116" stroke="#B45309" stroke-width="7" stroke-linecap="round"/>
+  <path d="M67 79L84 116" stroke="#B45309" stroke-width="7" stroke-linecap="round"/>
+  <path d="M133 79L116 116" stroke="#B45309" stroke-width="7" stroke-linecap="round"/>
+  <path d="M133 79L150 116" stroke="#B45309" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Balanced pans -->
+  <path d="M42 116H92
+           C88 132 78 142 67 142
+           C56 142 46 132 42 116Z"
+        fill="#FDE68A" stroke="#B45309" stroke-width="7" stroke-linejoin="round"/>
+
+  <path d="M108 116H158
+           C154 132 144 142 133 142
+           C122 142 112 132 108 116Z"
+        fill="#FDE68A" stroke="#B45309" stroke-width="7" stroke-linejoin="round"/>
+
+  <!-- Base / fulcrum -->
+  <path d="M100 122L73 159H127L100 122Z"
+        fill="#B45309" stroke="#B45309" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="61" y="156" width="78" height="16" rx="8" fill="#B45309"/>
+
+  <!-- Light details -->
+  <path d="M57 123H77" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M123 123H143" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- Small fairness accents -->
+  <circle cx="49" cy="53" r="6" fill="#FCD34D"/>
+  <circle cx="151" cy="53" r="6" fill="#FCD34D"/>
+  <circle cx="100" cy="38" r="5" fill="#FCD34D"/>
 </svg>
