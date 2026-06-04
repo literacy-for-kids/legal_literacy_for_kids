@@ -41,7 +41,26 @@ Learn what rights protect.
 1. Compare one ordinary vote with one vote that crosses a line.
 2. Sort 4 examples into **Right** or **Not a Right**.
 3. Write 2 shield ideas for a real group or club.
-Next week, the learner asks another design question: if power matters this much, how should a group share the jobs of making rules, carrying them out, and settling arguments?
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- name one protection a group should not vote away unfairly
+- explain one reason that protection matters
+- use made-up, school, library, club, or story examples instead of private family legal experiences
+
+### Ages 10-12: Core path
+
+- explain the difference between a right, a responsibility, and a preference
+- connect rights to fair treatment and fair process
+- compare two perspectives about what a group should protect
+
+### Ages 11-13: Optional extension
+
+- compare protections in a school policy, club charter, or constitutional document with adult guidance
+- discuss more detailed rights language only through guided fictional, historical, or public examples
+
 ## Main Activity
 
 Use low-stakes vote examples and sorting cards to understand that rights protect important boundaries.
@@ -108,7 +127,27 @@ That question helps the learner feel why rights are different from ordinary pref
 - After the child-friendly idea is clear, explain that rights can be thought of as protections against power.
 - Older learners can compare negative rights (what power may not do) with positive rights (what a system may promise to provide).
 - References to the Bill of Rights or other constitutional documents belong here as extension context.
+- More complex topics involving police, criminal procedure, immigration, discrimination, or constitutional litigation should stay guided and optional, not baseline expectations for every learner.
 :::
+
+## Rights and Responsibilities
+
+A right is something people are allowed to have, do, or be protected from. A responsibility is something people should do to help keep a community safe, fair, and workable. Rights and responsibilities often connect.
+
+Examples:
+
+- People may have a right to speak, and a responsibility not to threaten or harass others.
+- Students may have a right to learn, and a responsibility not to stop others from learning.
+- People may have a right to be treated fairly, and a responsibility to treat others fairly.
+- Community members may have a right to use shared spaces, and a responsibility to follow safety rules.
+
+## Civil Discussion Moves
+
+- "I see it differently because..."
+- "What evidence or example supports that?"
+- "Who might be affected by this?"
+- "What right or responsibility might matter here?"
+- "I agree with this part, but I wonder about..."
 
 ---
 
@@ -182,6 +221,8 @@ Choose a real, low-stakes group or space such as:
 - a Minecraft or Roblox server
 - a sports practice group
 - a friend art club
+- a library club
+- a community-center project table
 
 The group should be real enough that the learner can imagine actually using the rules later.
 

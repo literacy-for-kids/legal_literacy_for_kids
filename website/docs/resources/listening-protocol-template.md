@@ -24,6 +24,8 @@ Fill in the realistic timing and roles for your own small court or group process
 - Use only low-stakes disputes.
 - If the situation involves bullying, abuse, trauma, humiliation, family secrets, money pressure, or intense emotional history, stop and switch to fiction.
 - The goal is fair process, not winning.
+- Do not simulate police questioning, interrogation, or punitive cross-examination.
+- Build in AAC, interpretation, translation, captioning, visuals, or extra time if learners need them.
 
 ## Template
 
@@ -31,7 +33,7 @@ Fill in the realistic timing and roles for your own small court or group process
 FAIR HEARING STEPS FOR ____________________
 
 1. NOTICE
-How the accused or responding person will be told what the issue is:
+How the responding person will be told what the issue is:
 
 2. TIME TO PREPARE
 Minimum time before the hearing:
@@ -39,19 +41,22 @@ Minimum time before the hearing:
 3. ACCESS TO EVIDENCE
 What documents, messages, or observations must be shared first:
 
-4. ORDER OF SPEAKING
+4. ACCESS SUPPORTS
+How AAC, translation, visuals, note-taking, or extra time will be provided:
+
+5. ORDER OF SPEAKING
 Who speaks first:
 Who responds second:
 How questions are asked:
 
-5. NEUTRAL DECIDER
+6. NEUTRAL DECIDER
 Who hears the case:
 What happens if that person is involved or biased:
 
-6. WRITTEN OR SPOKEN RULING
+7. WRITTEN OR SPOKEN RULING
 How the decision will be recorded:
 
-7. REVIEW OR APPEAL STEP
+8. REVIEW OR APPEAL STEP
 What happens if someone says the process was skipped or misused:
 ```
 
@@ -65,3 +70,4 @@ What happens if someone says the process was skipped or misused:
 - Add a burden-of-proof line.
 - Add a short section on what counts as relevant evidence.
 - Compare your fair-hearing steps to a school discipline process, sports hearing, or real court summary.
+- Add a note on how to check whether a screenshot, quote, or clip may be incomplete or edited.

@@ -13,6 +13,8 @@ The course helps learners explore why groups need rules, how promises become cle
 
 Use [Legal Systems Cycle](./legal-systems-cycle.md) alongside this page if you want the full course arc in one place.
 
+Use [Outcomes](./outcomes.md), [Legal Checkpoint](./legal-checkpoint.md), [Assessment Checkpoints](./assessment-checkpoints.md), [Self-Assessment](./self-assessment.md), and [Facilitator Start Guide](./resources/facilitator-start-guide.md) for the core learning, reflection, discussion, and privacy-safe facilitation routines that run through the curriculum.
+
 ## Program Structure
 
 The course is organized into 5 units.
@@ -41,6 +43,53 @@ Learners study courts, proof, fair process, mock trials, second looks, and final
 
 - **Two Kinds of Cases** - why community rule-breaking cases and harm-repair cases can follow different paths
 - **Rules Between Countries** - why rules can still matter when there is no single world boss
+
+These advanced topics are guided extensions. They are not baseline expectations for every learner in the 8-12 core path.
+
+## Choosing Legal Examples
+
+Rotate examples across home, school, library, neighborhood, community, online, and government settings. Legal literacy is not only about courts, police, lawsuits, or national politics. It also applies to everyday rules, public information, shared spaces, rights, responsibilities, and how people solve problems fairly.
+
+Useful examples include classroom expectations, library borrowing policies, school device policies, apartment or HOA notices, community center flyers, public transit rules, youth sports rules, online game rules, fictional town problems, translated community notices, and age-appropriate historical examples.
+
+When possible, choose examples that reflect different kinds of communities: rural, suburban, urban, multilingual, multigenerational, renters, homeowners, foster families, guardian-led families, families with different legal statuses, people with disabilities, and people with different access needs.
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- name everyday rules in familiar places such as home, school, library, playground, clubs, games, or community spaces
+- explain who made a rule and who is expected to follow it
+- explain one reason a rule might exist, such as safety, fairness, organization, or protecting people
+- notice when a rule feels fair, unfair, confusing, or incomplete
+- ask basic questions such as "Who made this?", "Who is affected?", and "What should we check?"
+- practice listening and taking turns during low-stakes conversations about rules and fairness
+- use fictional examples instead of private family legal experiences
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- explain the difference between a rule, law, right, responsibility, and consequence in their own words
+- identify who has authority in different settings, such as a classroom, school, library, town, court, or online platform
+- explain that fair processes matter before serious consequences are given
+- identify claims, evidence, opinions, feelings, and missing information in legal or civic messages
+- compare two perspectives on a rule, consequence, or community decision
+- check a simple legal or civic claim with more than one source or trusted adult
+- participate in respectful discussion using reasons, evidence, and sentence frames
+- design a simple legal or civic action project for a school, library, neighborhood, or community issue
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex legal and civic issues involving local government, school policy, public safety, privacy, digital rights, public services, or community decision-making
+- compare legal or civic messages from different groups or viewpoints
+- evaluate campaign, advocacy, influencer, or organization messages for incentives, bias, and missing context
+- explore due process, evidence, rights, responsibilities, and legal procedures in more detail using fictional or historical examples
+- build a more detailed final project with stakeholders, tradeoffs, constraints, sources, accessibility, attribution, and revision
 
 ## Distinctive Features
 
@@ -80,14 +129,14 @@ The curriculum includes templates, worksheets, rubrics, exemplar artifacts, and 
 
 ## Pacing
 
-Each week includes two guided sessions and one independent practice. Younger learners may use shorter 20-minute sessions. Older learners or classroom groups may use 30-minute sessions. Total weekly time is usually **60-90 minutes**.
+Each week includes two guided sessions and one independent practice. The default rhythm is about **20 minutes per session**, which keeps the course usable in homeschool, classroom, library, co-op, and community settings. Facilitators can combine sessions when they need a longer block.
 
 | Component | Typical time |
 |---|---|
-| Guided Session 1 | 20-30 minutes |
-| Guided Session 2 | 20-30 minutes |
-| Independent Practice | 20-30 minutes |
-| **Total per week** | **60-90 minutes** |
+| Guided Session 1 | about 20 minutes |
+| Guided Session 2 | about 20 minutes |
+| Independent Practice / reflection | about 20 minutes |
+| **Total per week** | **about 60 minutes** |
 
 ## Prerequisites
 
@@ -116,6 +165,8 @@ By Week 18, a learner should be able to:
 - draft and revise a **Micro-Charter**
 - describe a fair hearing in clear steps
 - run a low-stakes mock trial using rules, evidence, and written reasoning
+
+They should also be able to use a [Legal Checkpoint](./legal-checkpoint.md), reflect with [Self-Assessment](./self-assessment.md), and complete a small legal literacy or civic action project without exaggerating claims or hiding important context.
 
 The deeper success is a changed stance: learners stop seeing law as mysterious adult machinery and start seeing it as something people can read, question, test, and improve.
 

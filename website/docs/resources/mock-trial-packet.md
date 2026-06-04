@@ -28,6 +28,8 @@ Choose a small, manageable dispute. Then fill out the complaint, response, evide
 - A facilitator may veto or replace any scenario.
 - The goal is fair-process practice, not punishment or embarrassment.
 - If the real dispute feels heavy, switch to fiction immediately.
+- Do not simulate police questioning, interrogation, criminal punishment, or real family conflict.
+- Do not ask learners to reveal private legal experiences.
 
 ## Low-Stakes Case Ideas
 
@@ -36,6 +38,16 @@ Choose a small, manageable dispute. Then fill out the complaint, response, evide
 - a reserved reading spot was used during someone else's slot
 - a game-night rule about turns was not followed
 - a server or club rule about quiet planning time was broken
+- a library checkout reminder was misunderstood
+- a community-center sign was read two different ways
+
+## Civil Discussion Moves
+
+- "Can you explain what you mean by...?"
+- "What evidence or example supports that?"
+- "What rule or process matters here?"
+- "I see it differently because..."
+- "I need a moment before I answer."
 
 ## Complaint Form
 
@@ -51,6 +63,8 @@ Facts:
 Charter provision or rule at issue:
 
 Evidence I plan to use:
+
+What still needs checking before the hearing:
 
 Remedy I am asking for:
 ```
@@ -71,6 +85,8 @@ How I read the rule:
 
 Evidence or reasons I want the hearing group or decider to consider:
 
+What context, screenshot, or detail might be missing:
+
 What outcome I think is fair:
 ```
 
@@ -83,20 +99,23 @@ What outcome I think is fair:
 | 3 | | | |
 | 4 | | | |
 
+Before the hearing, ask whether any evidence could be incomplete, edited, or missing context. If a screenshot, clip, quote, or image might be AI-generated or AI-edited, note that and check for another source when possible.
+
 ## Order of Proceeding Checklist
 
 1. Notice given
 2. Time to prepare provided
 3. Evidence shared in advance
-4. Hearing begins
-5. Opening statements
-6. Complaining side presents
-7. Responding side replies
-8. Judge or panel questions
-9. Closing statements
-10. Decision discussion
-11. Written or spoken ruling
-12. Amendment note if the Charter exposed a gap
+4. Access needs, translation, AAC, or visual supports prepared
+5. Hearing begins
+6. Opening statements
+7. Complaining side presents
+8. Responding side replies
+9. Judge or panel questions
+10. Closing statements
+11. Decision discussion
+12. Written or spoken ruling
+13. Amendment note if the Charter exposed a gap
 
 ## Younger Learner Adaptation
 
@@ -109,3 +128,4 @@ What outcome I think is fair:
 - Add a proof-job note.
 - Require each side to quote the Charter text directly.
 - Add a post-trial section on whether a second-look issue exists.
+- Compare two sources if the case depends on a message, screenshot, post, or clip.

@@ -7,11 +7,15 @@ description: "Simple Starting, Developing, and Strong rubrics for the major proj
 
 These rubrics are for feedback, not punishment. They help learners and facilitators name what strong legal thinking looks like.
 
+Use [Assessment Checkpoints](../assessment-checkpoints.md) for the main phase-by-phase formative assessment structure, and use [Capstone Rubric](./capstone-rubric.md) for the final legal literacy or civic action project. This page offers extra artifact-specific feedback guides.
+
 ## Scale
 
 - **Starting** - the idea is present, but still fuzzy or incomplete
 - **Developing** - the main idea is working, with some gaps or uneven precision
 - **Strong** - the work is clear, fair, and well-supported for this age level
+
+If you want one shared scale across the whole curriculum, use **Beginning / Developing / Secure / Extending** from the checkpoint and capstone pages.
 
 ## 1. Case Notes
 

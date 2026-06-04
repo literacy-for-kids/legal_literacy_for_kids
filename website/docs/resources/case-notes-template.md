@@ -24,6 +24,7 @@ Write one entry each week. You can also add extra entries whenever something in 
 - Accept speech, dictation, sketches, lists, or full paragraphs.
 - The goal is pattern-noticing, not perfect prose.
 - Keep private or emotionally loaded details out of the journal unless the learner clearly wants to fictionalize them first.
+- Learners can use school, library, neighborhood, community, historical, story, or made-up examples instead of private family stories.
 
 ## Template
 
@@ -49,15 +50,25 @@ What happened?
 
 Who made or enforced the rule?
 
+Who is affected?
+
 What do I think the rule was for?
 
+What claim, question, or disagreement am I noticing?
+
 What evidence or details matter here?
+
+What should I still check before I trust, repeat, report, accuse, or act?
 
 My best interpretation or ruling:
 
 What still feels unclear?
 
 Possible rule update, amendment, or better wording:
+
+Sources, helpers, or adults I checked with:
+
+Attribution or AI note (if I used outside facts, images, quotes, translation, or AI help):
 
 Other connection:
 - civic literacy
@@ -79,3 +90,4 @@ Other connection:
 - Add a second possible interpretation.
 - Note the proof job or evidence question when relevant.
 - Add one sentence on whether the process felt fair.
+- Add one sentence on what perspective or context may still be missing.

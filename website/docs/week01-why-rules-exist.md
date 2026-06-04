@@ -26,7 +26,7 @@ Notice rules you already live with and figure out what problems they solve.
 
 ## You'll Make / You'll Try
 
-- a Rule Detective list of real rules from home, school, games, or clubs
+- a Rule Detective list of real rules from home, school, library, games, clubs, online spaces, or community places
 - your first Case Notes page about one rule you want to keep and one you would change
 
 ## Materials
@@ -51,9 +51,10 @@ Be a Rule Detective. Hunt for rules, sort them, and explain what would happen wi
 
 :::info Facilitator Snapshot
 - Let the learner do the noticing. Discovery matters more than lecturing.
-- Keep examples low-stakes and familiar: line waiting, board games, classroom jobs, sharing supplies, bedtime.
+- Keep examples low-stakes and familiar: line waiting, board games, classroom jobs, library borrowing, bus-stop safety, sharing supplies, or a community-center sign.
 - Introduce **Case Notes** this week. A plain notebook is enough.
 - Treat strange or unfair rules as real discussion topics. The goal is not blind rule-following.
+- If a learner starts reaching for a private family story, invite a made-up, school, library, neighborhood, or story example instead.
 :::
 
 ## Week at a Glance
@@ -100,6 +101,17 @@ Keep the tone curious. A useful question this week is: "What problem is this rul
 - Introduce the word **predictable** after the learner says the kid version, such as "you know what will happen next."
 - Ask them to compare a **law** with a house rule or game rule.
 - Challenge them to find a rule that feels unfair and suggest a better version.
+
+## Quick Legal Check
+
+Use this short routine when learners notice a rule in a classroom, library, shared housing space, club, sports team, transit stop, game, or online space:
+
+- Who made this?
+- Who is affected?
+- What is it asking people to do?
+- Why might this rule exist?
+- What feels fair, unfair, confusing, or missing?
+- What should we ask or check?
 :::
 
 ---
@@ -119,7 +131,7 @@ By the end of this session, the student can:
 
 **1. Start with a familiar place**
 
-Ask the learner to pick one place: a playground, classroom, sports game, lunch table, or family car.
+Ask the learner to pick one place: a playground, classroom, sports game, lunch table, library, bus ride, or family car.
 
 Then ask:
 
@@ -173,9 +185,10 @@ Possible prompts:
 
 - home
 - school
+- library
+- neighborhood or community center
 - sports or games
 - stores
-- library
 - online spaces
 
 Examples:

@@ -12,6 +12,10 @@ description: "Best for older learners: students explore how rules work between c
 This is the most abstract optional lesson in the course. It works best after Week 18 or with older learners who enjoy long discussions.
 :::
 
+:::info Guided Optional Extension
+Treat this lesson as an extension for ages 11-13 or for older learners who have already completed the core path. It is not a baseline expectation for every learner in the 8-12 course.
+:::
+
 This lesson asks a strange and important question: how do rules work when there is no parent, principal, or world boss over everyone?
 
 That question leads into international law.
@@ -107,6 +111,31 @@ That question makes the abstraction more understandable.
 - After the child-friendly version is clear, introduce formal terms such as **treaty**, **sovereignty**, **sanctions**, **reciprocity**, and **United Nations**.
 - Explain that the UN is not a world government.
 - More complex ideas like Security Council vetoes and soft law belong here, not in the opening student voice.
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- use the friend-group analogy to explain why rules can matter even without one boss over everyone
+
+### Ages 10-12: Core path
+
+- explain trust, reputation, cooperation, and treaties in simple language
+
+### Ages 11-13: Optional extension
+
+- compare public explanations of international law from more than one source with adult guidance
+- discuss more detailed institutions or current events only through guided, age-appropriate, non-graphic examples
+
+## Civic and Legal Information Balance Moves
+
+When this lesson uses current events, maps, videos, or explainers, learners can:
+
+- look for another source on the same topic
+- ask whether the message shows facts, opinions, feelings, predictions, or persuasion
+- check whether an important country, group, or perspective is missing
+- ask who benefits if people believe or share the message
+- talk with a trusted adult before repeating confusing legal or civic claims
 :::
 
 ---

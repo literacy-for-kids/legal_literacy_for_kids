@@ -14,7 +14,7 @@ Some entries are core student words. Some are older learner extension words that
 
 > **Jurisdiction Note:** This lesson teaches a legal-system pattern. Exact rules differ by country, state, court system, school, and context.
 
-These definitions are for learning, not for courtroom use.
+These definitions are for learning, not for courtroom use. Some words have more technical meanings in real law, so several entries below are simplified learning definitions.
 
 ## Terms
 
@@ -43,7 +43,7 @@ These definitions are for learning, not for courtroom use.
 | **Custom** | An unwritten rule that people usually follow. | Week 1 |
 | **Distinguish** | To explain why an older precedent does not control a newer case because the facts differ in an important way. | Week 10 |
 | **Distributed power** | Power shared across more than one role or person. | Week 12 |
-| **Due process** | Fair procedure: notice, a chance to be heard, a neutral decision-maker, and a decision based on reasons and evidence. | Week 16 |
+| **Due process** | A simplified learning definition: fair procedure before a serious decision, including notice, a chance to be heard, a fair decision-maker, and a decision based on reasons and evidence. | Week 16 |
 | **Edge case** | A tricky what-if that tests how well a rule works. | Week 7 |
 | **Enforcement** | How a rule is applied and what happens when it is broken. | Week 3 |
 | **Ethical judgment** | A question about what is fair, kind, wise, or responsible, even when the law is unclear or absent. | Intro |
@@ -56,7 +56,7 @@ These definitions are for learning, not for courtroom use.
 | **Interpretation** | The work of deciding how a rule applies in a real case. | Week 8 |
 | **Invitation to treat** | A display or listing that invites an offer rather than automatically making one. | Week 5 |
 | **Jurisdiction** | Which court, body, or system has authority over a case or dispute. | Week 3 |
-| **Law** | A rule made by a government and backed by official institutions. | Week 1 |
+| **Law** | A rule made by a government and backed by public institutions or official systems. | Week 1 |
 | **Letter of the law** | The literal wording of a rule. | Week 8 |
 | **Loophole** | A way to follow the words of a rule while defeating its purpose. | Week 9 |
 | **Majority** | The larger side in a vote. | Week 11 |
@@ -78,8 +78,8 @@ These definitions are for learning, not for courtroom use.
 | **Ratify** | To formally approve and adopt a document or amendment. | Week 13 |
 | **Regulation** | A rule for managing a shared system or activity. | Week 2 |
 | **Remedy** | What the system does to repair a wrong after a violation or breach. | Week 7 |
-| **Responsibility** | A duty tied to a role, agreement, or shared system. | Intro |
-| **Right** | A limit on what power can do to a person. | Week 11 |
+| **Responsibility** | Something a person should do to help keep a group, place, or system safe, fair, and workable. | Intro |
+| **Right** | A simplified learning definition: a protection or freedom that helps stop unfair use of power. | Week 11 |
 | **Rule** | An instruction that tells people what to do, what not to do, or how a system runs. | Week 1 |
 | **Rule of law** | The principle that rules should apply predictably and consistently, rather than by personal whim. | Intro |
 | **Separation of powers** | Splitting rule-making, enforcement, and interpretation into different roles or institutions. | Week 12 |
@@ -96,6 +96,44 @@ These definitions are for learning, not for courtroom use.
 | **Treaty** | A formal agreement between governments. Treaties are contract-like, but they are not the same as everyday personal contracts. | Optional Week |
 | **Unalienable** | Not meant to be taken away, even by majority vote. | Week 11 |
 | **Verdict** | The formal answer in a case. | Week 18 |
+
+## More Core Terms
+
+| Term | Definition | First Introduced |
+|---|---|---|
+| **Accessibility** | Making a message, space, or activity usable for more people with different needs. | Resources / final project |
+| **Advocacy** | Speaking or acting to support a cause, a change, or a solution. | Outcomes / final project |
+| **AI-edited** | Changed with help from an AI tool. That does not automatically make it bad, but it should be checked carefully. | Legal Checkpoint |
+| **AI-generated** | Made mostly by an AI tool. That does not automatically make it false, but it should be checked carefully. | Legal Checkpoint |
+| **Attribution** | Telling where a fact, image, quote, idea, or tool came from. | Final project |
+| **Authority** | The power or job to make decisions, enforce rules, or act officially in a setting. | Outcomes |
+| **Bias** | A leaning or pattern that can affect how someone notices, explains, or decides something. | Outcomes |
+| **Claim** | A statement that says something is true and may need evidence. | Legal Checkpoint |
+| **Consent** | A real yes that is freely given, not forced or pressured. | Week 7 / Week 13 |
+| **Court** | A place or system where certain disagreements or cases get heard and decided officially. | Week 15 |
+| **Deepfake** | A video, image, or audio clip made or edited to look or sound real when it is misleading. | Legal Checkpoint |
+| **Digital rights** | Protections and expectations people may have in online spaces, such as privacy, safety, and fair treatment. This is a simplified learning definition. | Outcomes |
+| **Disinformation** | False or misleading information shared on purpose to trick people. | Legal Checkpoint |
+| **Equality** | Giving people the same thing or the same rule. | Outcomes |
+| **Equity** | Noticing that people may need different supports or adjustments to get a fair chance. | Outcomes |
+| **Evidence** | Information, examples, observations, or records that help support or test a claim. | Week 15 |
+| **Fair process** | A child-friendly phrase for reasonable steps before a serious consequence or decision. | Legal Checkpoint |
+| **Fairness** | Treating people in a way that is reasonable and just, even when answers are not identical. | Week 1 |
+| **Fact** | Something supported by evidence or by information that can be checked carefully. | Legal Checkpoint |
+| **Government** | The people and institutions that make, carry out, and interpret public rules. | Intro |
+| **Judge** | A person whose job is to listen to a case and help decide it fairly. | Week 17 |
+| **Lawyer** | A trained person who helps explain law, advise a client, or speak in a legal system. | Week 15 extension |
+| **Misinformation** | False or misleading information shared without meaning to trick people. | Legal Checkpoint |
+| **Opinion** | What someone thinks, believes, or prefers. An opinion can be thoughtful, but it is not the same as a fact. | Legal Checkpoint |
+| **Perspective** | A point of view shaped by what someone knows, notices, needs, or experiences. | Outcomes |
+| **Petition** | A request asking a person or group in power to make or change a decision, often with many supporters. | Final project |
+| **Policy** | A written plan or rule used by a school, library, business, organization, or government. | Legal Checkpoint |
+| **Privacy** | Having control over personal information, personal space, or things that should stay private. | Week 11 |
+| **Public official** | A person whose job is to serve in government, such as a mayor, judge, council member, or school-board member. | Outcomes |
+| **Public service announcement** | A short message meant to help the public know something important for safety, health, or community life. | Final project |
+| **Rumor** | Information people pass along before checking whether it is true. | Legal Checkpoint |
+| **Source** | Where information comes from. A source might be a person, document, website, book, record, or video. | Legal Checkpoint |
+| **Witness** | A person who saw, heard, or knows something that may matter in a case or disagreement. | Week 17 |
 
 ## A Note on Legal Terms
 

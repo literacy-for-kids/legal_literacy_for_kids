@@ -21,9 +21,10 @@ Choose a low-stakes domain you care about. Then build a Charter with a purpose, 
 ## Facilitator Notes
 
 - No one should be pressured to sign.
-- Use low-stakes domains such as game night, a reading corner, a shared project space, a family meeting structure, or a server with willing participants.
+- Use low-stakes domains such as game night, a reading corner, a shared project space, a family meeting structure, a library club, a youth-group table, an apartment common room, or a server with willing participants.
 - If participants do not want to sign a real Charter, use a fictional or temporary domain.
 - This document is a governance tool, not a claim that it automatically becomes a legal contract.
+- Build in access and privacy supports when they matter.
 
 ## Template
 
@@ -60,15 +61,26 @@ What it protects:
 Right 2:
 What it protects:
 
+RESPONSIBILITIES
+Responsibility 1:
+Why it matters:
+
+Responsibility 2:
+Why it matters:
+
 ROLES OR POWERS
 Who can make rules:
 Who enforces them:
 Who decides disputes:
 
+ACCESS AND PARTICIPATION SUPPORTS
+What people may need to take part fairly:
+
 DISPUTE-RESOLUTION PROCESS
 How a case starts:
 Who hears it:
 What evidence can be used:
+How both sides are heard:
 What remedy is available:
 
 APPEAL OR REVIEW
@@ -94,3 +106,4 @@ Names, initials, or signatures of willing participants:
 - Add a priority rule explaining what happens when a right conflicts with an ordinary rule.
 - Add version history for amendments.
 - Compare the Micro-Charter with a real constitution, club charter, or game community policy.
+- Add a note on how translation, captions, AAC, or visual supports will be handled if the group needs them.

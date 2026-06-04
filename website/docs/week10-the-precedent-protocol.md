@@ -103,6 +103,21 @@ The serious idea here is consistency. The learner is practicing what it feels li
   - **distinguish it** by explaining why the new case is meaningfully different
   - **overturn it** by changing the earlier rule
 - **Stare decisis** belongs here only as extension vocabulary.
+
+## Civil Discussion Moves
+
+When learners compare cases or disagree about whether a new case should match an earlier one, use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence or example supports that?"
+- "Who might be affected by this decision?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, using evidence, and treating people with dignity while discussing shared rules and legal ideas.
 :::
 
 ---
@@ -206,7 +221,7 @@ Notice repeated decisions in daily life.
 
 **1. Look for a ruling chain**
 
-Find one repeated rule in home, school, sports, or a game.
+Find one repeated rule in home, school, sports, a library, a club, an online space, or a game.
 
 Ask:
 

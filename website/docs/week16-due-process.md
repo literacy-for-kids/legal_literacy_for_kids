@@ -110,6 +110,47 @@ That question grounds due process in empathy and structure at the same time.
 - The distinction between procedural and substantive due process belongs here, not in the main child-facing explanation.
 :::
 
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- explain why people should get a fair chance before a serious decision
+- name a few basic fair-hearing steps in a low-stakes fictional example
+
+### Ages 10-12: Core path
+
+- explain how fair process protects people before serious consequences
+- identify missing information, missing evidence, or unheard voices in a scenario
+
+### Ages 11-13: Optional extension
+
+- connect the child-friendly checklist to due process vocabulary with adult guidance
+- explore more detailed procedure questions only through guided fictional, historical, or public examples
+
+## Rights and Responsibilities
+
+A right is something people are allowed to have, do, or be protected from. A responsibility is something people should do to help keep a community safe, fair, and workable. Rights and responsibilities often connect.
+
+Examples:
+
+- People may have a right to explain their side, and a responsibility to answer honestly.
+- People may have a right to fair treatment, and a responsibility not to spread rumors as facts.
+- Community members may have a right to safety, and a responsibility to use fair steps before serious consequences.
+
+## Fair Process
+
+Fair process means there should be reasonable steps before serious consequences happen. A fair process usually includes listening, asking what happened, looking for evidence, giving people a chance to explain, and choosing a response that fits the situation.
+
+Learner questions:
+
+- What happened?
+- Who was affected?
+- What rule, right, or responsibility matters?
+- What evidence or examples do we have?
+- What information is still missing?
+- Who should be heard before a decision is made?
+- What response would be fair, safe, and reasonable?
+
 ---
 
 ## Guided Session 1

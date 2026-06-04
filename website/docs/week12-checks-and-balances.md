@@ -52,7 +52,7 @@ Map the 3 major group jobs and decide how to spread them so no one person contro
 
 :::info Facilitator Snapshot
 - Replace engineering language with plain design language: too much power in one place, backup helper, second opinion.
-- Use classrooms, clubs, and family meetings as the main analogies.
+- Use classrooms, clubs, library teams, family meetings, community groups, and online groups as the main analogies.
 - Preserve the key tradeoff: shared power can be slower, and that is often a feature.
 - This week feeds directly into the Micro-Charter structure in Week 13.
 :::
@@ -91,7 +91,7 @@ Those 3 questions give the learner a practical model of checks and balances.
 
 **Concrete substitutions:**
 - Use 3 role cards on the table.
-- Use a club or family game setting.
+- Use a club, library helper team, family game setting, or community-room example.
 - Replace "checks and balances" with "backup helper" and "second opinion."
 
 **What success looks like:** The learner can tell why one person holding all 3 jobs is risky.
@@ -104,6 +104,14 @@ Those 3 questions give the learner a practical model of checks and balances.
 - Older learners can compare the group design with branches of government.
 - They can also discuss when one person may need temporary extra power in a genuine emergency.
 :::
+
+## Civil Discussion Moves
+
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "Who might be affected by this design?"
+- "What feels fairer, and why?"
+- "Another perspective might be..."
 
 ---
 
@@ -158,20 +166,6 @@ Ask:
 ---
 
 ## Guided Session 2
-### Map the Power in Your Group
-
-#### Learning Goal
-
-By the end of this session, the student can:
-
-- assign power roles in their real group
-- explain how to avoid too much power in one place
-- add a backup or second opinion when needed
-Next week, the learner uses rights, power-sharing, and earlier rule work to build a real group agreement: a Micro-Charter.
-
----
-
-## Guided Session 2
 ### Power Map for Your Group Agreement
 
 #### Learning Goal
@@ -221,7 +215,7 @@ Notice where power sits in a real group.
 
 **1. Do a power audit**
 
-Pick one real group: family meeting, club, class, sports team, or game group.
+Pick one real group: family meeting, club, class, sports team, library group, community team, or game group.
 
 Ask:
 

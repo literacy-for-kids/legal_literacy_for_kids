@@ -27,13 +27,14 @@ By the end of the course, learners keep a running journal called **Case Notes** 
 - Read [How to Use This Curriculum](#how-to-use-this-curriculum) for pacing and setup.
 - Use [A Practical Rule Map](#a-practical-rule-map) for the key distinctions between law, rules, norms, promises, contracts, rights, and ethics.
 - Open [Legal Systems Cycle](./legal-systems-cycle.md) for the full course arc.
+- Use [Outcomes](./outcomes.md), [Legal Checkpoint](./legal-checkpoint.md), [Assessment Checkpoints](./assessment-checkpoints.md), and [Self-Assessment](./self-assessment.md) for the main learning and reflection routines.
 - Visit [Facilitator Start Guide](./resources/facilitator-start-guide.md) before running emotionally sensitive activities.
 :::
 
 :::info Course Scope
-This is a curriculum with **18 core weeks** and **optional advanced weeks**. It is designed for **ages 8-12**, adaptable for younger or older learners, and usually runs in **60-90 minutes per week**.
+This is a curriculum with **18 core weeks** and **optional advanced weeks**. It is designed for **ages 8-12**, with guided extensions for **ages 11-13**, and usually runs in short learning blocks of about **20 minutes per session**.
 
-Each week includes guided learning, a concrete activity, a short reflection, and a simple artifact. Younger learners may use shorter 20-minute sessions. Older learners or classroom groups may use longer discussions and extensions.
+Each week includes guided learning, a concrete activity, a short reflection, and a simple artifact. Many facilitators use two 20-minute guided sessions plus an optional short practice or reflection block. Younger learners may use one shorter session at a time. Older learners or classroom groups may combine sessions when they want more discussion.
 :::
 
 :::info This Is Not Legal Advice
@@ -107,18 +108,95 @@ Rights protect people from unfair uses of power. They matter most when a group, 
 
 ## How to Use This Curriculum
 
+:::tip Core Support Pages
+- Use [Outcomes](./outcomes.md) for age-banded goals and standards-aware planning.
+- Use [Legal Checkpoint](./legal-checkpoint.md) as the recurring legal-thinking routine.
+- Use [Assessment Checkpoints](./assessment-checkpoints.md) for low-stakes phase reviews.
+- Use [Self-Assessment](./self-assessment.md) for learner reflection and project check-ins.
+- Use [Facilitator Start Guide](./resources/facilitator-start-guide.md) for privacy-safe, trauma-aware facilitation guidance.
+:::
+
+## Choosing Legal Examples
+
+Rotate examples across home, school, library, neighborhood, community, online, and government settings. Legal literacy is not only about courts, police, lawsuits, or national politics. It also applies to everyday rules, public information, shared spaces, rights, responsibilities, and how people solve problems fairly.
+
+Useful examples include:
+
+- classroom expectations
+- playground or recess rules
+- library borrowing policies
+- student council guidelines
+- school handbook examples
+- park, trail, beach, or playground signs
+- public transit rules
+- apartment or HOA notices
+- community center flyers
+- youth sports or club rules
+- online game rules
+- group chat or digital privacy scenarios
+- school device policies
+- public health or emergency notices
+- recycling and environmental signs
+- local event permits or announcements
+- fictional town problems
+- story characters facing a fairness issue
+- translated notices or multilingual community messages
+- age-appropriate historical examples
+
+When possible, choose examples that reflect different kinds of communities: rural, suburban, urban, multilingual, multigenerational, renters, homeowners, foster families, guardian-led families, families with different legal statuses, people with disabilities, and people with different access needs.
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- name everyday rules in familiar places such as home, school, library, playground, clubs, games, or community spaces
+- explain who made a rule and who is expected to follow it
+- explain one reason a rule might exist, such as safety, fairness, organization, or protecting people
+- notice when a rule feels fair, unfair, confusing, or incomplete
+- ask basic questions such as "Who made this?", "Who is affected?", and "What should we check?"
+- practice listening and taking turns during low-stakes conversations about rules and fairness
+- use fictional examples instead of private family legal experiences
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- explain the difference between a rule, law, right, responsibility, and consequence in their own words
+- identify who has authority in different settings, such as a classroom, school, library, town, court, or online platform
+- explain that fair processes matter before serious consequences are given
+- identify claims, evidence, opinions, feelings, and missing information in legal or civic messages
+- compare two perspectives on a rule, consequence, or community decision
+- check a simple legal or civic claim with more than one source or trusted adult
+- participate in respectful discussion using reasons, evidence, and sentence frames
+- design a simple legal or civic action project for a school, library, neighborhood, or community issue
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex legal and civic issues involving local government, school policy, public safety, privacy, digital rights, public services, or community decision-making
+- compare legal or civic messages from different groups or viewpoints
+- evaluate campaign, advocacy, influencer, or organization messages for incentives, bias, and missing context
+- explore due process, evidence, rights, responsibilities, and legal procedures in more detail using fictional or historical examples
+- build a more detailed final project with stakeholders, tradeoffs, constraints, sources, accessibility, attribution, and revision
+
 ### Who It's For
 
 This curriculum is for adults working with learners ages 8-12: families, caregivers, teachers, homeschool groups, clubs, and enrichment programs. You do not need a law degree. You need patience, curiosity, and a willingness to ask, "What is this rule for?"
+
+Some families, schools, libraries, and community programs will move faster or slower. Different learners may need drawing, dictation, AAC, translation, visual supports, sign language, or assistive technology. The curriculum is meant to flex without losing its systems-thinking core.
 
 ### What a Typical Week Looks Like
 
 Each week includes:
 
-1. **Kid Hook** - a short story, question, or scenario
-2. **Today's Mission** - the main idea for the lesson
-3. **Hands-On Activity** - a concrete task, sort, map, checklist, or role-play
-4. **Case Notes / Reflection** - a short written, spoken, or drawn response
+1. **Short guided session** - about 20 minutes with a kid hook, question, or scenario
+2. **Short guided session** - about 20 minutes with the main activity, sort, map, checklist, or role-play
+3. **Optional practice or reflection** - about 20 minutes of writing, drawing, revising, or discussion
+
+Learners in classrooms, libraries, co-ops, and community programs may combine these into a longer block. Homeschool and informal settings may spread them across the week.
 
 ### What This Curriculum Is Not
 
@@ -133,6 +211,7 @@ Every major lesson includes a younger learner path and an older learner extensio
 
 - Younger learners often need shorter chunks, oral answers, drawings, and fewer rules at once.
 - Older learners can compare competing interpretations, write more formal language, and explore tradeoffs, precedent, appeals, and proof standards in more depth.
+- Advanced topics such as criminal law, police encounters, immigration, custody, discrimination, lawsuits, budgets, or campaign messaging belong in guided or extension work, not as baseline expectations for every eight-year-old.
 
 ## Course At a Glance
 

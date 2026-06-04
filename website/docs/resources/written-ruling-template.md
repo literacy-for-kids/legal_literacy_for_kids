@@ -22,6 +22,7 @@ Write the ruling as if you were the court explaining the result to someone who w
 
 - Push learners to separate "what happened" from "what I think about it."
 - If the case exposed a Charter gap, record it explicitly.
+- If the ruling depends on a message, screenshot, clip, quote, or image, ask whether context may be missing.
 
 ## Template
 
@@ -41,13 +42,20 @@ GOVERNING RULE OR CHARTER TEXT
 
 EVIDENCE RELIED ON
 
+CLAIMS OR QUESTIONS THAT WERE CHECKED
+
 ANALYSIS
 How does the rule apply to these facts?
+
+FAIR-PROCESS NOTE
+Did both sides get a fair chance to be heard?
 
 RULING
 Who prevails?
 
 REMEDY OR NEXT STEP
+
+SOURCE OR CONTEXT LIMITS
 
 NOTES FOR FUTURE AMENDMENT
 ```
@@ -61,3 +69,4 @@ NOTES FOR FUTURE AMENDMENT
 
 - Add a paragraph on why a competing interpretation did not win.
 - Add a section titled "Possible appeal issue" even if the answer is "none."
+- Add a note about whether any evidence needed a second source or verification check.

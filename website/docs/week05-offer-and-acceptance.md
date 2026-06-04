@@ -34,7 +34,6 @@ Learn the difference between a clear offer, a clear yes, and a new offer.
 ## Materials
 
 - paper or index cards labeled **Offer**, **Yes**, and **New Offer**
-Next week, we look at the trade part of a deal: what each person gives, does, or gives up. The formal legal word is **consideration**, but we will start with arrows and real examples.
 - pencil
 - optional [Contract Design Worksheet](./resources/contract-design-worksheet.md)
 - **Case Notes**
@@ -56,6 +55,7 @@ Use role-play and visual cards to show how a deal moves from offer to yes, or ch
 - Use the learner's own words first, then introduce formal vocabulary gently.
 - Add the pressure check every time: Did both people understand? Did both people have a real choice? Did anyone feel pushed?
 - Save price-tag complications and older doctrine for the extension section.
+- Use school, library, club, neighborhood, or fictional exchange examples if a home example feels too personal.
 :::
 
 ## Week at a Glance

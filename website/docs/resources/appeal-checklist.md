@@ -22,6 +22,8 @@ Check only the items that actually apply. If nothing applies, the answer may be 
 
 - Appeals are about process or legal error, not preference.
 - Use this to slow down emotional reactions after a ruling.
+- Keep the tone calm and review-focused.
+- If the concern involves safety or a private real-world problem, stop the simulation and follow normal adult support procedures.
 
 ## Checklist
 
@@ -34,6 +36,7 @@ Check only the items that actually apply. If nothing applies, the answer may be 
 - [ ] The proof job was handled incorrectly.
 - [ ] The ruling did not explain its reasoning clearly enough to review.
 - [ ] The error may have changed the outcome.
+- [ ] A key message, screenshot, quote, clip, or image was incomplete, edited, or unverified in a way that may have affected the ruling.
 
 ### Usually Not Good Reasons for a Second Look
 
@@ -57,6 +60,7 @@ What I want the review group or second decider to do:
 ## Younger Learner Adaptation
 
 - Reduce to three questions: Was a rule skipped? Was the judge fair? Did the mistake matter?
+- Let the learner answer orally or point to the checklist.
 
 ## Older Learner Extension
 

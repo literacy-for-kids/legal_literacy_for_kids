@@ -8,6 +8,10 @@ description: "Students compare community rule-breaking cases with harm-repair ca
 # Optional Week 1: Two Kinds of Cases
 *Optional Extension*
 
+:::info Guided Optional Extension
+This lesson is best as a guided extension for ages 11-13, or for older learners who have already completed the core path. It is not a baseline expectation for every learner in the 8-12 course.
+:::
+
 This optional lesson shows that not all legal cases ask the same question.
 
 Sometimes a case is about a rule broken against the community. Sometimes a case is about repairing harm done to a person.
@@ -52,6 +56,7 @@ Compare two kinds of cases and sort low-stakes scenarios to see which kind fits.
   - a community or state can bring a case about rule-breaking
   - a harmed person can bring a case about repairing harm
 - Use kid language first and formal court vocabulary second.
+- Do not turn this lesson into a simulation of arrest, police questioning, punishment, or real family conflict.
 :::
 
 :::note Jurisdiction Note
@@ -106,6 +111,21 @@ Those questions help the learner see the two tracks clearly.
   - **civil** case
 - Older learners can also hear the difference between being "really sure" and "more likely than not" before adding the formal proof language.
 - Terms like **plaintiff**, **prosecution**, **compensation**, and **deterrence** belong here, not in the opening voice.
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- hear the basic difference between a community rule-breaking case and a harm-repair case through very simple, low-stakes examples
+
+### Ages 10-12: Core path
+
+- compare who brings each kind of case and what each kind is trying to fix
+
+### Ages 11-13: Optional extension
+
+- connect the child-friendly comparison to criminal and civil vocabulary with adult guidance
+- compare proof levels only through guided, fictional, historical, or public examples
 :::
 
 ---

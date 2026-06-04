@@ -60,7 +60,7 @@ Find sneaky gaps in everyday rules and then repair the rules instead of celebrat
 :::
 
 :::warning Ethics Note
-We study loopholes to improve rules, not to teach people how to trick others. If the conversation turns into planning how to game a live family or classroom rule, stop and redirect the energy back into repair.
+We study loopholes to improve rules, not to teach people how to trick others. If the conversation turns into planning how to game a live family, classroom, library, or club rule, stop and redirect the energy back into repair.
 :::
 
 ## Week at a Glance
@@ -81,6 +81,7 @@ We study loopholes to improve rules, not to teach people how to trick others. If
   - No screen time.
   - Clean your room.
   - Be home by 9:00.
+- Add one public example if helpful, such as a club sign, school notice, or library rule.
 - If the learner made a household agreement in Week 7, bring it back.
 :::
 
@@ -110,6 +111,19 @@ Ask the learner to notice two things every time:
 - After the child-friendly idea is clear, introduce **loophole** as the formal name for a sneaky gap.
 - Older learners can compare a narrow rule fix with a broader **purpose clause**.
 - Terms like **anti-circumvention** belong here, not in the main lesson.
+
+## Legal Information Check
+
+Sometimes a loophole shows up in a rule, screenshot, flyer, post, or announcement that sounds more certain than it really is. Learners can ask:
+
+- What is the claim?
+- Who said it?
+- What evidence is shown?
+- Is another trusted source saying the same thing?
+- What important context might be missing?
+- What should I check before I trust, share, repeat, report, accuse, or act on this?
+
+Use age-appropriate examples such as a rumor about a school rule, a community flyer about a policy change, a screenshot missing the earlier messages, or a short post claiming "the law says" without details.
 :::
 
 ---
@@ -210,7 +224,7 @@ Notice one real or pretend rule that could use a fairer rewrite.
 
 **1. Choose one rule**
 
-The rule can come from home, school, a game, or a story.
+The rule can come from home, school, a library, a club, an online space, a game, or a story.
 
 **2. Complete the full line**
 

@@ -52,7 +52,7 @@ Play a shared-resource game with real tokens, then design a fair rule that keeps
 :::info Facilitator Snapshot
 - Do not moralize. The lesson is not "people are selfish." The lesson is "shared-resource math gets hard fast."
 - Let the learner feel the problem before you explain it.
-- Keep examples low-stakes and familiar: snacks, markers, art supplies, game turns, WiFi, fish tokens.
+- Keep examples low-stakes and familiar: snacks, markers, art supplies, game turns, WiFi, fish tokens, shared tablets, apartment laundry rooms, and library makerspaces.
 - After the game, ask three design questions: What keeps it from running out? What feels fair? What is easy to follow?
 :::
 
@@ -98,6 +98,16 @@ If the shared thing collapses quickly, that is useful. Let the learner see the r
 - After the learner understands the kid version, introduce the formal term **tragedy of the commons**.
 - You can also introduce **commons** as a shared resource and **sustainable** as a way of saying it can keep going without running out.
 - Explain "someone who takes more than their share" before mentioning the older term **free rider**.
+
+## Rights and Responsibilities
+
+A right is something people are allowed to have, do, or be protected from. A responsibility is something people should do to help keep a community safe, fair, and workable. Rights and responsibilities often connect.
+
+In a shared-resource lesson, that can sound like this:
+
+- People may have a right to use a shared space, and a responsibility to leave enough for others.
+- People may have a right to join the group, and a responsibility to follow safety and cleanup rules.
+- People may have a right to fair access, and a responsibility not to grab more than their share.
 :::
 
 ---
@@ -171,6 +181,9 @@ Examples:
 - family snacks
 - classroom markers
 - a shared tablet or game controller
+- a library makerspace bin
+- an apartment laundry room schedule
+- a community garden tool shelf
 - a bathroom
 - playground equipment
 - group chat time and attention

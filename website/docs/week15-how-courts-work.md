@@ -93,7 +93,7 @@ Use child-friendly wording first. Add the legal term only after the learner alre
 
 **Concrete substitutions:**
 - Use 2 scenarios instead of more.
-- Compare a court to a referee, principal, or family meeting.
+- Compare a court to a referee, principal, library process, or family meeting.
 - Let the learner point on the proof slider instead of explaining proof in long sentences.
 
 **What success looks like:** The learner can ask the 3 Court Check questions in simple language.
@@ -108,6 +108,60 @@ Use child-friendly wording first. Add the legal term only after the learner alre
   - who has the job of proving it (**burden of proof**)
 - Older learners can also hear the formal proof standards as extension vocabulary.
 :::
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- ask the 3 Court Check questions in simple language
+- notice who was affected and who should hear the disagreement
+- use low-stakes fictional, school, library, or community examples
+
+### Ages 10-12: Core path
+
+- explain why authority, evidence, and the proof job matter before a decision
+- compare two possible places for hearing a disagreement
+- name a reason a person still deserves fair treatment when accused of breaking a rule
+
+### Ages 11-13: Optional extension
+
+- connect the child-friendly ideas to jurisdiction, standing, burden of proof, and proof standards with adult guidance
+- discuss more complex courts or legal systems only through guided fictional, historical, or public examples
+
+## Rights and Responsibilities
+
+A right is something people are allowed to have, do, or be protected from. A responsibility is something people should do to help keep a community safe, fair, and workable. Rights and responsibilities often connect.
+
+For this week, learners should hear both sides of the connection:
+
+- People may have a right to fair treatment, and a responsibility to tell the truth as carefully as they can.
+- People may have a right to be heard, and a responsibility not to rush into blaming others without evidence.
+- Community members may have a right to a safe process, and a responsibility to use the right place for the disagreement.
+
+## Fair Process
+
+Fair process means there should be reasonable steps before serious consequences happen. A fair process usually includes listening, asking what happened, looking for evidence, giving people a chance to explain, and choosing a response that fits the situation.
+
+Learner questions:
+
+- What happened?
+- Who was affected?
+- What rule, right, or responsibility matters?
+- What evidence or examples do we have?
+- What information is still missing?
+- Who should be heard before a decision is made?
+- What response would be fair, safe, and reasonable?
+
+## Legal Information Check
+
+- What is the claim?
+- Who said it?
+- What evidence is shown?
+- Is another trusted source, witness, or record saying the same thing?
+- What might be missing?
+- What should I ask a trusted adult or expert before acting?
+
+Legal information can be complicated. A rumor, screenshot, short video, or quick retelling may leave out important details. It is okay to pause, check, and ask for help before trusting or repeating legal information.
 
 ---
 
@@ -131,6 +185,7 @@ Use examples like:
 - broken game controller
 - someone cut the lunch line
 - a library book went missing
+- a community-center supply bin was damaged
 
 Ask:
 
@@ -180,6 +235,7 @@ Use examples such as:
 - someone in a club skipped the turn order
 - a shared snack disappeared
 - a friend says a rule was unfairly applied
+- a library helper says a return cart rule was misread
 
 For each scenario, answer:
 

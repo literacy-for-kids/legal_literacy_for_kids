@@ -52,10 +52,11 @@ Sort examples, test whether they are clear, and build a simple checklist for wha
 ---
 
 :::info Facilitator Snapshot
-- Use familiar examples: card trades, borrowed items, chores, snacks, game turns, small privileges.
+- Use familiar examples: card trades, borrowed items, chores, snacks, game turns, small privileges, library helper swaps, or shared-club supply exchanges.
 - Use **deal** first and **contract** second.
 - Keep the legal caveat in the adult-facing note, not the child-facing opening.
 - Preserve an important distinction: not every important promise is a contract-style deal, and that does not make it unimportant.
+- If a family example feels too personal, switch to a fictional, classroom, library, or community example.
 :::
 
 :::note Jurisdiction Note

@@ -2,7 +2,7 @@
 sidebar_position: 7
 sidebar_label: "Week 7: Writing a Clear Household Agreement"
 title: "Week 7: Writing a Clear Household Agreement"
-description: "Students draft a low-stakes household agreement for one task and practice making it fair, clear, and easy to review."
+description: "Students draft a low-stakes household or shared-space agreement for one task and practice making it fair, clear, and easy to review."
 ---
 
 # Week 7: Writing a Clear Household Agreement
@@ -10,7 +10,7 @@ description: "Students draft a low-stakes household agreement for one task and p
 
 This week turns the last 3 lessons into one useful page.
 
-The learner will write a practice agreement for one small household job. The goal is to make the job clear, not fancy.
+The learner will write a practice agreement for one small household or shared-space job. The goal is to make the job clear, not fancy.
 
 ## Kid Hook
 
@@ -20,11 +20,11 @@ Does it mean dishes only? Counters too? Floor too? If people picture different j
 
 ## Today's Mission
 
-Write a clear household agreement.
+Write a clear household or shared-space agreement.
 
 ## You'll Make / You'll Try
 
-- a one-page household agreement for one low-stakes job
+- a one-page household or shared-space agreement for one low-stakes job
 - a short review after trying the agreement in real life
 
 ## Materials
@@ -37,41 +37,25 @@ Write a clear household agreement.
 
 ## Quick 20-Minute Version
 
-1. Pick one small household job.
+1. Pick one small household or shared-space job.
 2. Fill in 5 lines: job, person, when, what "done" looks like, what happens if it is not done.
 3. Add one line for: "How we can change this agreement later."
 
 ## Main Activity
 
-Turn a fuzzy household job into a clear agreement that two people can actually understand and review.
+Turn a fuzzy household or shared-space job into a clear agreement that two people can actually understand and review.
 
 ---
 
 :::info Facilitator Snapshot
-- Keep the task low-stakes: feeding a pet, setting the table, taking out trash, wiping the counter, folding laundry.
+- Keep the task low-stakes: feeding a pet, setting the table, taking out trash, wiping the counter, folding laundry, organizing a shared shelf, or resetting a library club table.
 - This is a practice agreement, not a claim that a court would enforce a child-family arrangement like a business contract.
 - Consequences should be reasonable, not embarrassing or mean.
 - Signing is optional. A sticker, initials, or verbal agreement can be enough if both people want that.
 :::
-Next week, the learner looks at a new problem: sometimes the exact words of a rule say one thing, but the rule was trying to protect something slightly bigger. We will compare rule words with rule purpose.
 
-## Quick 20-Minute Version
-
-1. Pick one small job.
-2. Fill in 5 boxes: job, person, when, what done looks like, what happens if it is missed.
-3. Read it aloud and fix any fuzzy part.
-
-## Main Activity
-
-Write a clear agreement for one household job using kid-friendly boxes and checklists.
-
----
-
-:::info Facilitator Snapshot
-- This is a practice agreement, not a promise that a court would enforce between family members.
-- Keep the job small and low-stakes.
-- Consequences should be reasonable, not mean, embarrassing, or threatening.
-- The co-signer should actually be willing to use the agreement. If the adult ignores it immediately, the lesson stops making sense.
+:::tip Setting Options
+If a household example is not a good fit, use a shared-home, classroom, library, club, neighborhood, or community-center responsibility instead. The learning goal is clear agreement design, not one particular family setup.
 :::
 
 ## Week at a Glance
@@ -79,14 +63,14 @@ Write a clear agreement for one household job using kid-friendly boxes and check
 | | |
 |---|---|
 | **Prep time** | ~20 minutes |
-| **Materials** | Paper, pencil, willing co-signer, template, **Case Notes** |
+| **Materials** | Paper, pencil, willing co-signer or partner, template, **Case Notes** |
 | **Core vocabulary** | job, agreement, clear, done, review |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Pick one small household task in advance, such as feeding a pet, setting the table, wiping counters, or taking out recycling.
+- Pick one small household or shared-space task in advance, such as feeding a pet, setting the table, wiping counters, taking out recycling, organizing a shared shelf, or resetting a club supply bin.
 - Avoid anything that would create shame, money pressure, or a big family argument.
 - Have the [Contract Design Worksheet](./resources/contract-design-worksheet.md) or the [Household Agreement Template](./resources/chores-api-household-agreement-template.md) ready if you want a printable version.
 :::
@@ -101,7 +85,7 @@ Push for clarity, not perfection. If the learner writes "clean the kitchen," ask
 **Simple idea:** A clear agreement helps people know exactly what job they are doing.
 
 **Concrete substitutions:**
-- Pick a very small job, such as feeding a pet or setting napkins on the table.
+- Pick a very small job, such as feeding a pet, setting napkins on the table, or returning shared markers to the right bin.
 - Use pictures or checkboxes instead of long sentences.
 - Replace signatures with stickers or initials if that feels better.
 - Keep the review to one question: "Was anything confusing?"
@@ -119,6 +103,28 @@ Push for clarity, not perfection. If the learner writes "clean the kitchen," ask
 - Older learners can also discuss tricky what-ifs, such as sickness, broken equipment, or schedule changes.
 - The earlier "API" comparison can stay here only as an optional note for older learners who enjoy that metaphor.
 :::
+
+## Rights and Responsibilities
+
+A right is something people are allowed to have, do, or be protected from. A responsibility is something people should do to help keep a community safe, fair, and workable. Rights and responsibilities often connect.
+
+For this lesson, that may sound like:
+
+- People may have a right to know what they are agreeing to, and a responsibility to say clearly what they can do.
+- People may have a right to be treated fairly, and a responsibility not to create mean or confusing consequences.
+- People may have a right to ask for a change, and a responsibility to review the agreement honestly.
+
+## Fair Process
+
+Fair process means there should be reasonable steps before serious consequences happen. A fair process usually includes listening, asking what happened, looking for evidence, giving people a chance to explain, and choosing a response that fits the situation.
+
+In a small agreement, that can mean pausing to ask:
+
+- What happened?
+- Was the job description clear?
+- What information is still missing?
+- Who should be heard before a decision is made?
+- What response would be fair, safe, and reasonable?
 
 ---
 
@@ -143,6 +149,8 @@ Choose a low-stakes task, such as:
 - wipe the table after dinner
 - set out tomorrow's school things
 - take recycling to the bin
+- reset the library club supplies
+- return shared art tools to labeled bins
 
 **2. Fill in the first 4 boxes**
 
@@ -233,7 +241,7 @@ Use the agreement for a few days and notice whether anything feels fuzzy.
 
 **1. Try the agreement**
 
-Use the agreement in real life if everyone is comfortable doing so.
+Use the agreement in real life if everyone is comfortable doing so, or test it with a fictional or classroom version.
 
 **2. Notice one clear part and one fuzzy part**
 
@@ -249,7 +257,7 @@ Add this to **Case Notes**:
 
 > **Date:**
 >
-> **My household agreement was for:**
+> **My agreement was for:**
 >
 > **What "done" looked like:**
 >
@@ -276,6 +284,18 @@ After this week, check whether the learner can:
 3. **Describe the follow-up:** "What happens if the job is missed or the agreement needs changing?"
 
 If the learner can do at least 2 of these, they are ready for Week 8.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+This week is not about making family life feel like a courtroom.
+
+It is about learning that clear agreements work better when expectations are specific, consequences are reasonable, and both sides understand the plan.
+
+**This week's takeaway:** A clear agreement helps people share work and solve confusion more fairly.
+:::
 
 ---
 

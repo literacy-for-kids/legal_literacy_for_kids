@@ -106,6 +106,16 @@ That keeps the lesson focused on improvement, not attack.
 - Terms like **stress test** and **adversarial tester** belong here, not in the main lesson.
 :::
 
+## Civil Discussion Moves
+
+- "What worked here?"
+- "What was fuzzy or missing?"
+- "Who might be affected by this change?"
+- "What response would be fair, safe, and reasonable?"
+- "I changed my thinking because..."
+
+The goal is not to attack the learner's charter. The goal is to test the system honestly and improve it.
+
 ---
 
 ## Guided Session 1

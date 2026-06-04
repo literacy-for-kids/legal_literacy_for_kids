@@ -72,6 +72,7 @@ Test rule signs against real-life situations and then rewrite the rules so their
   - No running.
   - No food near the computer.
   - Only one turn per person.
+- Include at least one public or digital example, such as a library sign, school-device policy excerpt, or community-center notice, if the learner is ready.
 - Think of 3-5 situations for each rule.
 - Keep the examples playful and safe.
 :::
@@ -107,6 +108,21 @@ Those questions carry the whole lesson.
   - what the rule was trying to protect (**intent**)
 - Older learners can compare plain reading with purpose-based reading.
 - If useful, mention that legal scholars have argued about this for a long time.
+
+## Legal Information Check
+
+When the rule shows up as a sign, screenshot, policy excerpt, handbook page, or shared online post, ask:
+
+- What is the claim?
+- Is it a fact, opinion, feeling, prediction, or question?
+- Who said it?
+- What evidence or example is shown?
+- Is the source current and reliable for this topic?
+- Is another trusted source saying the same thing?
+- What might be missing?
+- What should I ask a trusted adult or expert before acting?
+
+Legal information can be complicated. A short sign, rumor, screenshot, post, or comment may leave out important details. It is okay to pause, check, and ask for help before trusting or repeating legal information.
 :::
 
 ---
@@ -203,7 +219,7 @@ Notice one real-life rule and explain both its words and its purpose.
 
 **1. Pick a real rule**
 
-Choose one rule from home, school, sports, or a game.
+Choose one rule from home, school, sports, a library, a community place, an online space, or a game.
 
 **2. Ask the two questions**
 

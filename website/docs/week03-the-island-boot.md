@@ -54,6 +54,7 @@ Build an island map, sort rule cards, and write the first 3 rules for a brand-ne
 - Focus on fairness, shared tools, decision-making, and what helps the group work.
 - Ask "What problem does this rule solve right now?" before accepting a rule.
 - Preserve the deep idea that a rule only works if it applies fairly to everyone.
+- If the island theme does not fit your learners, switch to another fictional community such as a library camp, community garden, or makerspace team.
 :::
 
 ## Week at a Glance

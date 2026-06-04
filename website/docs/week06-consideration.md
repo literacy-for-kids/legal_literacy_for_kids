@@ -56,6 +56,7 @@ Use arrow diagrams and card sorting to find what each person gives in a deal.
 - Keep the core examples physical and familiar.
 - Preserve this important idea: some promises matter deeply even when they are not contract-style deals.
 - Move peppercorns, nominal value, and other doctrine-heavy examples to the older extension only.
+- Use shared-space, club, library, or fictional examples if a household deal feels too personal.
 :::
 
 :::note Jurisdiction Note
@@ -127,7 +128,6 @@ Write simple examples and draw arrows both ways:
 
 - I give a sticker. You give a sticker.
 - I do the chore. You give 20 extra minutes of screen time.
-Next week, the learner uses everything from Weeks 4 through 6 to write a clear household agreement for one low-stakes job.
 Draw:
 
 ```text

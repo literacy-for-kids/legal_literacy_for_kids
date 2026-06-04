@@ -13,6 +13,10 @@ Use these pages as printable guides, copy-ready templates, or simple planning to
 
 - [Facilitator Start Guide](./facilitator-start-guide.md)
 - [Legal Systems Cycle](../legal-systems-cycle.md)
+- [Outcomes](../outcomes.md)
+- [Legal Checkpoint](../legal-checkpoint.md)
+- [Assessment Checkpoints](../assessment-checkpoints.md)
+- [Self-Assessment](../self-assessment.md)
 
 ## Templates and Worksheets
 
@@ -34,6 +38,7 @@ Use these pages as printable guides, copy-ready templates, or simple planning to
 ## Assessment and Examples
 
 - [Assessment Rubrics](./assessment-rubrics.md)
+- [Capstone Rubric](./capstone-rubric.md)
 - [Exemplar Student Work](./exemplar-student-artifacts.md)
 
 ## Extensions and Connections

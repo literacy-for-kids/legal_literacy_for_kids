@@ -55,7 +55,7 @@ Write a real group agreement using everything the learner has built so far: rule
 :::info Facilitator Snapshot
 - This is a real artifact. Display it, use it, and refer back to it.
 - The facilitator is a structural editor, not the writer.
-- Keep the domain real and safe: a reading club, family game night, friend craft group, sports practice team, or a small online group the learner actually belongs to.
+- Keep the domain real and safe: a reading club, family game night, library makerspace, friend craft group, sports practice team, community-center table, or a small online group the learner actually belongs to.
 - Do not pressure anyone to join or sign. The point is genuine agreement.
 :::
 
@@ -115,6 +115,38 @@ Let the learner own the answers.
   - **official rule update** (**amendment**)
 - Older learners can add definitions for words that might be fuzzy later.
 :::
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- build a simple group agreement with clear rules, protections, and one fair-process step
+
+### Ages 10-12: Core path
+
+- explain how rules, rights, responsibilities, and update steps fit together in one document
+
+### Ages 11-13: Optional extension
+
+- add stakeholder notes, accessibility supports, or more detailed revision steps with adult guidance
+
+## Rights and Responsibilities
+
+A right is something people are allowed to have, do, or be protected from. A responsibility is something people should do to help keep a community safe, fair, and workable. Rights and responsibilities often connect.
+
+When learners draft a charter, ask:
+
+- What protections should stay in place even when a group is frustrated?
+- What responsibilities help the group work well?
+- How will the group respond fairly when someone says a rule was unclear or unfair?
+
+## Civil Discussion Moves
+
+- "Can you explain what you mean by...?"
+- "What evidence or example supports that?"
+- "Who might be affected by this rule?"
+- "What right or responsibility might matter here?"
+- "I agree with this part, but I wonder about..."
 
 ---
 

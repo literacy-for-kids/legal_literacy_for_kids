@@ -49,14 +49,14 @@ Use a fictional low-stakes case to practice a full fair hearing with roles, evid
 ---
 
 :::warning Safety and Suitability Protocol
-Use low-stakes disputes only. Do not use bullying, abuse, trauma, humiliation, family secrets, money pressure, romantic conflict, or intense emotional history. If a scenario starts feeling too real or too hot, pause and switch to a fictional version immediately.
+Use low-stakes disputes only. Do not use bullying, abuse, trauma, humiliation, family secrets, money pressure, romantic conflict, police questioning, immigration status, or intense emotional history. If a scenario starts feeling too real or too hot, pause and switch to a fictional version immediately.
 :::
 
 :::info Facilitator Snapshot
 - This is not about winning. It is about running the process correctly.
 - Use a default fictional packet if needed so nobody has to bring a real conflict.
 - Good defaults: **The Case of the Missing Markers**, **The Case of the Shared Snack**, **The Case of the Broken Game Controller**.
-- End with an emotional debrief about whether both sides were heard and whether the process felt fair.
+- End with a brief, low-pressure debrief about whether both sides were heard and whether the process felt fair.
 :::
 
 ## Week at a Glance
@@ -111,6 +111,47 @@ Keep the procedure calm and structured. A well-run trial where the learner does 
 - Older learners can use the [Written Ruling Template](./resources/written-ruling-template.md) more formally.
 - IRAC can be mentioned here as an optional reasoning structure, not as required child-facing language.
 :::
+
+## Age-Banded Legal Learning Goals
+
+### Ages 8-9: Guided foundation
+
+- help run a calm, low-stakes fictional hearing
+- identify the rule, the evidence, and the fair answer in simple language
+
+### Ages 10-12: Core path
+
+- separate claims from evidence
+- explain why both sides should be heard before a decision
+- write or say a reasoned answer using the rule and the evidence
+
+### Ages 11-13: Optional extension
+
+- connect the hearing to burden of proof, written rulings, and appeal questions with adult guidance
+- use more detailed procedure language only in guided fictional or public examples
+
+## Fair Process
+
+Fair process means there should be reasonable steps before serious consequences happen. A fair process usually includes listening, asking what happened, looking for evidence, giving people a chance to explain, and choosing a response that fits the situation.
+
+This mock trial should stay low-stakes and fictional. It should never feel like punishment, interrogation, or pressure to disclose private experiences.
+
+## Legal Information Check
+
+- What is the claim?
+- What evidence is shown?
+- What details are agreed on, and what details still need checking?
+- Is a screenshot, clip, quote, or image missing context?
+- Could any part be edited or AI-generated?
+- What should we ask a trusted adult before treating this as settled fact?
+
+## Civil Discussion Moves
+
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "What rule matters here?"
+- "Did both sides get heard?"
+- "I need a moment before I answer."
 
 ---
 

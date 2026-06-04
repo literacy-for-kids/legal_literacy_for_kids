@@ -11,7 +11,7 @@ These are **examples, not required answers**. They show what clear, fair, age-ap
 
 ```text
 Date: Week 2
-Rule or system I noticed: Our family snack shelf.
+Rule or system I noticed: The shared snack shelf at our after-school room.
 Type: rule and commons
 What happened: Someone kept taking the last granola bar and not replacing it.
 What I think the rule was for: So everyone gets a fair chance at shared snacks.
@@ -34,7 +34,7 @@ Why the stronger version works: it is easier to check, easier to teach, and easi
 ## 4. Sample Household Agreement Clause
 
 ```text
-If the sink is already empty but the counters are dirty, the kitchen task is not complete until the counters are wiped and the sponge is returned to the tray.
+If the supply shelf is organized but the shared table is still messy, the cleanup task is not complete until the table is wiped and the markers are returned to labeled bins.
 ```
 
 ## 5. Sample Loophole Audit
@@ -90,4 +90,15 @@ Gap note: The Charter should define how schedule changes are recorded.
 I am asking for review because the fair-hearing steps said both sides would see all evidence before the hearing, but the screenshot used in the ruling was shown for the first time during the hearing.
 I think this mattered because I would have explained the missing earlier messages if I had seen the screenshot sooner.
 I am not appealing just because I lost. I am appealing because the process step about evidence sharing was skipped.
+```
+
+## 11. Sample Legal Literacy Project Excerpt
+
+```text
+Project title: Clearer Quiet-Zone Signs for the Library Makerspace
+Audience: Kids, caregivers, and visitors using the room
+Main claim: The current sign explains what not to do, but it does not explain why the quiet zone matters or where collaborative talking is okay.
+Evidence: Two photos of the current sign, one librarian comment, and one observation note from a busy afternoon
+Fairness note: Some visitors need to talk quietly to translate instructions or use AAC, so the new sign points people to both quiet and collaborative areas.
+Attribution note: Sign photos by our class. Library quote used with permission.
 ```
