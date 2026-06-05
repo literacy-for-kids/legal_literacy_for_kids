@@ -1,0 +1,30 @@
+---
+id: curriculum-map
+title: Curriculum Map
+sidebar_label: Curriculum Map
+---
+
+# Curriculum Map -- Legal Literacy
+
+| Week | Lesson | Core Question | Primary Skill | Key Vocabulary | Check for Understanding | Extension |
+|---|---|---|---|---|---|---|
+| 1 | Why Groups Need Rules | Why do groups need rules at all? | Rule analysis | rule, norm, enforcement, fairness | Name three rules you follow and explain what each one protects | Find one rule that exists specifically because of a past problem |
+| 2 | The Shared Stuff Problem | What happens to shared things without fair rules? | Commons analysis | commons, overuse, shared resource, cooperation | Describe the "shared stuff problem" in your own words | Find a real shared resource in your community -- is it managed fairly? |
+| 3 | Island Rules Challenge | Which rules does a brand-new community need first? | Rule design | founding rule, priority, community, governance | Which rule your group designed do you think was most important, and why? | Research the founding documents of one real community or country |
+| 4 | What Makes a Deal? | What makes an agreement a real contract? | Contract basics | contract, agreement, promise, clarity | Name three things that distinguish a real contract from a casual promise | Find a contract you have agreed to (app terms, library rules) -- what does it say? |
+| 5 | Clear Yes, New Offer | How do offers and acceptances actually work? | Offer and acceptance analysis | offer, acceptance, counteroffer, negotiation | Describe a situation where saying "yes, but..." creates a new offer | Practice a simple negotiation with a partner |
+| 6 | What Each Person Gives | What is the "trade" part of a contract? | Consideration analysis | consideration, exchange, mutual, obligation | Find the consideration in three everyday agreements | Research why gift promises are not usually legally enforceable |
+| 7 | Writing a Clear Household Agreement | How do you make an agreement specific enough to actually work? | Agreement drafting | clause, specific, measurable, dispute | After drafting: what part of your agreement was hardest to make clear? | Draft a real household agreement for one shared task |
+| 8 | What the Rule Says vs. What It Is For | Why do rules sometimes produce results they were not meant to produce? | Rule interpretation | letter of the law, intent, spirit, interpretation | Find a rule you know that could be followed technically while breaking its purpose | Research one famous legal case about the letter vs. spirit of a law |
+| 9 | Sneaky Gaps in Rules | What is a loophole and how do rules get fixed? | Loophole analysis | loophole, unintended consequence, revision, edge case | Describe one loophole you found in a rule from your household or school | Research how a famous loophole in a real law was eventually closed |
+| 10 | The Ruling Chain | How do past decisions guide future similar cases? | Precedent analysis | precedent, ruling, consistency, stare decisis | Why might it be useful to follow earlier decisions rather than deciding each case from scratch? | Research one Supreme Court decision that changed how a law was understood |
+| 11 | Rights Are Shields | What are rights protecting people from? | Rights analysis | right, protection, limit, majority rule | Name two rights that protect individuals even when many people disagree | Find one historical example where a right protected an unpopular minority position |
+| 12 | Don't Put All the Power in One Person | Why is power distributed in well-designed systems? | Separation of powers analysis | separation of powers, check, balance, accountability | What goes wrong when one person controls making, enforcing, and judging rules? | Find a real example of a system that collapsed when power was too concentrated |
+| 13 | My Group Agreement (Micro-Charter) | Can I design a real agreement that actually works? | Charter design | charter, amendment process, dispute resolution, rights | After drafting: what was hardest to agree on? | Research the US Bill of Rights as a model for group protections |
+| 14 | Try Tricky What-Ifs | How strong is the agreement I designed? | Stress testing | stress test, edge case, amendment, revision | Which what-if found the biggest gap in your charter? | Research how the US Constitution has been amended 27 times |
+| 15 | How Fair Disagreements Get Settled | What makes a dispute resolution process fair? | Court process analysis | court, neutral decision-maker, evidence, procedure | Name three things a fair dispute resolution process needs | Research how small claims courts work |
+| 16 | Everyone Gets a Fair Chance | What is due process and why does it matter? | Due process analysis | due process, notice, hearing, fair chance | Name the three things due process requires before punishment | Find a historical example where due process was violated -- what happened? |
+| 17 | Run a Tiny Trial (Mock Trial) | What does a fair trial actually look like? | Mock trial participation | opening statement, evidence, cross-examination, verdict | After the trial: was the process fair? What would you improve? | Research how jury selection works in a real trial |
+| 18 | The Decision, the Second Look, and What You Built | What system did I build, and what did I learn? | Synthesis and reflection | appeal, revision, precedent, reflection | Name one thing you would change in your Micro-Charter based on what you learned | Present your Micro-Charter to someone outside the class |
+| Opt. 1 | Two Kinds of Cases | How are community cases different from harm-repair cases? | Criminal vs. civil distinction | criminal, civil, plaintiff, defendant, beyond reasonable doubt | What is the main goal of a criminal case vs. a civil case? | Research one famous civil case and one criminal case |
+| Opt. 2 | Rules Between Countries | How do rules work when there is no world government? | International law analysis | international law, treaty, sovereignty, enforcement | What makes international law different from national law? | Research how one international treaty was created |
