@@ -12,6 +12,10 @@ For the last 3 weeks, we studied rules for whole groups.
 
 This week, we switch to deals between people. A deal works best when both people know what is promised and what is being traded.
 
+:::tip Coping Skill Moment
+Promises and deals can feel exciting in the moment — which is exactly when people agree to things too fast. Before you shake on it, pause: *"Wanting this is real, but it is not a command."* One breath gives you room to check what you're actually agreeing to. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Which of these sounds real?

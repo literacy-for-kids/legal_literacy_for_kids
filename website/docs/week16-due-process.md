@@ -12,6 +12,10 @@ This week, the learner studies one of the most important protections in law: bef
 
 That means knowing the problem, having time to prepare, seeing the evidence, and getting to explain their side to a fair decider.
 
+:::tip Coping Skill Moment
+Being accused of something — fairly or not — can flood you with the urge to argue or shut down. Due process works better when you're calm. Take a breath and use three questions: *"What happened? What is the rule? What can be repaired?"* Telling the truth clearly is easier once your body settles. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Shortcuts can feel fast.

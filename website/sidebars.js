@@ -10,6 +10,7 @@ const currentSiteHref = 'https://literacy-for-kids.github.io/legal_literacy_for_
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'coping-skills',
     {
       type: 'category',
       label: 'The Architecture of Rules',

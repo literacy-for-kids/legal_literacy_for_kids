@@ -14,6 +14,10 @@ This week starts with a question kids already ask: when does a rule help, and wh
 
 Without shared rules, people spend more time arguing than playing. Rules help a group know what is fair, safe, and next.
 
+:::tip Coping Skill Moment
+When a rule feels unfair, the frustration is a signal — and a reason to pause rather than react. Ask three calm questions: *"What is the rule, what is the reason for it, and what question can I ask clearly?"* (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Imagine recess with no rules at all. No line for the slide. No turn-taking. No one agrees what counts as out in a game.

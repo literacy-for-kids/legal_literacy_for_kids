@@ -12,6 +12,10 @@ This week, the learner shifts from reading rules to protecting people.
 
 Some group choices are ordinary votes. Some choices cross a line and should not be left to a simple vote.
 
+:::tip Coping Skill Moment
+Standing up for a right or a boundary can feel scary, and fear can make a voice shaky or sharp. Notice the feeling, take a slow breath, and state it plainly: *"I need to say something about this."* Asking for help from a trusted adult is also a way of using your rights. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
+:::
+
 ## Kid Hook
 
 A club votes on what music to play. That seems fine.

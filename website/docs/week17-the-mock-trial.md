@@ -12,6 +12,10 @@ This week, the learner uses the whole system they have been building.
 
 The goal is not to win a dramatic argument. The goal is to run a fair process from beginning to end.
 
+:::tip Coping Skill Moment
+A trial gets competitive, and it's easy to want to interrupt or talk over the other side. Pause before arguing: one breath, then make your point calmly. If you cut someone off, a quick repair — *"Sorry, please finish"* — keeps the process fair. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Imagine a tiny court case called **The Case of the Missing Markers**.

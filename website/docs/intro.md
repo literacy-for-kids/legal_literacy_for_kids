@@ -14,6 +14,8 @@ Kids already use legal thinking all the time.
 
 They use it when they ask, "Is that fair?" When they make a deal. When they follow game rules. When they explain why a rule should change. When they want both sides of a disagreement to be heard.
 
+Rules, consequences, and conflict can also feel stressful. The short [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page introduces simple tools for slowing down, telling the truth clearly, asking questions, and repairing when things go wrong.
+
 This curriculum helps children keep following those questions.
 
 Across 18 weeks, learners explore why groups need rules, how promises become clear deals, how people fix unfair rules, and how fair decisions happen when people disagree.
