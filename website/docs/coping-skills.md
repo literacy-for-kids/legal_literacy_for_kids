@@ -22,6 +22,16 @@ A strong feeling is a **signal, not a command.** It doesn't have to decide wheth
 
 Coping skills help you slow down, tell the truth clearly, ask questions instead of guessing, and repair when something can be fixed. They turn a tense moment into one you can actually think your way through.
 
+## When this shows up
+
+These tools come in handy in everyday rule-and-conflict moments:
+
+- When you are upset about a rule
+- When you are worried about getting in trouble
+- When a promise or deal feels exciting
+- When a conflict starts to get heated
+- When you need to ask a clear question instead of guessing
+
 ## Tools that help with rules and conflict
 
 - **Pause before arguing** — one breath before you respond to a rule or accusation.
