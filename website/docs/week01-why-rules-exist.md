@@ -18,6 +18,10 @@ Without shared rules, people spend more time arguing than playing. Rules help a 
 When a rule feels unfair, the frustration is a signal — and a reason to pause rather than react. Ask three calm questions: *"What is the rule, what is the reason for it, and what question can I ask clearly?"* (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Rules make more sense when you ask what they're for. Try: "What problem is this rule trying to solve?" A clear question helps you understand a rule — and discuss it — instead of just reacting to it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Imagine recess with no rules at all. No line for the slide. No turn-taking. No one agrees what counts as out in a game.
