@@ -20,6 +20,10 @@ Being accused of something — fairly or not — can flood you with the urge to 
 Due process depends on facts, not guesses. Ask the calm questions first: "What actually happened, and what rule applies here?" Getting the facts clearly — and letting each person tell their side — is the communication that makes a process fair. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Due process is careful problem solving: sort what happened (facts), what rule applies, and what questions still need answering before deciding anything. Sorting first keeps people from jumping to blame. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Shortcuts can feel fast.

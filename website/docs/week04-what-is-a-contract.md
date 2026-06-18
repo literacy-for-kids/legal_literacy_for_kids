@@ -20,6 +20,10 @@ Promises and deals can feel exciting in the moment — which is exactly when peo
 A contract is just an agreement said in clear words. Say it out loud before you shake on it: "I will ___, you will ___, by ___." When both people can repeat the deal the same way, there's much less to argue about later. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Agreements break when the terms are fuzzy. Define the problem and the terms clearly up front: who does what, by when, and what happens if they don't. Clear terms prevent the dispute. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Which of these sounds real?

@@ -20,6 +20,10 @@ A trial gets competitive, and it's easy to want to interrupt or talk over the ot
 A mock trial runs on evidence-based speaking and careful listening. Build your point on facts: "The evidence shows ___, which means ___." Then listen closely to the other side so you can respond to what they *actually* said — that's how a fair argument works. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+In a trial, separate evidence from assumption. Ask "What can we actually show, and what information is still missing?" A case built on facts holds up; one built on guesses falls apart. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Kid Hook
 
 Imagine a tiny court case called **The Case of the Missing Markers**.
