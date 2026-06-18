@@ -22,9 +22,6 @@ When a rule feels unfair, the frustration is a signal — and a reason to pause 
 Rules make more sense when you ask what they're for. Try: "What problem is this rule trying to solve?" A clear question helps you understand a rule — and discuss it — instead of just reacting to it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Every rule is a solution to some problem. Asking "What problem was this rule made to solve?" helps you judge whether it still works — and whether it needs adjusting. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
 
 ## Kid Hook
 
@@ -56,6 +53,10 @@ Notice rules you already live with and figure out what problems they solve.
 3. Draw one place with no rules, then draw it again with helpful rules.
 
 ## Main Activity
+
+:::tip Problem Solving Moment
+Every rule is a solution to some problem. Asking "What problem was this rule made to solve?" helps you judge whether it still works — and whether it needs adjusting. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 Be a Rule Detective. Hunt for rules, sort them, and explain what would happen without them.
 

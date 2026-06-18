@@ -20,10 +20,6 @@ Standing up for a right or a boundary can feel scary, and fear can make a voice 
 A right works like a boundary, and a boundary only protects you if people can understand it. Say it plainly: "I'm not okay with ___" or "I need ___." Clear words make a limit easy to respect — nobody has to guess where the line is. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Ask what problem a right protects against. Naming the danger a right guards against — like being silenced or treated unfairly — shows why the right exists and why it matters. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Kid Hook
 
 A club votes on what music to play. That seems fine.
@@ -74,6 +70,10 @@ Learn what rights protect.
 - discuss more detailed rights language only through guided fictional, historical, or public examples
 
 ## Main Activity
+
+:::tip Problem Solving Moment
+Ask what problem a right protects against. Naming the danger a right guards against — like being silenced or treated unfairly — shows why the right exists and why it matters. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 Use low-stakes vote examples and sorting cards to understand that rights protect important boundaries.
 
