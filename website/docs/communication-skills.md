@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about how rules, rights, contracts, and fairness work. Almost all of it runs on communication: an agreement is words two people both understand, a rule is words that try to solve a problem, and a fair process depends on asking what happened and listening to the answer.
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the careful thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the careful thinking this curriculum builds.
 
 :::note Not legal advice
 This page and this curriculum teach how rules and legal *ideas* work — they are **not legal advice**. For a real legal problem, talk to a trusted adult or a qualified professional.
@@ -51,4 +51,4 @@ These are everyday communication and self-management tools — not therapy, **le
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)

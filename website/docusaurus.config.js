@@ -12,8 +12,8 @@ const config = {
   tagline: 'A free, open curriculum with 18 core weeks and optional advanced weeks that teaches ages 8–12 how rules, contracts, and legal systems work',
   favicon: 'img/favicon.ico',
 
-  url: 'https://literacy-for-kids.github.io',
-  baseUrl: '/legal_literacy_for_kids/',
+  url: 'https://legal.literacy-for-kids.com',
+  baseUrl: '/',
 
   organizationName: 'literacy-for-kids',
   projectName: 'legal_literacy_for_kids',

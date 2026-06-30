@@ -60,7 +60,7 @@ const roadmapSections = [
   },
 ];
 
-const currentSiteHref = 'https://literacy-for-kids.github.io/legal_literacy_for_kids/';
+const currentSiteHref = 'https://legal.literacy-for-kids.com/';
 
 function FeatureCard({title, description}) {
   return (

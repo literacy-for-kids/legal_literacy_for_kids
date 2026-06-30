@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum is about how rules, agreements, and fairness work — contracts, rights, consequences, and how disagreements get resolved. All of that touches **feelings**, because rules involve limits, consequences can feel scary, and conflicts get heated.
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the legal-thinking skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the legal-thinking skills this curriculum builds.
 
 ## Rules and consequences can feel stressful
 
@@ -52,4 +52,4 @@ These are everyday coping and self-management tools — not therapy, medical adv
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)

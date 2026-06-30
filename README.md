@@ -4,7 +4,7 @@
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
 🌐 **View the curriculum website:**  
-https://literacy-for-kids.github.io/legal_literacy_for_kids/
+https://legal.literacy-for-kids.com/
 
 # legal_literacy_for_kids
 A curriculum for understanding the operating rules of society, resolving disputes, and writing airtight agreements.
