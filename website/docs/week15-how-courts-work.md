@@ -307,6 +307,12 @@ Add this to **Case Notes**:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Court steps are easier to remember as an ordered checklist. Write the steps in order and check each off — a process is easier to follow when it is visible.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Name the 3 checks:** "What are the 3 Court Check questions?"

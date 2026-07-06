@@ -168,6 +168,12 @@ Ask why some situations feel easy and others feel tricky. This helps the learner
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Letter vs. intent is an example/non-example job. For one rule, collect a case that clearly follows it, a case that clearly breaks it, and one tricky case in between. The tricky case is where the boundary lives.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Rewrite the Rule
 
 #### Learning Goal

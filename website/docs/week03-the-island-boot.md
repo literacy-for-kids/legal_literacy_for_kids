@@ -160,6 +160,12 @@ Help the learner say the key idea in kid language:
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Building rules together starts with a shared goal: "What are these rules supposed to protect or make possible?" When the group can say the goal out loud, it becomes much easier to agree on which rules are worth having.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Write the First Three Laws
 
 #### Learning Goal

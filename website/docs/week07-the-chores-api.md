@@ -277,6 +277,12 @@ Add this to **Case Notes**:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+When a rule gets complicated, sort the pieces into a three-part checklist: facts, rules, questions. Visible pieces are easier to reason about than a jumble in your head.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Name the job clearly:** "What is the exact job?"

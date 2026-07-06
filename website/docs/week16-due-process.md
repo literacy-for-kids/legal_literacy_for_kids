@@ -16,10 +16,6 @@ That means knowing the problem, having time to prepare, seeing the evidence, and
 Being accused of something — fairly or not — can flood you with the urge to argue or shut down. Due process works better when you're calm. Take a breath and use three questions: *"What happened? What is the rule? What can be repaired?"* Telling the truth clearly is easier once your body settles. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Due process depends on facts, not guesses. Ask the calm questions first: "What actually happened, and what rule applies here?" Getting the facts clearly — and letting each person tell their side — is the communication that makes a process fair. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Kid Hook
 
 Shortcuts can feel fast.
@@ -207,6 +203,10 @@ Use another fictional case and see whether the checklist is enough.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Due process depends on facts, not guesses. Ask the calm questions first: "What actually happened, and what rule applies here?" Getting the facts clearly — and letting each person tell their side — is the communication that makes a process fair. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Add the Fair Chance Checklist to Your Charter
 
 #### Learning Goal
@@ -285,6 +285,12 @@ Add this to **Case Notes**:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Multi-step processes like due process need repeat practice to remember in order. Try saying the steps from memory, check what you missed, and practice that step again later.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

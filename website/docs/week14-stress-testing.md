@@ -160,6 +160,12 @@ If the charter does not answer the question clearly, circle the missing or fuzzy
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Stress-testing a rule works best as respectful disagreement: "I see a problem because ___, and our goal is ___." Attacking the rule's weak spot is the job; attacking the rule's author is not.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Write the Official Rule Update
 
 #### Learning Goal

@@ -253,6 +253,12 @@ Add this to **Case Notes**:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+A system with many parts is easier to learn when the parts are visible. Make a simple list of who checks whom, then check it against an example.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Name the 3 jobs:** "What are the 3 big power roles?"

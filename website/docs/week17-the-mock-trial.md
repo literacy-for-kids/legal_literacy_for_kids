@@ -16,10 +16,6 @@ The goal is not to win a dramatic argument. The goal is to run a fair process fr
 A trial gets competitive, and it's easy to want to interrupt or talk over the other side. Pause before arguing: one breath, then make your point calmly. If you cut someone off, a quick repair — *"Sorry, please finish"* — keeps the process fair. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A mock trial runs on evidence-based speaking and careful listening. Build your point on facts: "The evidence shows ___, which means ___." Then listen closely to the other side so you can respond to what they *actually* said — that's how a fair argument works. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Kid Hook
 
 Imagine a tiny court case called **The Case of the Missing Markers**.
@@ -212,6 +208,10 @@ Ask:
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A mock trial runs on evidence-based speaking and careful listening. Build your point on facts: "The evidence shows ___, which means ___." Then listen closely to the other side so you can respond to what they *actually* said — that's how a fair argument works. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Run the Trial
 
 #### Learning Goal
@@ -302,6 +302,12 @@ Add this to **Case Notes**:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Feedback improves how clearly you explain a case. Ask for one specific change: "Which part was hard to follow?" Then practice that part before the next round.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

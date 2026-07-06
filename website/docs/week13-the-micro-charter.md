@@ -151,6 +151,12 @@ When learners draft a charter, ask:
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+A charter is shared work made visible. As your group drafts it, give the pieces owners: one person tracks rules, one tracks who-does-what, one tracks open questions. Visible roles keep the charter from becoming one person's document.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Draft the Charter
 
 #### Learning Goal

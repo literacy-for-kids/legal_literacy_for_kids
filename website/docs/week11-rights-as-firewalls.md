@@ -16,10 +16,6 @@ Some group choices are ordinary votes. Some choices cross a line and should not 
 Standing up for a right or a boundary can feel scary, and fear can make a voice shaky or sharp. Notice the feeling, take a slow breath, and state it plainly: *"I need to say something about this."* Asking for help from a trusted adult is also a way of using your rights. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A right works like a boundary, and a boundary only protects you if people can understand it. Say it plainly: "I'm not okay with ___" or "I need ___." Clear words make a limit easy to respect — nobody has to guess where the line is. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Kid Hook
 
 A club votes on what music to play. That seems fine.
@@ -212,6 +208,10 @@ Teach this sentence:
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A right works like a boundary, and a boundary only protects you if people can understand it. Say it plainly: "I'm not okay with ___" or "I need ___." Clear words make a limit easy to respect — nobody has to guess where the line is. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Choose Protected Promises for Your Group
 
 #### Learning Goal
@@ -303,6 +303,12 @@ Add this to **Case Notes**:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Run a quick forgetting check on the terms so far: what do you still remember, and what got fuzzy? Practice only the fuzzy ones — forgetting shows you exactly where to look again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

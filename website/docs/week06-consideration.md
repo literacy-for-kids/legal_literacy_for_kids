@@ -163,6 +163,12 @@ Then rewrite one example using the formal word in parentheses.
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+An agreement has parts, and parts need labels: who gives what, who gets what, and what counts as done. Labeling the parts of a pretend agreement makes it much easier to see whether it is complete.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Promise, Gift, or Deal?
 
 #### Learning Goal

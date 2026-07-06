@@ -169,6 +169,12 @@ Link the cases with arrows so the learner can see the ruling chain grow.
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Precedent is a chain of connected cases. Try drawing it: each case as a box, arrows showing which decision leaned on which. A connection map makes "this case followed that one" visible.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Follow, Explain, or Change?
 
 #### Learning Goal

@@ -175,6 +175,12 @@ Say this out loud:
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+A loophole is a tricky case at a rule's boundary. Track the ones you find: the rule, the tricky case, and the question that would settle it. A collection of tricky cases teaches more about rules than a stack of easy ones.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Fix the Rule
 
 #### Learning Goal

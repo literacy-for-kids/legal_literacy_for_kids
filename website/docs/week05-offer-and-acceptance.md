@@ -246,6 +246,12 @@ Add this to **Case Notes**:
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+An agreement has parts that are easy to lose track of. Use a checklist: offer, acceptance, and what each side gives. Sorting the parts helps your brain stop juggling them.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Identify an offer:** "What did the first person propose?"

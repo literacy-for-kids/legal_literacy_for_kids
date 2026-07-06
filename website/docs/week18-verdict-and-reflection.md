@@ -189,6 +189,12 @@ Ask whether there was a real reason for a second look or just disappointment.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+After a mock trial, finish together: did the group meet its shared goal, who did which role, and what should change next time? Reflecting on the process without blame is how the next group activity gets better.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Final Rule Update, Project Share, and Reflection
 
 #### Learning Goal
@@ -295,6 +301,12 @@ Add this to **Case Notes**:
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A mock trial has many moving parts. Use a role checklist: speaker, evidence tracker, question asker, timekeeper. Visible roles help everyone know their job.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

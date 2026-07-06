@@ -18,10 +18,6 @@ Without shared rules, people spend more time arguing than playing. Rules help a 
 When a rule feels unfair, the frustration is a signal — and a reason to pause rather than react. Ask three calm questions: *"What is the rule, what is the reason for it, and what question can I ask clearly?"* (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Rules make more sense when you ask what they're for. Try: "What problem is this rule trying to solve?" A clear question helps you understand a rule — and discuss it — instead of just reacting to it. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Kid Hook
 
@@ -178,6 +174,10 @@ Then ask them to draw the same place again with 2 or 3 helpful rules in action. 
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Rules make more sense when you ask what they're for. Try: "What problem is this rule trying to solve?" A clear question helps you understand a rule — and discuss it — instead of just reacting to it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Rule Detective Hunt
 
 #### Learning Goal
@@ -287,6 +287,12 @@ Add this to **Case Notes**:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Rules make more sense when you teach them back with an example: "This rule means ___, and a pretend example is ___." If the example is hard to build, that shows what to practice next.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

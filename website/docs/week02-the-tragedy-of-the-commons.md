@@ -160,6 +160,12 @@ Compare the results.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Shared resources fail when everyone assumes someone else will hold back. Groups protect a commons by making the sharing visible: who takes what, who checks, and what happens when someone takes too much. Fair use is discussed, not guessed.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Shared Stuff in Real Life
 
 #### Learning Goal

@@ -16,10 +16,6 @@ This week, we switch to deals between people. A deal works best when both people
 Promises and deals can feel exciting in the moment — which is exactly when people agree to things too fast. Before you shake on it, pause: *"Wanting this is real, but it is not a command."* One breath gives you room to check what you're actually agreeing to. (More on the [Coping Skills for Rules, Conflict, and Consequences](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A contract is just an agreement said in clear words. Say it out loud before you shake on it: "I will ___, you will ___, by ___." When both people can repeat the deal the same way, there's much less to argue about later. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 ## Kid Hook
 
 Which of these sounds real?
@@ -176,6 +172,10 @@ Do not force memorization yet. The important thing is the idea of clarity.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A contract is just an agreement said in clear words. Say it out loud before you shake on it: "I will ___, you will ___, by ___." When both people can repeat the deal the same way, there's much less to argue about later. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Build a Clear Deal
 
 #### Learning Goal
@@ -268,6 +268,12 @@ Add this to **Case Notes**:
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Legal terms stick when you pair each one with an example and practice remembering it. Cover the term, say what it means with a pretend example, then check the fuzzy ones again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 
