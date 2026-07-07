@@ -1,19 +1,24 @@
+# Legal Literacy for Kids
+
 ![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
 ![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
-🌐 **View the curriculum website:**  
+A curriculum for ages 8–12 about understanding the operating rules of society, resolving disputes, and writing airtight agreements.
+
+🌐 **Use the curriculum here:**
 https://legal.literacy-for-kids.com/
-
-# legal_literacy_for_kids
-A curriculum for understanding the operating rules of society, resolving disputes, and writing airtight agreements.
-
-Most children experience "the law" simply as a list of things they are not allowed to do, enforced by authority figures. This curriculum reframes the legal system as the operating system of human society. Students learn that laws are just codified rules designed to prevent system crashes (chaos), contracts are just API specifications for human promises, and courts are diagnostic tools for edge cases.
 
 ---
 
-### Core Concepts
+## About the Curriculum
+
+Most children experience "the law" simply as a list of things they are not allowed to do, enforced by authority figures. This curriculum reframes the legal system as the operating system of human society. Students learn that laws are just codified rules designed to prevent system crashes (chaos), contracts are just API specifications for human promises, and courts are diagnostic tools for edge cases.
+
+This is an educational curriculum, **not legal advice** — real legal problems need a trusted adult or qualified professional.
+
+## Core Concepts
 
 These mental models help students transition from seeing rules as arbitrary restrictions to viewing them as structural engineering for group behavior.
 
@@ -25,7 +30,7 @@ These mental models help students transition from seeing rules as arbitrary rest
 
 ---
 
-### The Curriculum Roadmap
+## The Curriculum Roadmap
 
 This 18-week core progression, with optional advanced weeks, moves from the theoretical need for rules to the practical application of writing, interpreting, testing, and revising them.
 
@@ -60,10 +65,45 @@ We pull the concepts together by looking at how a system governs itself without 
 ### Weeks 15–18: The Justice System in Action
 
 **Focus:** Courts, Due Process, and Mock Proceedings
-Students learn how disputes are resolved through formal legal proceedings, experiencing the full arc from filing a complaint to delivering a verdict.
+Students learn how disputes are resolved through formal legal proceedings, experiencing the full arc from filing a complaint to delivering a verdict in a mock trial.
+
+---
+
+## How to Use It
+
+You do not need to run all 18 weeks. Every lesson stands alone as a 10–20 minute discussion or activity — use one lesson, one arc, or the full sequence.
+
+- **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+- **Only have 20 minutes?** Pick any week on the [curriculum site](https://legal.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.
+- **Want grab-and-go materials?** The [Shared Toolkit Printables](https://www.literacy-for-kids.com/docs/toolkits/printables/) are one-page cards kids can keep nearby.
+
+---
+
+## Shared Skills
+
+This curriculum connects to the seven cross-curriculum [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) — short life-skill modules that support every literacy: **Coping Skills, Communication, Problem Solving, Learning How to Learn, Executive Function, Collaboration, and Information Organization.**
+
+The curriculum site includes a local doorway page for each toolkit (connecting the skill to rules, rights, and agreements specifically), and weekly lessons contain "Moment" callouts that surface the right skill at the right time — like sorting facts from rules from questions, or disagreeing without attacking during a mock trial.
+
+---
+
+## Part of Literacy for Kids
+
+This is one of **nine domain literacies** in the [Literacy for Kids](https://www.literacy-for-kids.com/) ecosystem — free, open-source curricula covering decisions, computers, media, money, civic life, law, emotions and relationships, the environment, and health. Browse them all from the [hub site](https://www.literacy-for-kids.com/) or the [GitHub organization](https://github.com/literacy-for-kids).
+
+---
+
+## Contributing
+
+Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, or suggesting teaching improvements. Lesson content is plain Markdown under `website/docs/`; fork, edit, and open a pull request. Every page on the live site also has an "Edit this page" link that takes you straight to the file.
+
+---
 
 ## License
 
 This project uses dual licensing:
+
 - Code (JavaScript, CSS, configuration): [MIT License](./LICENSE-CODE)
-- Curriculum content (Markdown under website/docs/): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
+- Curriculum content (Markdown under `website/docs/`): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
+
+You are free to use, adapt, and share the curriculum content for non-commercial purposes, with attribution, and under the same license. The site code can be reused under MIT.
