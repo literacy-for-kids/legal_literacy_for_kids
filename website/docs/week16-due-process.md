@@ -256,6 +256,8 @@ Use a safe example, like a missing marker, a skipped turn, or a borrowed item re
 
 **2. Walk the 6 steps**
 
+![Six fair-process steps in order: listen, ask what happened, look for evidence, let people explain, choose a response that fits, allow a second look](/img/diagrams/fair-process-steps.svg)
+
 Ask what each step would look like in that story.
 
 ### Case Notes

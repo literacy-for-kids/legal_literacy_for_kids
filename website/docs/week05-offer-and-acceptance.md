@@ -48,6 +48,8 @@ Learn the difference between a clear offer, a clear yes, and a new offer.
 
 Use role-play and visual cards to show how a deal moves from offer to yes, or changes into a new round of bargaining.
 
+![Three deal-making cards: Offer, Yes, and New Offer — a new offer starts the bargaining round again](/img/diagrams/offer-acceptance-cards.svg)
+
 ---
 
 :::info Facilitator Snapshot

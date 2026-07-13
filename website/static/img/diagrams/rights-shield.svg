@@ -1,0 +1,31 @@
+<svg viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rsTitle">
+  <title id="rsTitle">Rights work like shields: everyday choices can be decided by a group vote, but protected things — like privacy, safety, and fair treatment — are guarded even if most people vote against them</title>
+  <rect x="1" y="1" width="858" height="418" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Rights Are Shields</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Some things a group can vote on. Some things stay protected &#8212; even from a big vote.</text>
+
+  <!-- votable zone -->
+  <rect x="45" y="95" width="380" height="270" rx="12" fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+  <text x="235" y="128" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="700" fill="#475569">THE GROUP CAN VOTE ON&#8230;</text>
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#1e293b">
+    <g><rect x="75" y="150" width="320" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/><text x="235" y="175" text-anchor="middle">which music to play</text></g>
+    <g><rect x="75" y="200" width="320" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/><text x="235" y="225" text-anchor="middle">what game to play at recess</text></g>
+    <g><rect x="75" y="250" width="320" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/><text x="235" y="275" text-anchor="middle">what snack to share</text></g>
+    <g><rect x="75" y="300" width="320" height="38" rx="19" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/><text x="235" y="325" text-anchor="middle">when to hold the club meeting</text></g>
+  </g>
+
+  <!-- shield zone -->
+  <g>
+    <path d="M645,100 L790,130 L790,240 C790,310 645,360 645,360 C645,360 500,310 500,240 L500,130 Z" fill="#fffbeb" stroke="#b45309" stroke-width="4"/>
+    <text x="645" y="150" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="800" fill="#b45309">PROTECTED &#8212;</text>
+    <text x="645" y="170" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="800" fill="#b45309">EVEN FROM A BIG VOTE</text>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b" text-anchor="middle">
+      <text x="645" y="205">your private notebook</text>
+      <text x="645" y="232">being treated fairly</text>
+      <text x="645" y="259">being safe from harm</text>
+      <text x="645" y="286">getting to tell your side</text>
+    </g>
+  </g>
+
+  <text x="430" y="398" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">A right is a promise the group keeps to every member &#8212; especially when that member is outvoted.</text>
+</svg>

@@ -9,6 +9,8 @@ This page shows the full cycle that the curriculum keeps returning to:
 
 **Rule -> Meaning -> Check -> Disagreement -> Evidence -> Decision -> Second Look -> Rule Update**
 
+![The legal systems cycle: rule, meaning, check, disagreement, evidence, decision, second look, and rule update — a repeating loop](/img/diagrams/legal-systems-cycle.svg)
+
 The course does not teach these as isolated topics. It teaches them as one repeating human process.
 
 ## Learner-Facing Version

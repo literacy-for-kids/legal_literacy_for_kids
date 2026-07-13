@@ -196,6 +196,10 @@ Use role cards:
 
 If you have fewer people, one person may hold more than one role, or you can use the packet in solo mode.
 
+Set up the room so everyone knows where to sit — a real courtroom looks like this:
+
+![Courtroom layout seen from above: judge's bench at the front with the witness stand and clerk beside it, jury box on the side, tables for each side facing the bench, and seats for everyone else at the back](/img/diagrams/courtroom-layout.svg)
+
 **3. Gather the pieces**
 
 Ask:

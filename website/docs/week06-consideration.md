@@ -135,6 +135,8 @@ I give -->
 <-- You give
 ```
 
+![A two-arrow deal diagram: Maya gives Saturday dog-walking, Eli gives two comic books — each person gives something](/img/diagrams/consideration-arrows.svg)
+
 Explain that when both arrows are filled, you usually have the trade part of a deal.
 
 **2. Fill the arrows with examples**

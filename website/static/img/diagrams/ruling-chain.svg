@@ -1,0 +1,53 @@
+<svg viewBox="0 0 860 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rcTitle">
+  <title id="rcTitle">A ruling chain: four connected cases where each decision leans on the one before it, and one case explains a difference</title>
+  <defs>
+    <marker id="rcA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#b45309"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="318" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Ruling Chain</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Each new decision leans on the ones before it &#8212; that is precedent.</text>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="35" y="110" width="180" height="88" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="125" y="136" font-size="13.5" font-weight="700" fill="#b45309">Case 1: muddy boots</text>
+      <text x="125" y="158" font-size="12.5" fill="#1e293b">Ruling: boots off inside.</text>
+      <text x="125" y="176" font-size="12.5" fill="#64748b">Why: mud wrecks the rug.</text>
+    </g>
+    <g>
+      <rect x="245" y="110" width="180" height="88" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="335" y="136" font-size="13.5" font-weight="700" fill="#b45309">Case 2: muddy sandals</text>
+      <text x="335" y="158" font-size="12.5" fill="#1e293b">Ruling: also off inside.</text>
+      <text x="335" y="176" font-size="12.5" fill="#64748b">Follows Case 1: same mud.</text>
+    </g>
+    <g>
+      <rect x="455" y="110" width="180" height="88" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="545" y="136" font-size="13.5" font-weight="700" fill="#b45309">Case 3: clean slippers</text>
+      <text x="545" y="158" font-size="12.5" fill="#1e293b">Ruling: slippers are fine.</text>
+      <text x="545" y="176" font-size="12.5" fill="#64748b">Different: no mud at all.</text>
+    </g>
+    <g>
+      <rect x="665" y="110" width="180" height="88" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="755" y="136" font-size="13.5" font-weight="700" fill="#b45309">Case 4: wet rain boots</text>
+      <text x="755" y="158" font-size="12.5" fill="#1e293b">Ruling: off inside.</text>
+      <text x="755" y="176" font-size="12.5" fill="#64748b">Follows 1 + 2: water counts.</text>
+    </g>
+  </g>
+
+  <g stroke="#b45309" stroke-width="2.5">
+    <line x1="215" y1="154" x2="241" y2="154" marker-end="url(#rcA)"/>
+    <line x1="425" y1="154" x2="451" y2="154" marker-end="url(#rcA)"/>
+    <line x1="635" y1="154" x2="661" y2="154" marker-end="url(#rcA)"/>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">
+    <text x="228" y="142">follows</text>
+    <text x="438" y="142">explains a</text>
+    <text x="438" y="220">difference</text>
+    <text x="648" y="142">follows</text>
+  </g>
+
+  <text x="430" y="270" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Follow the earlier ruling &#183; explain why this case is different &#183; or admit the old ruling needs changing.</text>
+</svg>

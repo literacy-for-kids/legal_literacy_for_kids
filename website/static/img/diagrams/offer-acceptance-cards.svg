@@ -1,0 +1,51 @@
+<svg viewBox="0 0 860 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="oaTitle">
+  <title id="oaTitle">Three deal-making cards: Offer (I propose a deal), Yes (I accept — now it is an agreement), and New Offer (I want to change the deal, so bargaining continues)</title>
+  <defs>
+    <marker id="oaA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="398" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Three Deal Cards</text>
+
+  <!-- OFFER card -->
+  <g>
+    <rect x="55" y="75" width="220" height="230" rx="14" fill="#fffbeb" stroke="#b45309" stroke-width="3"/>
+    <circle cx="165" cy="140" r="34" fill="#b45309"/>
+    <text x="165" y="150" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="28" fill="#ffffff">?</text>
+    <text x="165" y="215" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="800" fill="#b45309">OFFER</text>
+    <text x="165" y="245" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">&#8220;Here is my deal:</text>
+    <text x="165" y="264" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">I will ___ if you ___.&#8221;</text>
+  </g>
+
+  <!-- YES card -->
+  <g>
+    <rect x="320" y="75" width="220" height="230" rx="14" fill="#f0fdf4" stroke="#16a34a" stroke-width="3"/>
+    <circle cx="430" cy="140" r="34" fill="#16a34a"/>
+    <path d="M415,140 L426,152 L447,128" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="430" y="215" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="800" fill="#16a34a">YES</text>
+    <text x="430" y="245" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">&#8220;I accept that deal.&#8221;</text>
+    <text x="430" y="264" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">Now it is an agreement!</text>
+  </g>
+
+  <!-- NEW OFFER card -->
+  <g>
+    <rect x="585" y="75" width="220" height="230" rx="14" fill="#fef2f2" stroke="#dc2626" stroke-width="3"/>
+    <g transform="translate(695 140)" stroke="#ffffff" fill="none">
+      <circle r="34" fill="#dc2626" stroke="none"/>
+      <path d="M-12,4 A14,14 0 1 1 2,14" stroke-width="5" stroke-linecap="round"/>
+      <path d="M-2,20 L4,12 L-6,8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="695" y="215" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="800" fill="#dc2626">NEW OFFER</text>
+    <text x="695" y="245" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">&#8220;Not quite. How about</text>
+    <text x="695" y="264" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">this instead?&#8221;</text>
+  </g>
+
+  <!-- flow note -->
+  <g stroke="#64748b" stroke-width="2.5" fill="none">
+    <line x1="275" y1="190" x2="316" y2="190" marker-end="url(#oaA)"/>
+    <line x1="540" y1="190" x2="581" y2="190" marker-end="url(#oaA)"/>
+    <path d="M695,310 C695,355 300,355 195,310" marker-end="url(#oaA)" stroke-dasharray="7 6"/>
+  </g>
+  <text x="430" y="378" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">A new offer starts the round again &#8212; bargaining continues until someone says yes (or walks away kindly).</text>
+</svg>

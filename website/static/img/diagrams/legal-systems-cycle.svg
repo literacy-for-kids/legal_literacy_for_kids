@@ -1,0 +1,63 @@
+<svg viewBox="0 0 760 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="lcTitle">
+  <title id="lcTitle">The legal systems cycle: rule, meaning, check, disagreement, evidence, decision, second look, and rule update — a repeating loop</title>
+  <rect x="1" y="1" width="758" height="558" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+
+  <ellipse cx="380" cy="300" rx="250" ry="175" fill="none" stroke="#d6a26a" stroke-width="3" stroke-dasharray="9 8"/>
+
+  <g fill="#b45309">
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(611 367) rotate(121)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(476 462) rotate(164)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(284 462) rotate(196)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(149 367) rotate(239)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(149 233) rotate(301)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(284 138) rotate(-16)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(476 138) rotate(16)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(611 233) rotate(59)"/>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <g transform="translate(380 125)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">1 &#183; RULE</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">someone writes a rule</text>
+    </g>
+    <g transform="translate(557 176)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">2 &#183; MEANING</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">what do the words mean here?</text>
+    </g>
+    <g transform="translate(630 300)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">3 &#183; CHECK</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">was the rule followed?</text>
+    </g>
+    <g transform="translate(557 424)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">4 &#183; DISAGREEMENT</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">people see it differently</text>
+    </g>
+    <g transform="translate(380 475)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">5 &#183; EVIDENCE</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">facts, clues, and reasons</text>
+    </g>
+    <g transform="translate(203 424)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">6 &#183; DECISION</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">a decider explains the answer</text>
+    </g>
+    <g transform="translate(130 300)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">7 &#183; SECOND LOOK</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">did something go wrong?</text>
+    </g>
+    <g transform="translate(203 176)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">8 &#183; RULE UPDATE</text>
+      <text y="14" text-anchor="middle" font-size="12.5" fill="#1e293b">fix the rule for next time</text>
+    </g>
+  </g>
+
+  <text x="380" y="288" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Legal Systems Cycle</text>
+  <text x="380" y="314" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">one repeating human process</text>
+</svg>

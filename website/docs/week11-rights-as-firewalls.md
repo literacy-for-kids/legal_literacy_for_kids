@@ -116,6 +116,8 @@ Keep returning to this question:
 That question helps the learner feel why rights are different from ordinary preferences.
 :::
 
+![Rights work like shields: everyday choices can be decided by a group vote, but protected things — like privacy, safety, and fair treatment — are guarded even if most people vote against them](/img/diagrams/rights-shield.svg)
+
 ## Younger Learner Adaptation (Ages 8-9)
 
 :::info For Younger Learners

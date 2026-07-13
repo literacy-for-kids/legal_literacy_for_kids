@@ -1,0 +1,64 @@
+<svg viewBox="0 0 860 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fpTitle">
+  <title id="fpTitle">Six fair-process steps in order: listen, ask what happened, look for evidence, let people explain, choose a response that fits, allow a second look</title>
+  <defs>
+    <marker id="fpA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#b45309"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="328" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Fair Process, Step by Step</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Reasonable steps come before serious consequences.</text>
+
+  <!-- row 1: steps 1-3 -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g>
+      <circle cx="120" cy="130" r="17" fill="#b45309"/>
+      <text x="120" y="136" font-size="16" font-weight="700" fill="#ffffff">1</text>
+      <rect x="55" y="158" width="130" height="46" rx="9" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="120" y="186" font-size="13.5" fill="#1e293b">Listen</text>
+    </g>
+    <g>
+      <circle cx="368" cy="130" r="17" fill="#b45309"/>
+      <text x="368" y="136" font-size="16" font-weight="700" fill="#ffffff">2</text>
+      <rect x="288" y="158" width="160" height="46" rx="9" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="368" y="186" font-size="13.5" fill="#1e293b">Ask what happened</text>
+    </g>
+    <g>
+      <circle cx="640" cy="130" r="17" fill="#b45309"/>
+      <text x="640" y="136" font-size="16" font-weight="700" fill="#ffffff">3</text>
+      <rect x="560" y="158" width="160" height="46" rx="9" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="640" y="186" font-size="13.5" fill="#1e293b">Look for evidence</text>
+    </g>
+    <!-- row 2: steps 4-6 -->
+    <g>
+      <circle cx="640" cy="242" r="17" fill="#b45309"/>
+      <text x="640" y="248" font-size="16" font-weight="700" fill="#ffffff">4</text>
+      <rect x="560" y="270" width="160" height="46" rx="9" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="640" y="292" font-size="13.5" fill="#1e293b">Let people explain</text>
+      <text x="640" y="308" font-size="12" fill="#64748b">their side</text>
+    </g>
+    <g>
+      <circle cx="368" cy="242" r="17" fill="#b45309"/>
+      <text x="368" y="248" font-size="16" font-weight="700" fill="#ffffff">5</text>
+      <rect x="278" y="270" width="180" height="46" rx="9" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="368" y="292" font-size="13.5" fill="#1e293b">Choose a response</text>
+      <text x="368" y="308" font-size="12" fill="#64748b">that fits the situation</text>
+    </g>
+    <g>
+      <circle cx="120" cy="242" r="17" fill="#b45309"/>
+      <text x="120" y="248" font-size="16" font-weight="700" fill="#ffffff">6</text>
+      <rect x="35" y="270" width="170" height="46" rx="9" fill="#fffbeb" stroke="#b45309" stroke-width="2"/>
+      <text x="120" y="292" font-size="13.5" fill="#1e293b">Allow a second look</text>
+      <text x="120" y="308" font-size="12" fill="#64748b">if something went wrong</text>
+    </g>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#b45309" stroke-width="2.5" fill="none">
+    <line x1="142" y1="130" x2="345" y2="130" marker-end="url(#fpA)"/>
+    <line x1="390" y1="130" x2="617" y2="130" marker-end="url(#fpA)"/>
+    <path d="M662,130 C740,130 740,242 665,242" marker-end="url(#fpA)"/>
+    <line x1="617" y1="242" x2="392" y2="242" marker-end="url(#fpA)"/>
+    <line x1="345" y1="242" x2="144" y2="242" marker-end="url(#fpA)"/>
+  </g>
+</svg>

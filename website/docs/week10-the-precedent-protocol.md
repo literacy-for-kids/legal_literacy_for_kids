@@ -164,7 +164,9 @@ For each one, ask:
 
 **3. Draw the arrows**
 
-Link the cases with arrows so the learner can see the ruling chain grow.
+Link the cases with arrows so the learner can see the ruling chain grow. Here is what a finished chain can look like:
+
+![A ruling chain: four connected cases where each decision leans on the one before it, and one case explains a difference](/img/diagrams/ruling-chain.svg)
 
 ---
 
