@@ -74,192 +74,175 @@ When learners see a rule, law, sign, announcement, policy, claim, news story, ca
 - What feels fair, unfair, confusing, or missing?
 - What should we ask or check?
 
-## Phase Checkpoint: Rules, Laws, and Community Systems
+## Checkpoint Timing and Scope
 
-### What this checkpoint is for
+Use the checkpoint after its listed lessons, or after those lessons in a flexible schedule. The prompts below assess taught core content; unrelated health, civic, media, or social topics and optional extensions are discussion opportunities, not advancement requirements. Accept drawings, speech, AAC, dictation, or model demonstrations.
 
-This checkpoint helps facilitators see whether learners can notice everyday rules, explain why groups make them, and identify who has authority in different settings. It is not a test. Learners may answer by talking, drawing, sorting cards, writing short notes, using AAC, or explaining their thinking to a partner.
+| After lessons | Unit |
+|---|---|
+| Weeks 1–3 | Why Rules Help |
+| Weeks 4–7 | Making Clear Deals |
+| Weeks 8–10 | Reading Rule Words |
+| Weeks 11–14 | Protecting People and Sharing Power |
+| Weeks 15–18 | Solving Disagreements Fairly |
 
-### Look-fors
+Fictional or supplied examples are sufficient; personal records and private experiences are never necessary to demonstrate a concept. Use a later or alternate check if a learner passes.
 
-- name rules in more than one setting
-- explain one purpose of a rule or law
-- notice who made the rule and who follows it
-- ask a fairness or confusion question
+### Shared Progress Scale
 
-### Checkpoint questions
+- **Beginning:** Needs the concept modeled with a concrete example.
+- **Developing:** Explains part of the mechanism with prompts.
+- **Secure:** Explains the core relationship using the selected accessible response format.
+- **Extending:** Applies it to a new example and names assumptions or limits.
 
-- Why do groups make rules?
-- Who made this rule, and who has to follow it?
-- What might happen if this rule disappeared?
+Use the phase-specific answer guidance below. Extension vocabulary, polished writing, and speed are not readiness criteria.
 
-### Ready to move on
+## Phase Checkpoint: Why Rules Help (Weeks 1–3)
 
-The learner can explain a rule's purpose and authority in simple language without treating every rule as automatically fair or unfair.
+### Lessons Assessed
 
-### Reteach moves
+- [Week 1: Why Groups Need Rules](./week01-why-rules-exist.md)
+- [Week 2: The Shared Stuff Problem](./week02-the-tragedy-of-the-commons.md)
+- [Week 3: Island Rules Challenge](./week03-the-island-boot.md)
 
-- Sort examples into home, school, library, online, and community settings.
-- Use a fictional playground, transit stop, or library example.
-- Ask learners to redraw a place with and without shared rules.
+### Evidence to Use
 
-### Checkpoint snapshot
+A shared-resource game reflection and fictional island rules.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Names rules across settings | Needs strong prompting to name a rule | Names rules in one setting | Names rules in several settings independently | Compares how different settings use different rules |
-| Explains purpose | Gives a rule only | Gives one reason with support | Explains safety, fairness, or organization clearly | Notices tradeoffs or competing purposes |
-| Notices authority | Does not yet identify who made the rule | Identifies authority with support | Explains who made it and who follows it | Compares authority across settings or systems |
+### Checkpoint Questions and Look-Fors
 
-## Phase Checkpoint: Rights, Responsibilities, Fairness, and Due Process
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 1 | What problem can a group rule solve? | Connect the rule to coordination, safety, or fairness rather than treating authority as the whole explanation. |
+| Week 2 | What happens when everyone takes from a shared pool without a workable rule? | Individual choices can deplete the shared stock; explain the game using actions and consequences. |
+| Week 3 | What belongs in a workable island rule? | A clear action, responsible role, and fair process for questions or change. Formal rights and due-process vocabulary come later. |
 
-### What this checkpoint is for
+### Ready to Move On
 
-This checkpoint helps facilitators see whether learners can explain basic rights and responsibilities, notice fairness questions, and describe why fair steps matter before serious consequences. It is not a test. Learners may answer by talking, drawing, sorting cards, writing short notes, using AAC, or explaining their thinking to a partner.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Look-fors
+### Reteach Moves
 
-- explain a right or responsibility in their own words
-- identify who is affected by a rule or decision
-- name at least one fairness question
-- explain why people should be heard before serious consequences
-- use a fictional example instead of private personal details
+Replay one shared-resource round, then write one specific fictional island rule and ask who it affects.
 
-### Checkpoint questions
+## Phase Checkpoint: Making Clear Deals (Weeks 4–7)
 
-- What right or responsibility might matter here?
-- Who is affected by this rule or decision?
-- What fair steps should happen before a consequence?
+### Lessons Assessed
 
-### Ready to move on
+- [Week 4: What Makes a Deal?](./week04-what-is-a-contract.md)
+- [Week 5: Clear Yes, New Offer](./week05-offer-and-acceptance.md)
+- [Week 6: What Each Person Gives](./week06-consideration.md)
+- [Week 7: Writing a Clear Household Agreement](./week07-the-chores-api.md)
 
-The learner can connect rights, responsibilities, and fair steps in one clear fictional or school-based scenario.
+### Evidence to Use
 
-### Reteach moves
+A fictional agreement with offer, acceptance, exchange, and clear tasks.
 
-- Sort cards into rule, law, right, responsibility, and consequence.
-- Use a fictional playground, library, or game example.
-- Model a fair-process conversation with a low-stakes scenario.
-- Have learners identify what information is missing before deciding.
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint snapshot
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 4 | What makes an agreement clearer than a vague wish? | People understand what is being agreed, who does what, and the relevant terms; formal legal enforceability is not assumed. |
+| Week 5 | If the answer changes the proposed terms, is it acceptance of that exact offer? | No; in the simplified lesson it is a new offer/counteroffer, which the other side can consider. |
+| Week 6 | What does each person promise or give in this fictional exchange? | Identify each side's contribution in the taught consideration model without claiming all real contracts work identically. |
+| Week 7 | Which part of the household-style agreement is too vague? | Name a fuzzy task, timing, or responsibility and rewrite it clearly using a fictional example. |
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Explains rights and responsibilities | Needs help naming the idea | Names a right or responsibility with support | Explains a right and responsibility clearly | Connects rights and responsibilities across settings |
-| Notices fairness | Gives a quick opinion only | Names one fairness concern with support | Explains who is affected and why fairness matters | Compares multiple perspectives or tradeoffs |
-| Uses fair process | Rushes to a consequence | Names one step with support | Explains fair steps before consequences | Applies fair process to a new scenario |
+### Ready to Move On
 
-## Phase Checkpoint: Legal Information, Evidence, and Source Checking
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### What this checkpoint is for
+### Reteach Moves
 
-This checkpoint helps facilitators see whether learners can slow down around legal or civic claims, identify evidence, and check whether a source is trustworthy enough for the task. The goal is careful thinking, not cynicism.
+Use offer-and-response cards and fill a fictional chores agreement. Do not assess courtroom procedure or formal rights before those units.
 
-### Look-fors
+## Phase Checkpoint: Reading Rule Words (Weeks 8–10)
 
-- identifies the main claim in a message
-- separates fact, opinion, feeling, question, and evidence more clearly
-- asks for another source or trusted adult before acting
-- notices when context may be missing
+### Lessons Assessed
 
-### Checkpoint questions
+- [Week 8: What the Rule Says vs. What the Rule Is For](./week08-letter-vs-intent.md)
+- [Week 9: Sneaky Gaps in Rules](./week09-loopholes.md)
+- [Week 10: The Ruling Chain](./week10-the-precedent-protocol.md)
 
-- What is the claim?
-- What evidence or example is shown?
-- What should we check before we trust or repeat this?
+### Evidence to Use
 
-### Ready to move on
+A literal-purpose comparison, loophole patch, and precedent chain.
 
-The learner can use the Legal Information Check on a rumor, flyer, post, or screenshot without jumping straight to belief or disbelief.
+### Checkpoint Questions and Look-Fors
 
-### Reteach moves
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 8 | How could a rule's wording and purpose point in different directions? | Explain a taught example and the tension, rather than inventing unlimited authority to ignore wording. |
+| Week 9 | What gap lets this fictional rule miss its purpose? | Identify the loophole and revise wording, checking for new unfair effects. |
+| Week 10 | How can an earlier ruling help with a similar case? | Compare relevant facts and reasons, and explain a similarity or difference; a precedent is not automatic proof of every new outcome. |
 
-- Compare a rumor with a school handbook or library notice.
-- Use two headlines about the same event and ask what each leaves out.
-- Practice checking a claim with a trusted adult or second source.
+### Ready to Move On
 
-### Checkpoint snapshot
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Identifies claims | Repeats the message without naming the claim | Names the claim with support | States the claim clearly | Distinguishes main claim from side details |
-| Uses evidence | Accepts a claim with little checking | Notices one example or source | Explains what evidence is shown and what is missing | Weighs multiple sources or conflicting evidence |
-| Checks sources | Relies on one source only | Suggests checking another source with support | Independently asks for another trusted source or adult | Explains why different sources may frame the issue differently |
+### Reteach Moves
 
-## Phase Checkpoint: Civil Discussion, Influence, and Community Decisions
+Return to one fictional rule, test two edge cases, and compare them to an earlier ruling. Advanced source-checking remains supplemental.
 
-### What this checkpoint is for
+## Phase Checkpoint: Protecting People and Sharing Power (Weeks 11–14)
 
-This checkpoint helps facilitators see whether learners can discuss disagreement respectfully, notice influence behind legal or civic messages, and think about who is affected by a community decision.
+### Lessons Assessed
 
-### Look-fors
+- [Week 11: Rights Are Shields](./week11-rights-as-firewalls.md)
+- [Week 12: Don't Put All the Power in One Person](./week12-checks-and-balances.md)
+- [Week 13: My Group Agreement (Micro-Charter)](./week13-the-micro-charter.md)
+- [Week 14: Try Tricky What-Ifs](./week14-stress-testing.md)
 
-- uses a sentence frame or respectful discussion move
-- asks who is affected or who might be missing
-- notices that messages may be shaped by goals, incentives, or audiences
-- compares more than one perspective without shaming people
+### Evidence to Use
 
-### Checkpoint questions
+A rights-shield example, power map, micro-charter, and stress test.
 
-- Who might be affected by this decision or message?
-- What does this message want people to think or do?
-- What other perspective or missing context should we consider?
+### Checkpoint Questions and Look-Fors
 
-### Ready to move on
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 11 | Why do rights still protect someone accused of breaking a rule? | Rights are protections, not prizes; consequences require fair treatment and should not erase basic dignity. |
+| Week 12 | What risk comes from putting every decision in one person's hands? | Explain a check or separation of roles that can limit misuse of power. |
+| Week 13 | What must a fictional group charter make clear? | Roles, rules, protections, and a way to decide or revise; explain how the parts work together. |
+| Week 14 | What tricky situation reveals a charter gap? | State a plausible edge case and a fair revision, without imposing the new wording retroactively. |
 
-The learner can explain a disagreement or decision using reasons, evidence, and at least one perspective beyond their own.
+### Ready to Move On
 
-### Reteach moves
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-- Practice sentence frames during a low-stakes discussion.
-- Compare two flyers, posters, or announcements with different audiences.
-- Ask learners to identify who benefits and who may be left out.
-- Use a fictional town or community-center decision before using real issues.
+### Reteach Moves
 
-### Checkpoint snapshot
+Use a small fictional club, split decision roles, and stress-test one charter provision before adding more rules.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Civil discussion | Interrupts or shuts down quickly | Uses one discussion move with support | Uses respectful discussion moves independently | Adjusts language thoughtfully when disagreement increases |
-| Notices influence | Takes the message at face value | Names one goal or audience with support | Explains who made the message and what it wants | Analyzes incentives, missing context, and likely effects |
-| Perspective taking | Focuses on one side only | Names another perspective with support | Explains more than one perspective or tradeoff | Compares several stakeholders or community needs |
+## Phase Checkpoint: Solving Disagreements Fairly (Weeks 15–18)
 
-## Phase Checkpoint: Legal Literacy and Civic Action Project
+### Lessons Assessed
 
-### What this checkpoint is for
+- [Week 15: How Fair Disagreements Get Settled](./week15-how-courts-work.md)
+- [Week 16: Everyone Gets a Fair Chance](./week16-due-process.md)
+- [Week 17: Run a Tiny Trial (Mock Trial)](./week17-the-mock-trial.md)
+- [Week 18: The Decision, the Second Look, and What You Built](./week18-verdict-and-reflection.md)
 
-This checkpoint helps facilitators see whether learners can bring the course together in a small project, presentation, poster, guide, message, or other shareable artifact. The focus is honest communication, age-appropriate accuracy, and reflection.
+### Evidence to Use
 
-### Look-fors
+A Missing Markers hearing record, reasoned ruling, and future rule update.
 
-- explains the issue, rule, right, responsibility, or policy clearly
-- identifies the audience and who is affected
-- uses at least one source, example, or piece of evidence
-- considers fairness, tradeoffs, or missing context
-- revises after feedback or reflection
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint questions
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 15 | What does a hearing or court-like process add to a disagreement? | Organized roles, evidence, reasons, and a decision; the classroom club is not a simulation of all real courts. |
+| Week 16 | What fair steps should happen before the decision? | Notice, access to the relevant evidence, a chance for both sides to respond, and a reasoned decision. |
+| Week 17 | In the supplied case, what supports the R1 and R2 findings separately? | Use Rule Card R and exhibits/witnesses; an empty tub later does not alone disprove a return, while the blank log and admission support a recording omission. |
+| Week 18 | When could a second look help, and how should a new rule apply? | Review a relevant process/evidence/rule problem; disliking an answer is not enough under the packet. Clarify future wording without retroactive application. |
 
-- What do you want your audience to understand, consider, or do?
-- What evidence or source supports your idea?
-- What fairness issue, tradeoff, or missing perspective should you name honestly?
+### Ready to Move On
 
-### Ready to move on
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-The learner can share a project that is clear, fair, attributed, and open to revision without exaggerating the issue.
+### Reteach Moves
 
-### Reteach moves
+Run the supplied packet in two-person or solo mode. Match each alleged breach to its own evidence and use the provided process-error variation for review.
 
-- Use the Honest Legal Literacy Project Checklist before sharing.
-- Ask the learner to add one source credit or one missing perspective.
-- Practice answering feedback questions with sentence frames.
-- Scale the project down to a school, library, club, or neighborhood example.
+## Optional Outreach Project
 
-### Checkpoint snapshot
-
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Project clarity | Topic is hard to follow | Topic is partly clear | Issue or concept is clear for the audience | Frames the issue clearly and precisely for a chosen audience |
-| Evidence and fairness | Claims are mostly unsupported | Adds an example or source with support | Uses evidence and names a fairness issue or tradeoff | Weighs evidence, tradeoffs, and missing context thoughtfully |
-| Reflection and revision | Resists revision or reflection | Revises with prompting | Revises after feedback and reflects honestly | Explains how feedback changed the project and next steps |
+A poster, guide, or civic action message can extend the course, but it does not replace the charter, hearing, ruling, and review skills above. Use the [project rubric](./resources/capstone-rubric.md) only when learners choose that additional format.

@@ -33,7 +33,7 @@ Run a low-stakes fictional trial where both sides get heard, evidence gets check
 
 ## Materials
 
-- optional [Mock Trial Packet](./resources/mock-trial-packet.md)
+- [Mock Trial Packet](./resources/mock-trial-packet.md)
 - optional [Written Ruling Template](./resources/written-ruling-template.md)
 - paper
 - pencil
@@ -42,7 +42,7 @@ Run a low-stakes fictional trial where both sides get heard, evidence gets check
 
 ## Quick 20-Minute Version
 
-1. Use a fictional case like **The Case of the Missing Markers**.
+1. Use the complete **Missing Markers** case in the [Mock Trial Packet](./resources/mock-trial-packet.md).
 2. Assign simple roles.
 3. Answer 4 questions: What happened? What rule matters? What evidence do we have? What is a fair answer?
 
@@ -63,7 +63,7 @@ Use low-stakes disputes only. Do not use bullying, abuse, trauma, humiliation, f
 :::info Facilitator Snapshot
 - This is not about winning. It is about running the process correctly.
 - Use a default fictional packet if needed so nobody has to bring a real conflict.
-- Good defaults: **The Case of the Missing Markers**, **The Case of the Shared Snack**, **The Case of the Broken Game Controller**.
+- Ready-to-run default: **The Missing Markers** case in the packet, with supplied rules, statements, witnesses, evidence, and answer notes.
 - End with a brief, low-pressure debrief about whether both sides were heard and whether the process felt fair.
 :::
 
@@ -79,14 +79,14 @@ Use low-stakes disputes only. Do not use bullying, abuse, trauma, humiliation, f
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Choose a fictional case.
+- Read the packet's Missing Markers case. Its rules are fictional teaching procedures, not real law.
 - Prepare role cards such as:
   - Judge
   - Person bringing the case
   - Person responding
   - Witness
   - Evidence keeper
-- If needed, print the [Mock Trial Packet](./resources/mock-trial-packet.md).
+- Print or display the packet; share all case materials with both sides before the hearing. No outside case preparation is required.
 :::
 
 :::tip Facilitation Mindset
@@ -178,21 +178,13 @@ By the end of this session, the student can:
 
 **1. Choose the case**
 
-Use one of these defaults if needed:
+Use the packet's **Missing Markers** case. Read its summary, Rule Card R, party cards, W1–W2, and E1–E5. The packet includes group, one-adult/one-learner, and solo formats.
 
-- **The Case of the Missing Markers**
-- **The Case of the Shared Snack**
-- **The Case of the Broken Game Controller**
+Optional invented cases need equally complete rules, accounts, and evidence; a title alone is not a playable case.
 
 **2. Assign the roles**
 
-Use role cards:
-
-- Judge
-- Person bringing the case
-- Person responding
-- Witness
-- Evidence keeper
+Use the supplied role cards: judge/panel, Morgan's speaker, Casey's speaker, witness reader, and evidence keeper. Learners may observe or use accessible response formats.
 
 If you have fewer people, one person may hold more than one role, or you can use the packet in solo mode.
 
@@ -202,7 +194,7 @@ Set up the room so everyone knows where to sit — a real courtroom looks like t
 
 **3. Gather the pieces**
 
-Ask:
+Use the supplied rule card and exhibits. Each side sees the same materials, including witness limits, with time to prepare. Ask:
 
 - What rule matters?
 - What facts are agreed on?
@@ -230,7 +222,7 @@ By the end of this session, the student can:
 
 **1. Follow the simple order**
 
-Use this child-friendly hearing order:
+Use the packet's hearing script and its fictional proof rule. Decide the return-location and return-record allegations separately. The child-friendly summary is:
 
 1. What happened?
 2. What rule matters?

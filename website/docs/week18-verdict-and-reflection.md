@@ -333,3 +333,7 @@ You learned how groups make rules, fix unfair rules, protect people, and solve d
 You built a charter. You tested it. You revised it. You practiced asking not only "What is the rule?" but also "Is it fair?" and "How could it work better?"
 
 That is serious legal thinking.
+
+## Default Case Review
+
+If you used the [Missing Markers packet](./resources/mock-trial-packet.md), revisit the separate R1 and R2 findings and its optional second-look process variation. Clarify the future return rule without applying the new wording retroactively. No real conflict or additional evidence needs to be invented.
