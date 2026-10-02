@@ -212,7 +212,7 @@ Teach this sentence:
 ## Guided Session 2
 
 :::tip Communication Moment
-A right works like a boundary, and a boundary only protects you if people can understand it. Say it plainly: "I'm not okay with ___" or "I need ___." Clear words make a limit easy to respect — nobody has to guess where the line is. (More on the [Communication Skills](./communication-skills.md) page.)
+Clear communication can help people understand a right or boundary. When it feels safe, try: "I'm not okay with ___" or "I need ___." Rights and boundaries do not depend on perfect words, a calm voice, or being able to act. Freezing or staying silent is not agreement. Other people are responsible for respecting the boundary, and adults must help protect children; a child does not have to make someone else comply. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 ### Choose Protected Promises for Your Group
 
@@ -324,6 +324,8 @@ After this week, check whether the learner can:
 1. **Explain a right in kid language:** "What is a right for?"
 2. **Sort a case:** "Is this a right or just a preference?"
 3. **Draft one:** "What protection should your group promise to keep?"
+
+**Boundary check:** "A fictional child freezes when someone takes their belongings without asking. Does their boundary still count? Who should help?" Look for: yes; silence is not agreement, the other person must respect the boundary, and an adult should help. Model this distinction again if the learner thinks protection depends on speaking clearly or staying calm.
 
 If the learner can do at least 2 of these, they are ready for Week 12.
 
