@@ -246,3 +246,7 @@ Run the supplied packet in two-person or solo mode. Match each alleged breach to
 ## Optional Outreach Project
 
 A poster, guide, or civic action message can extend the course, but it does not replace the charter, hearing, ruling, and review skills above. Use the [project rubric](./resources/capstone-rubric.md) only when learners choose that additional format.
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.

@@ -140,3 +140,13 @@ These definitions are for learning, not for courtroom use. Some words have more 
 Exact terminology and doctrine vary by jurisdiction. Some systems use precedent heavily. Some use it differently. Some use different names for proof standards. Some divide legal questions in different ways.
 
 The goal of this glossary is shared understanding, not technical completeness. If you need a real legal answer, use a real legal source in the relevant place.
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Allegation and finding** | An allegation is a claim to examine; a finding is a conclusion reached from the relevant rules and evidence through a fair process. | Weeks 15–17 |
+| **Proof standard** | The level of support required for a particular decision. State the fictional classroom standard explicitly; real standards vary. | Weeks 15–17 |
+| **Separate allegations** | Different alleged breaches can require different evidence and lead to different findings in the same case. | Week 17 |

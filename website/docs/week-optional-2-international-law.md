@@ -20,6 +20,24 @@ This lesson asks a strange and important question: how do rules work when there 
 
 That question leads into international law.
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After the core charter and review lessons: agreements, authority, and implementation.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — An invented river agreement:** Fictional countries North and South agree to exchange monthly water readings, give notice of changes, and use a joint review meeting for disputes. North misses one report. The packet contains no reason for the miss. Explain the first review question and why an agreement is not automatic enforcement.
+
+**Illustrative response and reasoning:** Ask what happened, what information is missing, and what the agreed review route permits. Do not assume bad intent from the miss. Agreement, monitoring, capacity, and enforcement are different parts; there is no universal world authority guaranteeing every treaty outcome.
+
+**Optional depth question:** Draft a notice and review step using the supplied terms. Research into real treaties or the UN needs adult-selected current primary sources, not guesses from this paper example.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Kid Hook
 
 Imagine a friend group where no one is officially in charge.

@@ -16,6 +16,24 @@ This optional lesson shows that not all legal cases ask the same question.
 
 Sometimes a case is about a rule broken against the community. Sometimes a case is about repairing harm done to a person.
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 15–18: claims, evidence, fair process, and review.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — One event, different legal questions:** A fictional event damages a fence. Card A describes an owner seeking compensation for repair; card B describes a public authority investigating whether a criminal rule was broken. Neither supplies a finding. Compare questions and participants.
+
+**Illustrative response and reasoning:** A asks about responsibility/remedy in a civil claim; B asks whether a criminal rule was violated under the applicable process. One event may raise more than one kind of issue, but a damaged fence alone proves neither result. Parties, proof rules, remedies, and procedure vary by jurisdiction.
+
+**Optional depth question:** Name evidence each inquiry might need without declaring guilt or liability from the same short story. Keep this a fictional classification, not advice about a real dispute.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Kid Hook
 
 Imagine one act causes two different problems.
